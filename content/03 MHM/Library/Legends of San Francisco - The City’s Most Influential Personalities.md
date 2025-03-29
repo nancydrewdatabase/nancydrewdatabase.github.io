@@ -9,7 +9,7 @@ tags:
 
 Chapter 5: LOCAL CELEBRITIES
 
-APPLEGATE, Lizzie
+[[Elizabeth Applegate | APPLEGATE, Lizzie]]
 
 Well-loved by San Franciscans, both for her cultural and humanitarian contributions, Lizzie Applegate was a talented actress and songwriter who began her career entertaining miners at local gold camps.
 

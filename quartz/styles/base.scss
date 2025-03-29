@@ -211,6 +211,7 @@ a {
       grid-area: grid-sidebar-right;
       margin-right: 0;
       flex-direction: column;
+      
       @media all and ($mobile) {
         margin-left: inherit;
         margin-right: inherit;
@@ -221,8 +222,10 @@ a {
         width: 100%;
         flex-direction: row;
         padding: 0;
+        flex-wrap: wrap;
         & > * {
           flex: 1;
+          min-width: 250px;
         }
         & > .toc {
           display: none;

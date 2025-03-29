@@ -3,6 +3,7 @@ game: "[[Message in a Haunted Mansion]]"
 environment: "[[Golden Gardenia Library Secret Passage]]"
 tags: 
   - light
+  - optional
 ---
 ## Prerequisites
 - 

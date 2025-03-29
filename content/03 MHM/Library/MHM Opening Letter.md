@@ -2,6 +2,7 @@
 game: "[[Message in a Haunted Mansion]]"
 tags: 
   - opening letter
+  - case file
 author: "[[Nancy Drew]]"
 ---
 ## Text

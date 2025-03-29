@@ -3,6 +3,7 @@ game: "[[Message in a Haunted Mansion]]"
 environment: "[[Golden Gardenia Basement Saloon]]"
 tags: 
   - tool
+  - optional
 ---
 ## Prerequisites
 - Access when Charlie isn't there

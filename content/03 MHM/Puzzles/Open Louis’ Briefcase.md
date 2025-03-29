@@ -13,3 +13,7 @@ tags:
 * Starting position is random, but the password is consistent
 ## Solution
 * 4653-4868
+## Reward
+- [[Through Our Own Voices - An Oral History Of Chinese Immigrants In California]]
+- [[Victorian Antiques]]
+- [[Argentine Appraisers Letter]]

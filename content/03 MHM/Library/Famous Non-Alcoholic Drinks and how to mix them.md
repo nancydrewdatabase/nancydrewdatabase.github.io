@@ -5,7 +5,6 @@ tags:
   - book
   - cookbook
 ---
-
 ## Text
 ### Minty Festival Punch
 This seasonal beverage is a sure-fire winner on cold, snowy nights.

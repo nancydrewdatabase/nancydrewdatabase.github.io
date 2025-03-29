@@ -4,11 +4,11 @@ tags:
   - puzzles
 ---
 
-<!-- QueryToSerialize: Table WITHOUT ID file.link as puzzle, environment, tags from "03 MHM/Puzzles" where !startswith(file.path, "03 MHM/Puzzles/Hanzi") sort file.link -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as puzzle, environment, tags from "03 MHM/Puzzles" where !startswith(file.path, "03 MHM/Puzzles/Hanzi") sort file.link -->
+<!-- QueryToSerialize: Table WITHOUT ID file.link as puzzle, environment, tags from "content/03 MHM/Puzzles" where !startswith(file.path, "content/03 MHM/Puzzles/Hanzi") sort file.link -->
+<!-- SerializedQuery: Table WITHOUT ID file.link as puzzle, environment, tags from "content/03 MHM/Puzzles" where !startswith(file.path, "content/03 MHM/Puzzles/Hanzi") sort file.link -->
 
-| puzzle                                                                                                 | environment                                                                                                 | tags                                                                                                  |
-| ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| puzzle                                                                                                         | environment                                                                                                         | tags                                                                                                  |
+| -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
 | [[Bird Tangram]]                                                       | [[Golden Gardenia Dining Room]]                         | <ul><li>chore</li><li>jigsaw</li><li>tangram</li></ul>                                                |
 | [[Chinese Zodiac Animals]]                                   | [[Chinese Room]]                                                       | <ul><li>lock combo</li><li>follow the formula</li></ul>                                               |
 | [[Enter Attic]]                                                         | [[Golden Gardenia Second Floor Hallway]]       | <ul><li>lock and key</li></ul>                                                                        |
@@ -24,6 +24,7 @@ tags:
 | [[Open Attic Desk]]                                                 | [[Golden Gardenia Attic]]                                     | <ul><li>lock and key</li><li>optional</li></ul>                                                       |
 | [[Open Louis’ Briefcase]]                                     | [[Golden Gardenia Library]]                                 | <ul><li>lock combo</li><li>random</li></ul>                                                           |
 | [[Phoenix Slider]]                                                   | [[Chinese Room]]                                                       | <ul><li>slider</li><li>junior/senior variant</li></ul>                                                |
+| [[Play The Bandit’s Treasure on Piano]]         | [[Golden Gardenia Basement Saloon]]                 | <ul><li>music</li><li>piano</li></ul>                                                                 |
 | [[Pyramid Missing Piece]]                                     | [[Chinese Room]]                                                       | <ul><li>something's missing</li><li>lock and key</li></ul>                                            |
 | [[Read Charlie’s Paper]]                                       | [[Golden Gardenia Basement Secret Passage]] | <ul><li>snoop</li><li>optional</li></ul>                                                              |
 | [[Scrape the Tiles]]                                               | [[Golden Gardenia Second Floor Hallway]]       | <ul><li>chore</li><li>fix the thing</li></ul>                                                         |
@@ -32,7 +33,6 @@ tags:
 | [[Stop the Culprit in the Haunted Mansion]] | [[Golden Gardenia Grand Staircase]]                 | <ul><li>stop the culprit</li><li>pull the lever</li><li>time restraint</li></ul>                      |
 | [[Sun and Moon]]                                                       | [[Chinese Room]]                                                       | <ul><li>lights out</li></ul>                                                                          |
 | [[Tapestry Poem]]                                                     | [[Chinese Room]]                                                       | <ul><li>translate</li><li>follow the formula</li><li>optional</li><li>junior/senior variant</li></ul> |
-| [[The Bandit’s Treasure Piano]]                         | [[Golden Gardenia Basement Saloon]]                 | <ul><li>music</li><li>piano</li></ul>                                                                 |
 | [[Translate “Gum Bo Fu”]]                                     | [[Golden Gardenia Library]]                                 | <ul><li>translate</li></ul>                                                                           |
 | [[Uncover the True Mansion Haunting]]             | [[Abby's Room]]                                                         | <ul><li>haunting uncovered</li><li>optional</li></ul>                                                 |
 <!-- SerializedQuery END -->

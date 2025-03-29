@@ -14,6 +14,8 @@ tags:
 ## Solution
 * B E G A G
 
-```music-abc
-B e G A G |
-```
+White keys visible when zoomed in
+
+| D   | E   | F   | G      | A   | B   | C   |
+| --- | --- | --- | ------ | --- | --- | --- |
+|     | 2   |     | 3<br>5 | 4   | 1   |     |

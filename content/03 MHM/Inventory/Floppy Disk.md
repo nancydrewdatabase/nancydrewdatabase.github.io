@@ -3,6 +3,7 @@ game: "[[Message in a Haunted Mansion]]"
 environment: "[[Golden Gardenia Basement Secret Passage]]"
 tags: 
   - tech
+  - optional
 ---
 ## Prerequisites
 - [[Enter Saloon Secret Passage]]

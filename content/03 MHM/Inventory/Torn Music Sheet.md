@@ -1,12 +1,12 @@
 ---
 game: "[[Message in a Haunted Mansion]]"
 environment: "[[Golden Gardenia Basement Saloon]]"
-tags: 
-  - paper
+tags:
+  - music
   - code
 ---
 ## Prerequisites
-- [[The Bandit’s Treasure Piano]]
+- [[Play The Bandit’s Treasure on Piano]]
 ## Location
 - From secret compartment in the piano
 ## Usage
