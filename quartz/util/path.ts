@@ -205,9 +205,9 @@ export function joinSegments(...args: string[]): string {
   }
 
   // if the last segment is a folder, add a trailing slash
-  if (args[args.length - 1].endsWith("/")) {
+  /*if (args[args.length - 1].endsWith("/")) {
     joined = joined + "/"
-  }
+  }*/
 
   return joined
 }
