@@ -1,5 +1,5 @@
 ---
-game: "[[Message in a Haunted Mansion]]"
+game: "[[03 MHM]]"
 environment: "[[Golden Gardenia Parlor]]"
 related: "[[Extinguish Parlor Fire]]"
 tags:

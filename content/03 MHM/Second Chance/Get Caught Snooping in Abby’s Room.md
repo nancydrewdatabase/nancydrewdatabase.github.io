@@ -1,7 +1,7 @@
 ---
-game: "[[Message in a Haunted Mansion]]"
+game: "[[03 MHM]]"
 environment: "[[Abby's Room]]"
-related: "[[Uncover the True Mansion Haunting]]" 
+related: "[[Uncover the True Mansion Haunting]]"
 tags:
   - caught snooping
   - out of time

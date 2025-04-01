@@ -359,6 +359,7 @@ export async function handleBuild(argv) {
 
       // strip baseDir prefix
       req.url = req.url?.slice(argv.baseDir.length)
+      req.url = req.url.replaceAll("/03-MHM/03-MHM", "/03-MHM")
 
       const serve = async () => {
         const release = await buildMutex.acquire()

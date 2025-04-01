@@ -1,7 +1,7 @@
 ---
-game: "[[Message in a Haunted Mansion]]"
+game: "[[03 MHM]]"
 environment: "[[Chinese Room]]"
-tags: 
+tags:
   - something's missing
   - lock and key
 ---

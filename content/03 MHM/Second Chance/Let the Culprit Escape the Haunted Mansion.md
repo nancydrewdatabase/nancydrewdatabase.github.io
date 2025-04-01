@@ -1,5 +1,5 @@
 ---
-game: "[[Message in a Haunted Mansion]]"
+game: "[[03 MHM]]"
 environment: "[[Golden Gardenia Entryway]]"
 related: "[[Stop the Culprit in the Haunted Mansion]]"
 tags:

@@ -1,7 +1,7 @@
 ---
-game: "[[Message in a Haunted Mansion]]"
+game: "[[03 MHM]]"
 environment: "[[Golden Gardenia Grand Staircase]]"
-tags: 
+tags:
   - key
 ---
 ## Prerequisites

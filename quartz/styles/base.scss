@@ -211,6 +211,9 @@ a {
       grid-area: grid-sidebar-right;
       margin-right: 0;
       flex-direction: column;
+      & > .toc {
+        display: none;
+      }
       
       @media all and ($mobile) {
         margin-left: inherit;

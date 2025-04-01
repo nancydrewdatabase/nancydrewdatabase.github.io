@@ -250,7 +250,6 @@ export function transformLink(src: FullSlug, target: string, opts: TransformOpti
         return (resolveRelative(src, targetSlug) + targetAnchor) as RelativeURL
       }
     }
-
     // if it's not unique, then it's the absolute path from the vault root
     return (joinSegments(pathToRoot(src), canonicalSlug) + folderTail) as RelativeURL
   }

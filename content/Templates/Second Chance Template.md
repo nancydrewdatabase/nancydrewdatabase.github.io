@@ -1,5 +1,5 @@
 ---
-game: "[[Message in a Haunted Mansion]]"
+game: 
 environment: 
 related puzzle: 
 tags:

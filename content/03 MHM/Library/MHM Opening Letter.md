@@ -1,6 +1,6 @@
 ---
-game: "[[Message in a Haunted Mansion]]"
-tags: 
+game: "[[03 MHM]]"
+tags:
   - opening letter
   - case file
 author: "[[Nancy Drew]]"
