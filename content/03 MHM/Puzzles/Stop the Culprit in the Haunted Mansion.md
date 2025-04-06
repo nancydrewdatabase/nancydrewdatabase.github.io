@@ -2,9 +2,9 @@
 game: "[[03 MHM]]"
 environment: "[[Golden Gardenia Grand Staircase]]"
 tags:
-  - stop the culprit
-  - pull the lever
-  - time restraint
+  - stop-the-culprit
+  - pull-the-lever
+  - time-restraint
 ---
 ## Prerequisites
 * [[Find Golden Gardenia Treasure]]

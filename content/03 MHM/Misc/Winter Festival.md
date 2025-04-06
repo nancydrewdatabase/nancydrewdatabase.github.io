@@ -2,7 +2,7 @@
 game: "[[03 MHM]]"
 environment: "[[Golden Gardenia Dining Room]]"
 tags:
-  - suspects leave
+  - suspects-leave
 ---
 
 ## Prerequisites

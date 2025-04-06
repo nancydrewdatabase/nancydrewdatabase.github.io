@@ -3,9 +3,9 @@ game: "[[03 MHM]]"
 environment: "[[Chinese Room]]"
 tags:
   - translate
-  - follow the formula
+  - follow-the-formula
   - optional
-  - junior/senior variant
+  - junior-senior-variant
 ---
 ## Clues
 

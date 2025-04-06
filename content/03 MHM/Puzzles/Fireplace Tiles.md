@@ -2,8 +2,8 @@
 game: "[[03 MHM]]"
 environment: "[[Golden Gardenia Library]]"
 tags:
-  - something's missing
-  - match the pattern
+  - something's-missing
+  - match-the-pattern
 ---
 ## Prerequisites
 - [[Library Tile]]

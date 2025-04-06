@@ -2,7 +2,7 @@
 game: "[[03 MHM]]"
 environment: "[[Chinese Room]]"
 tags:
-  - lights out
+  - lights-out
 ---
 ## Prerequisites
 * [[Pyramid Missing Piece]]

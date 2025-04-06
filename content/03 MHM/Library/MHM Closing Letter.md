@@ -1,8 +1,8 @@
 ---
 game: "[[03 MHM]]"
 tags:
-  - closing letter
-  - case file
+  - closing-letter
+  - case-file
 author: "[[Nancy Drew]]"
 ---
 ## Text

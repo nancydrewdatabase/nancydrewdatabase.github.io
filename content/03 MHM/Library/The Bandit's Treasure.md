@@ -3,7 +3,6 @@ game: "[[03 MHM]]"
 environment: "[[Golden Gardenia Attic]]"
 tags:
   - music
-  - sheet music
 ---
 ## Text
 

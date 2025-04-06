@@ -2,8 +2,8 @@
 game: "[[03 MHM]]"
 environment: "[[Golden Gardenia Entryway]]"
 tags:
-  - something's missing
-  - use tool
+  - something's-missing
+  - use-tool
 ---
 ## Prerequisites
 * [[Crowbar]]

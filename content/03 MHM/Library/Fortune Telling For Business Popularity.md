@@ -3,6 +3,6 @@ game: "[[03 MHM]]"
 environment: "[[Abby's Room]]"
 tags:
   - book
-  - cover only
+  - cover-only
 author: Agatha Eckhardt
 ---

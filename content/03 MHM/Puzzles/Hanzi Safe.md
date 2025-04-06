@@ -2,8 +2,8 @@
 game: "[[03 MHM]]"
 environment: "[[Chinese Room]]"
 tags:
-  - lock combo
-  - locker combo
+  - lock-combo
+  - locker-combo
 ---
 ## Prerequisites
 * [[Chinese Zodiac Animals]]

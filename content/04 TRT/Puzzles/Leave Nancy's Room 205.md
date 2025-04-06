@@ -1,8 +1,10 @@
 ---
-game: "[[Treasure in a Royal Tower]]"
+game: "[[04 TRT]]"
 environment: "[[Nancy's Room 205]]"
 tags: 
-  - Nancy's room
+  - nancy's-room
+  - bedroom
+  - hotel-room
 ---
 ## Prerequisites
 * [[Nancy's Room Key 205]]

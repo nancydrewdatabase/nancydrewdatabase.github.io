@@ -3,8 +3,8 @@ game: "[[03 MHM]]"
 environment: "[[Golden Gardenia Grand Staircase]]"
 tags:
   - algorithmic
-  - chain reaction
-  - junior/senior variant
+  - chain-reaction
+  - junior-senior-variant
 ---
 ## Clues
 * [[The Bandit's Treasure]] and [[Torn Music Sheet]]

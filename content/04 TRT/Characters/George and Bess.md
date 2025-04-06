@@ -1,7 +1,7 @@
 ---
-game: "[[Treasure in a Royal Tower]]"
+game: "[[04 TRT]]"
 tags: 
-  - phone contact
+  - phone-contact
 phone: 1-523-555-4468
 related:  
   - "[[George Fayne]]"

@@ -2,8 +2,8 @@
 game: "[[03 MHM]]"
 environment: "[[Chinese Room]]"
 tags:
-  - lock combo
-  - follow the formula
+  - lock-combo
+  - follow-the-formula
 ---
 ## Prerequisites
 * Talk to [[Rose Green]] when she mentions the [[Winter Festival]]

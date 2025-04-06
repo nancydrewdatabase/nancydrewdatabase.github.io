@@ -1,9 +1,9 @@
 ---
-game: "[[Treasure in a Royal Tower]]"
+game: "[[04 TRT]]"
 environment: 
 tags: 
   - chore
-  - fetch quest
+  - fetch-quest
 ---
 ## Prerequisites
 * [[Fix Lights in Stairway]]

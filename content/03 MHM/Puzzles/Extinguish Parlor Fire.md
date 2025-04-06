@@ -3,7 +3,7 @@ game: "[[03 MHM]]"
 environment: "[[Golden Gardenia Parlor]]"
 tags:
   - fire
-  - time restraint
+  - time-restraint
   - optional
 ---
 ## Prerequisites

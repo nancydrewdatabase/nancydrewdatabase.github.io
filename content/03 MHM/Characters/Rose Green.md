@@ -5,5 +5,5 @@ aliases:
   - Rose
 tags:
   - suspect
-  - friend of a friend
+  - friend-of-a-friend
 ---

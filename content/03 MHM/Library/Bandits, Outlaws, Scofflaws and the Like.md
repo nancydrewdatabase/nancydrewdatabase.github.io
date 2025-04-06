@@ -3,7 +3,7 @@ game: "[[03 MHM]]"
 environment: "[[Golden Gardenia Basement Secret Passage]]"
 tags:
   - book
-  - no cover
+  - no-cover
 ---
 ## Text
 ### [[Diego Valdez |El Diablo]]

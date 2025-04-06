@@ -1,5 +1,5 @@
 ---
-game: "[[Message in a Haunted Mansion]]"
+game: "[[03 MHM]]"
 tags: 
   - misc
 ---
@@ -11,5 +11,5 @@ tags:
 | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | -------------------------------- |
 | [[Leave the Mansion Now!]] | [[Chinese Room]]                                       | <ul><li>letter</li></ul>         |
 | [[Séance]]                                 | [[Golden Gardenia Basement Saloon]] | <ul><li>cutscene</li></ul>       |
-| [[Winter Festival]]               | [[Golden Gardenia Dining Room]]         | <ul><li>suspects leave</li></ul> |
+| [[Winter Festival]]               | [[Golden Gardenia Dining Room]]         | <ul><li>suspects-leave</li></ul> |
 <!-- SerializedQuery END -->

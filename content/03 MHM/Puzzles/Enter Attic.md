@@ -2,7 +2,7 @@
 game: "[[03 MHM]]"
 environment: "[[Golden Gardenia Second Floor Hallway]]"
 tags:
-  - lock and key
+  - lock-and-key
 ---
 ## Prerequisites
 * [[Scrape the Tiles]]

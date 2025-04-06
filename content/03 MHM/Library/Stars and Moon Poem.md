@@ -3,7 +3,7 @@ game: "[[03 MHM]]"
 environment: "[[Golden Gardenia Grand Staircase]]"
 tags:
   - letter
-  - junior/senior variant
+  - junior-senior-variant
 author: "[[Elizabeth Applegate]]"
 ---
 ## Text

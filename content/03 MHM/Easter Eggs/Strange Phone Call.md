@@ -2,8 +2,8 @@
 game: "[[03 MHM]]"
 environment: "[[Golden Gardenia Parlor]]"
 tags:
-  - weird sounds
-  - phone call
+  - weird-sounds
+  - phone-call
 ---
 ## Prerequisites
 - Happens randomly around 3pm

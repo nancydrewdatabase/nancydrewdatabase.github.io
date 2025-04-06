@@ -2,7 +2,7 @@
 game: "[[03 MHM]]"
 environment: "[[Golden Gardenia Attic]]"
 tags:
-  - lock and key
+  - lock-and-key
   - optional
 ---
 ## Prerequisites

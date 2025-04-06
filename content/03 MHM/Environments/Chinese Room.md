@@ -1,7 +1,7 @@
 ---
 game: "[[03 MHM]]"
 tags:
-  - nancy's room
+  - nancy's-room
   - bedroom
 ---
 ## Inventory
@@ -21,12 +21,12 @@ tags:
 
 | puzzle                                                                       | tags                                                                                                  |
 | ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| [[Tapestry Poem]]                   | <ul><li>translate</li><li>follow the formula</li><li>optional</li><li>junior/senior variant</li></ul> |
+| [[Tapestry Poem]]                   | <ul><li>translate</li><li>follow-the-formula</li><li>optional</li><li>junior-senior-variant</li></ul> |
 | [[女 Daughters]]                 | <ul><li>statue</li></ul>                                                                              |
-| [[Pyramid Missing Piece]]   | <ul><li>something's missing</li><li>lock and key</li></ul>                                            |
-| [[Phoenix Slider]]                 | <ul><li>slider</li><li>junior/senior variant</li></ul>                                                |
-| [[Hanzi Safe]]                         | <ul><li>lock combo</li><li>locker combo</li></ul>                                                     |
-| [[Chinese Zodiac Animals]] | <ul><li>lock combo</li><li>follow the formula</li></ul>                                               |
+| [[Pyramid Missing Piece]]   | <ul><li>something's-missing</li><li>lock-and-key</li></ul>                                            |
+| [[Phoenix Slider]]                 | <ul><li>slider</li><li>junior-senior-variant</li></ul>                                                |
+| [[Hanzi Safe]]                         | <ul><li>lock-combo</li><li>locker-combo</li></ul>                                                     |
+| [[Chinese Zodiac Animals]] | <ul><li>lock-combo</li><li>follow-the-formula</li></ul>                                               |
 | [[Sun and Moon]]                     | <ul><li>lights out</li></ul>                                                                          |
 | [[金 Gold]]                           | <ul><li>letter</li></ul>                                                                              |
 <!-- SerializedQuery END -->

@@ -2,7 +2,7 @@
 game: "[[03 MHM]]"
 environment: "[[Golden Gardenia Basement Saloon]]"
 tags:
-  - use tool
+  - use-tool
   - optional
 ---
 ## Prerequisites

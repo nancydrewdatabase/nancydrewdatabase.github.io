@@ -1,8 +1,8 @@
 ---
-game: "[[Treasure in a Royal Tower]]"
+game: "[[04 TRT]]"
 environment: 
 tags: 
-  - 
+  - vents
 ---
 ## Prerequisites
 * Set [[Wickford Elevator]] to [[Wickford Basement]]

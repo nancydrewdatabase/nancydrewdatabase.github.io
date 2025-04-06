@@ -1,5 +1,5 @@
 ---
-game: "[[Treasure in a Royal Tower]]"
+game: "[[04 TRT]]"
 environment: 
   - "[[Room 214]]"
   - "[[Wickford Sitting Room]]"

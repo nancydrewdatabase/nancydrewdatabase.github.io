@@ -1,10 +1,10 @@
 ---
-game: "[[Treasure in a Royal Tower]]"
+game: "[[04 TRT]]"
 environment: "[[Wickford Elevator]]"
 tags: 
   - optional
   - elevator
-  - find the exit
+  - find-the-exit
 ---
 ## Prerequisites
 * Talk to all suspects

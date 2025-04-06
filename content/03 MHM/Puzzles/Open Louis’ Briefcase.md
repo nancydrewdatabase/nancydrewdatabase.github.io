@@ -2,7 +2,7 @@
 game: "[[03 MHM]]"
 environment: "[[Golden Gardenia Library]]"
 tags:
-  - lock combo
+  - lock-combo
   - random
 ---
 ## Prerequisites

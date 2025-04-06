@@ -1,9 +1,9 @@
 ---
-game: "[[Treasure in a Royal Tower]]"
+game: "[[04 TRT]]"
 environment: "[[Ski Shop]]"
 tags: 
   - chore
-  - fetch quest
+  - fetch-quest
 ---
 ## Prerequisites
 * [[Leave Nancy's Room 205]]

@@ -1,6 +1,8 @@
 ---
-game: "[[Treasure in a Royal Tower]]"
+game: "[[04 TRT]]"
 environment: "[[Wickford Sitting Room]]"
+aliases:
+  - Lisa
 tags: 
   - suspect
   - culprit

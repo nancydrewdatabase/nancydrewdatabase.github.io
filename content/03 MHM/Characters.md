@@ -1,5 +1,5 @@
 ---
-game: "[[Message in a Haunted Mansion]]"
+game: "[[03 MHM]]"
 tags: 
   - characters
 ---
@@ -12,8 +12,8 @@ tags:
 | --------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
 | [[Rose Green]]         | [[Golden Gardenia Dining Room]]         |
 | [[Louis Chandler]] | [[Golden Gardenia Library]]                 |
-| [[Abby Sideris]]     | [[Abby's Room]]                                         |
 | [[Charlie Murphy]] | [[Golden Gardenia Basement Saloon]] |
+| [[Abby Sideris]]     | [[Abby's Room]]                                         |
 <!-- SerializedQuery END -->
 
 ## Phone Contacts

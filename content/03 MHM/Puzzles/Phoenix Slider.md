@@ -3,7 +3,7 @@ game: "[[03 MHM]]"
 environment: "[[Chinese Room]]"
 tags:
   - slider
-  - junior/senior variant
+  - junior-senior-variant
 ---
 ## Prerequisites
 * [[Sun and Moon]]
@@ -13,7 +13,7 @@ tags:
 - Backing out won’t reset the puzzle. So if you are following a solution, it must be from the beginning or you’re on your own
 ## Solution
 
-### Junior Option 1[^1]
+### Junior Solution 1[^1]
 **U = Up, D = Down, R = Right, L = Left**
 
 - URURDL
@@ -25,7 +25,7 @@ tags:
 - RUULDD
 - RULURDDL
 
-### Junior Option 2[^2]
+### Junior Solution 2[^2]
 **1 2 3**
 
 **4 5 6**
@@ -41,7 +41,7 @@ Got it? Good.
 - 8-5-6-3-2-5-6-3-2-5
 - 4-1-2-5-8-7-4-1-2-3
 
-### Senior [^1]
+### Senior Solution[^1]
 **U = Up, D = Down, R = Right, L = Left**
 
 - URUULDDRURU
@@ -57,6 +57,9 @@ Got it? Good.
 - UULDDRULURD
 - DLURULDRDLU
 - URDLDD
+
+## Reward
+-  [[Ruby]]
 
 [^1]: https://calinaherman.com/phoenix-slider-puzzle/
 

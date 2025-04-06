@@ -2,7 +2,7 @@
 game: 
 tags: 
   - friend
-  - phone contact
-  - playable character
+  - phone-contact
+  - playable-character
 phone: 
 ---

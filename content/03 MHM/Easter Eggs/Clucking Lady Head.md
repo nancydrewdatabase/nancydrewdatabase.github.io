@@ -2,7 +2,7 @@
 game: "[[03 MHM]]"
 environment: "[[Golden Gardenia Attic]]"
 tags:
-  - weird sounds
+  - weird-sounds
 ---
 ## Prerequisites
 - [[Ruby]]

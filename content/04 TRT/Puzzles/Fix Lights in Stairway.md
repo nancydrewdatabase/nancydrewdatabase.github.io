@@ -1,9 +1,9 @@
 ---
-game: "[[Treasure in a Royal Tower]]"
+game: "[[04 TRT]]"
 environment: 
 tags: 
   - chore
-  - fix the thing
+  - fix-the-thing
 ---
 ## Prerequisites
 * [[Leave Nancy's Room 205]]

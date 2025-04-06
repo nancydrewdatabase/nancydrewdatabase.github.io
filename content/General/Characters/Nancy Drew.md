@@ -1,4 +1,4 @@
 ---
 tags: 
-  - playable character
+  - playable-character
 ---

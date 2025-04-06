@@ -1,9 +1,9 @@
 ---
-game: "[[Treasure in a Royal Tower]]"
+game: "[[04 TRT]]"
 environment: "[[Hotchkiss' Room 214]]"
 tags: 
-  - question and answer
-  - keyboard required
+  - question-and-answer
+  - keyboard-required
 ---
 ## Prerequisites
 * [[Order Dinner for Hotchkiss]]
@@ -15,4 +15,4 @@ tags:
 * Hotchkiss won’t repeat the question, but you can ask to get a new one
 - Type the answer, then press enter
 ## Solution
-* 
+

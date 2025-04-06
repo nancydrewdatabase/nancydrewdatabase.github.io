@@ -2,9 +2,9 @@
 game: "[[03 MHM]]"
 environment: "[[Abby's Room]]"
 tags:
-  - lock and key
+  - lock-and-key
   - snoop
-  - something's missing
+  - something's-missing
   - optional
 ---
 ## Prerequisites

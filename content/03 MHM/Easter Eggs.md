@@ -1,7 +1,7 @@
 ---
-game: "[[Message in a Haunted Mansion]]"
+game: "[[03 MHM]]"
 tags: 
-  - easter eggs
+  - easter-eggs
 ---
 
 <!-- QueryToSerialize: Table WITHOUT ID file.link as "easter eggs", environment, tags from "content/03 MHM/Easter Eggs" sort tags -->
@@ -9,6 +9,6 @@ tags:
 
 | easter eggs                                                              | environment                                                                       | tags                                              |
 | ------------------------------------------------------------------------ | --------------------------------------------------------------------------------- | ------------------------------------------------- |
-| [[Clucking Lady Head]] | [[Golden Gardenia Attic]]   | <ul><li>weird sounds</li></ul>                    |
-| [[Strange Phone Call]] | [[Golden Gardenia Parlor]] | <ul><li>weird sounds</li><li>phone call</li></ul> |
+| [[Clucking Lady Head]] | [[Golden Gardenia Attic]]   | <ul><li>weird-sounds</li></ul>                    |
+| [[Strange Phone Call]] | [[Golden Gardenia Parlor]] | <ul><li>weird-sounds</li><li>phone-call</li></ul> |
 <!-- SerializedQuery END -->

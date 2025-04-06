@@ -1,10 +1,10 @@
 ---
-game: "[[Treasure in a Royal Tower]]"
+game: "[[04 TRT]]"
 environment: 
 tags: 
-  - lock and key
-  - lock combo
-  - smudge attack
+  - lock-and-key
+  - lock-combo
+  - smudge-attack
 ---
 ## Prerequisites
 * [[Enter Wickford Library (Through the Vents)]]

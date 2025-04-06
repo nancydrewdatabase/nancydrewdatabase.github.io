@@ -3,7 +3,7 @@ game: "[[03 MHM]]"
 environment: "[[Golden Gardenia Second Floor Hallway]]"
 tags:
   - chore
-  - fix the thing
+  - fix-the-thing
 ---
 ## Prerequisites
 * [[Bird Tangram]] and talk to [[Rose Green]]

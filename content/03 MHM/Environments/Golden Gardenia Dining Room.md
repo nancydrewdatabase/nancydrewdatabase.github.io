@@ -1,7 +1,7 @@
 ---
 game: "[[03 MHM]]"
 tags:
-  - dining room
+  - dining-room
 ---
 ## Characters
 <!-- QueryToSerialize: Table WITHOUT ID file.link as characters, tags from "content/03 MHM/Characters" where contains(environment,  [[]]) -->
@@ -9,7 +9,7 @@ tags:
 
 | characters                                              | tags                                                 |
 | ------------------------------------------------------- | ---------------------------------------------------- |
-| [[Rose Green]] | <ul><li>suspect</li><li>friend of a friend</li></ul> |
+| [[Rose Green]] | <ul><li>suspect</li><li>friend-of-a-friend</li></ul> |
 <!-- SerializedQuery END -->
 
 ## Puzzle
