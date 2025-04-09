@@ -3,7 +3,6 @@ game: "[[03 MHM]]"
 tags: 
   - second-chance
 ---
-
 <!-- QueryToSerialize: Table WITHOUT ID file.link as "second chance", environment, related, tags from "content/03 MHM/Second Chance" -->
 <!-- SerializedQuery: Table WITHOUT ID file.link as "second chance", environment, related, tags from "content/03 MHM/Second Chance" -->
 

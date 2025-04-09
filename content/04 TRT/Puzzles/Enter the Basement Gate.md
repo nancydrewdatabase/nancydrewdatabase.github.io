@@ -8,4 +8,4 @@ tags:
 * [[Basement Gate Key]]
 * [[Open Jacques' Locker]]
 ## Solution
-* Use [[Basement Gate Key]] to unlock
+* Use [[Basement Gate Key]] to unlock 

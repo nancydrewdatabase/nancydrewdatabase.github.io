@@ -3,7 +3,6 @@ game: "[[03 MHM]]"
 tags: 
   - easter-eggs
 ---
-
 <!-- QueryToSerialize: Table WITHOUT ID file.link as "easter eggs", environment, tags from "content/03 MHM/Easter Eggs" sort tags -->
 <!-- SerializedQuery: Table WITHOUT ID file.link as "easter eggs", environment, tags from "content/03 MHM/Easter Eggs" sort tags -->
 

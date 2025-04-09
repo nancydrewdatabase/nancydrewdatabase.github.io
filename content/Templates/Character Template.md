@@ -1,23 +1,25 @@
 ---
 game: "[[04 TRT]]"
-environment: 
 tags: 
-  - 
+  - characters
 ---
 
 ## Suspects
-<!-- QueryToSerialize: TABLE WITHOUT ID file.link as character, environment from "03 MHM/Characters" where contains(tags, "suspect") sort tags desc -->
-<!-- SerializedQuery: TABLE WITHOUT ID file.link as character, environment from "03 MHM/Characters" where contains(tags, "suspect") sort tags desc -->
+<!-- QueryToSerialize: TABLE WITHOUT ID file.link as character, environment from "content/04 TRT/Characters" where contains(tags, "suspect") sort tags desc -->
+<!-- SerializedQuery: TABLE WITHOUT ID file.link as character, environment from "content/04 TRT/Characters" where contains(tags, "suspect") sort tags desc -->
 
-| character | environment |
-| --------- | ----------- |
+| character                                                         | environment                                      |
+| ----------------------------------------------------------------- | ------------------------------------------------ |
+| [[Dexter Egan]]         | [[Wickford Lobby]]               |
+| [[Lisa Ostrum]]         | [[Wickford Sitting Room]] |
+| [[Jacques Brunais]] | [[Ski Shop]]                           |
 <!-- SerializedQuery END -->
 
 <!-- SerializedQuery END -->
 
 ## Phone Contacts
-<!-- QueryToSerialize: TABLE WITHOUT ID file.link as character, phone from "03 MHM/Characters" where contains(tags, "phone") sort tags desc -->
-<!-- SerializedQuery: TABLE WITHOUT ID file.link as character, phone from "03 MHM/Characters" where contains(tags, "phone") sort tags desc -->
+<!-- QueryToSerialize: TABLE WITHOUT ID file.link as character, phone from "content/04 TRT/Characters" where contains(tags, "phone") sort tags desc -->
+<!-- SerializedQuery: TABLE WITHOUT ID file.link as character, phone from "04 TRT/Characters" where contains(tags, "phone") sort tags desc -->
 
 | character | phone |
 | --------- | ----- |
@@ -27,11 +29,9 @@ tags:
 
 
 ## Mentions
-<!-- QueryToSerialize: TABLE WITHOUT ID file.link as character, tags from "03 MHM/Characters" where contains(tags, "mention") sort tags desc -->
-<!-- SerializedQuery: TABLE WITHOUT ID file.link as character, tags from "03 MHM/Characters" where contains(tags, "mention") sort tags desc -->
+<!-- QueryToSerialize: TABLE WITHOUT ID file.link as character, tags from "content/04 TRT/Characters" where contains(tags, "mention") sort tags desc -->
+<!-- SerializedQuery: TABLE WITHOUT ID file.link as character, tags from "04 TRT/Characters" where contains(tags, "mention") sort tags desc -->
 
 | character | tags |
 | --------- | ---- |
-<!-- SerializedQuery END -->
-
 <!-- SerializedQuery END -->

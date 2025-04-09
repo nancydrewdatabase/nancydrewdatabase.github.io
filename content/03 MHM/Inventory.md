@@ -3,7 +3,6 @@ game: "[[03 MHM]]"
 tags: 
   - inventory
 ---
-
 <!-- QueryToSerialize: Table WITHOUT ID file.link as item, environment, tags from "content/03 MHM/Inventory" -->
 <!-- SerializedQuery: Table WITHOUT ID file.link as item, environment, tags from "content/03 MHM/Inventory" -->
 

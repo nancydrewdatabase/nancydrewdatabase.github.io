@@ -1,5 +1,5 @@
 ---
-game: "[[03 MHM]]"
+game: [[03 MHM]]
 environment: "[[Abby's Room]]"
 aliases:
   - Abby

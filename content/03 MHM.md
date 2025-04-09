@@ -11,5 +11,5 @@ location: San Francisco, California
 - [[Library]]
 - [[Environments]]
 - [[Second Chance]]
-- [[Easter Eggs]]
+- [[content/03 MHM/Easter Eggs|Easter Eggs]]
 - [[Misc]]

@@ -7,5 +7,5 @@ aliases:
   - "Professor Beatrice Gertrude Winifred Hotchkiss"
   - "Professor Hotchkiss"
 tags: 
-  - Suspect
+  - suspect
 ---
