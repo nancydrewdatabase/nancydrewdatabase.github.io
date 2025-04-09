@@ -63,6 +63,7 @@ export const FrontMatter: QuartzTransformerPlugin<Partial<Options>> = (userOpts)
         () => {
           return (_, file) => {
             const fileData = Buffer.from(file.value as Uint8Array)
+            
             const { data } = matter(fileData, {
               ...opts,
               engines: {
@@ -77,6 +78,7 @@ export const FrontMatter: QuartzTransformerPlugin<Partial<Options>> = (userOpts)
               data.title = file.stem ?? i18n(cfg.configuration.locale).propertyDefaults.title
             }
 
+            (file.data as any).frontmatterRaw = structuredClone(data)
             const tags = coerceToArray(coalesceAliases(data, ["tags", "tag"]))
             if (tags) data.tags = [...new Set(tags.map((tag: string) => slugTag(tag)))]
 
@@ -148,5 +150,6 @@ declare module "vfile" {
         socialImage: string
         comments: boolean | string
       }>
+    readonly frontmatterRaw: { readonly [key: string]: Readonly<any> }
   }
 }

@@ -432,7 +432,7 @@ export async function handleBuild(argv) {
         // does /regular/index.html exist? if so, redirect to /regular/
         let indexFp = path.posix.join(fp, "index.html")
         if (fs.existsSync(path.posix.join(argv.output, indexFp))) {
-          return redirect(fp + "/")
+          return redirect(fp)
         }
       }
 

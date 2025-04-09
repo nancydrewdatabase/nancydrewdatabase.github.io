@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "nancydrewdatabase.github.io",
     ignorePatterns: ["private", "templates", "Templates", ".obsidian", "04 TRT", "General"],
     defaultDateType: "modified",
     theme: {
