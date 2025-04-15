@@ -2,6 +2,7 @@
 game: "[[03 MHM]]"
 environment: "[[Golden Gardenia Library Secret Passage]]"
 tags:
+  - mhm
   - snoop
   - time-sensitive
 ---

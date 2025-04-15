@@ -1,6 +1,6 @@
 ---
 game: "[[04 TRT]]"
-environment: 
+environment: "[[Hotchkiss' Room 214]]"
 tags: 
   - chore
   - fetch-quest
@@ -10,7 +10,7 @@ tags:
 - Talk to [[Dexter Egan]]
 - [[Wickford Castle Menu]]
 ## Solution
-* Ask [[Beatrice Hotchkiss|Professor Hotchkiss]] what she wants for dinner
+* Ask [[Professor Hotchkiss|Professor Hotchkiss]] what she wants for dinner
 - Tell [[Dexter Egan]] Hotchkiss wants Couscous
 - Tell Hotchkiss to order off the menu
 - Get [[Wickford Castle Menu]]

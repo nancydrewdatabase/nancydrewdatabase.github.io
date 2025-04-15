@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "nancydrewdatabase.github.io",
-    ignorePatterns: ["private", "templates", "Templates", ".obsidian", "04 TRT", "General"],
+    ignorePatterns: ["private", "templates", "Templates", ".obsidian", "General", "External", "About"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",

@@ -1,15 +1,19 @@
 ---
 game: "[[03 MHM]]"
+title: Misc
+aliases:
+  - MHM Misc
 tags: 
+  - mhm
   - misc
 ---
 
-<!-- QueryToSerialize: Table WITHOUT ID file.link as item, environment, tags from "content/03 MHM/Misc" -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as item, environment, tags from "content/03 MHM/Misc" -->
+<!-- QueryToSerialize: Table WITHOUT ID file.link as item, environment from "content/03 MHM/Misc" -->
+<!-- SerializedQuery: Table WITHOUT ID file.link as item, environment from "content/03 MHM/Misc" -->
 
-| item                                                                      | environment                                                                                         | tags                             |
-| ------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | -------------------------------- |
-| [[Leave the Mansion Now!]] | [[Chinese Room]]                                       | <ul><li>letter</li></ul>         |
-| [[Séance]]                                 | [[Golden Gardenia Basement Saloon]] | <ul><li>cutscene</li></ul>       |
-| [[Winter Festival]]               | [[Golden Gardenia Dining Room]]         | <ul><li>suspects-leave</li></ul> |
+| item                                                                      | environment                                                                                         |
+| ------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| [[Leave the Mansion Now!]] | [[Nancy's Chinese Room]]                       |
+| [[Séance]]                                 | [[Golden Gardenia Basement Saloon]] |
+| [[Winter Festival]]               | [[Golden Gardenia Dining Room]]         |
 <!-- SerializedQuery END -->

@@ -2,6 +2,7 @@
 game: "[[03 MHM]]"
 environment: "[[Golden Gardenia Dining Room]]"
 tags:
+  - mhm
   - suspects-leave
 ---
 

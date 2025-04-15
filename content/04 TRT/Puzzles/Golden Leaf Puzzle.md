@@ -18,4 +18,4 @@ tags:
 * Match the image from other leaf designs in the room
 * Junior detective will begin with the center completed, only need to fix the edge
 ## Reward
-- [[Marie Antoinette's Diary]]
+- [[Marie's Journal]]

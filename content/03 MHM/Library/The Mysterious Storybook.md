@@ -2,6 +2,7 @@
 game: "[[03 MHM]]"
 environment: "[[The Mysterious Storybook]]"
 tags:
+  - mhm
   - book
   - fairy-tales
 ---

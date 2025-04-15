@@ -7,8 +7,8 @@ tags:
   - hotel-room
 ---
 ## Prerequisites
-* [[Nancy's Room Key 205]]
+* [[Nancy’s Room Key 205]]
 ## Unwritten Rules
 * You can’t leave the room without your room key
 ## Solution
-* [[Nancy's Room Key 205]] can be found on Nancy’s desk
+* [[Nancy’s Room Key 205]]  can be found on Nancy’s desk

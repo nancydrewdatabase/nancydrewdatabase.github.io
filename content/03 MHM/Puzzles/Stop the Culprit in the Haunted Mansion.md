@@ -2,6 +2,7 @@
 game: "[[03 MHM]]"
 environment: "[[Golden Gardenia Grand Staircase]]"
 tags:
+  - mhm
   - stop-the-culprit
   - pull-the-lever
   - time-restraint

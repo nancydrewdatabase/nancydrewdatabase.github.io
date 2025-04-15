@@ -1,15 +1,16 @@
 ---
 game: "[[03 MHM]]"
 tags:
+  - mhm
   - basement
 ---
 ## Characters
 <!-- QueryToSerialize: Table WITHOUT ID file.link as characters, tags from "content/03 MHM/Characters" where contains(environment,  [[]]) -->
 <!-- SerializedQuery: Table WITHOUT ID file.link as characters, tags from "content/03 MHM/Characters" where contains(environment,  [[]]) -->
 
-| characters                                                      | tags                      |
-| --------------------------------------------------------------- | ------------------------- |
-| [[Charlie Murphy]] | <ul><li>suspect</li></ul> |
+| characters                                                      | tags                                  |
+| --------------------------------------------------------------- | ------------------------------------- |
+| [[Charlie Murphy]] | <ul><li>mhm</li><li>suspect</li></ul> |
 <!-- SerializedQuery END -->
 
 ## Inventory
@@ -29,18 +30,18 @@ tags:
 <!-- QueryToSerialize: Table WITHOUT ID file.link as puzzle, tags from "content/03 MHM/Puzzles" where contains(environment,  [[]]) sort tags desc -->
 <!-- SerializedQuery: Table WITHOUT ID file.link as puzzle, tags from "content/03 MHM/Puzzles" where contains(environment,  [[]]) sort tags desc -->
 
-| puzzle                                                                                                 | tags                                        |
-| ------------------------------------------------------------------------------------------------------ | ------------------------------------------- |
-| [[Enter Saloon Secret Passage]]                 | <ul><li>use tool</li><li>optional</li></ul> |
-| [[Play The Bandit’s Treasure on Piano]] | <ul><li>music</li><li>piano</li></ul>       |
-| [[川 River]]                                                   | <ul><li>music</li></ul>                     |
+| puzzle                                                                                                 | tags                                                    |
+| ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------- |
+| [[Enter Saloon Secret Passage]]                 | <ul><li>mhm</li><li>use-tool</li><li>optional</li></ul> |
+| [[Play The Bandit’s Treasure on Piano]] | <ul><li>mhm</li><li>music</li><li>piano</li></ul>       |
+| [[川 River]]                                                   | <ul><li>mhm</li></ul>                                   |
 <!-- SerializedQuery END -->
 
 ## Library
 <!-- QueryToSerialize: Table WITHOUT ID file.link as library, tags from "content/03 MHM/Library" where contains(environment,  [[]]) sort tags desc -->
 <!-- SerializedQuery: Table WITHOUT ID file.link as library, tags from "content/03 MHM/Library" where contains(environment,  [[]]) sort tags desc -->
 
-| library                                                                                                                        | tags                                    |
-| ------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------- |
-| [[Famous Non-Alcoholic Drinks and how to mix them]] | <ul><li>book</li><li>cookbook</li></ul> |
+| library                                                                                                                        | tags                                                |
+| ------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------- |
+| [[Famous Non-Alcoholic Drinks and how to mix them]] | <ul><li>mhm</li><li>book</li><li>cookbook</li></ul> |
 <!-- SerializedQuery END -->

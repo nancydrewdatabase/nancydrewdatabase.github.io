@@ -11,7 +11,7 @@ tags:
 ## Clues
 * The image on the other side of the wall shows the height each chain
 ## Unwritten Rules
-* Have to redo this puzzle each time entering the [[Wickford Royal Tower]], but the solution is the same every time
+* Have to redo this puzzle each time entering [[Under Royal Tower]], but the solution is the same every time
 * Back away to reset the puzzle
 - Each chain can move multiple other chains
 

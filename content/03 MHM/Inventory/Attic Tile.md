@@ -2,6 +2,7 @@
 game: "[[03 MHM]]"
 environment: "[[Golden Gardenia Attic]]"
 tags:
+  - mhm
   - tile
 ---
 ## Prerequisites

@@ -1,8 +1,8 @@
 ---
 number: 10
-environment: "[[Chinese Room]]"
+environment: "[[Nancy's Chinese Room]]"
 tags:
-  - letter
+  - mhm
 ---
 ## Location 
 - Part of [[Emily's Letter]] near Nancy's luggage

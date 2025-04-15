@@ -1,6 +1,7 @@
 ---
 game: "[[03 MHM]]"
 tags:
+  - mhm
   - basement
   - secret
 ---
@@ -18,19 +19,19 @@ tags:
 <!-- QueryToSerialize: Table WITHOUT ID file.link as puzzle, tags from "content/03 MHM/Puzzles" where contains(environment,  [[]]) sort tags desc -->
 <!-- SerializedQuery: Table WITHOUT ID file.link as puzzle, tags from "content/03 MHM/Puzzles" where contains(environment,  [[]]) sort tags desc -->
 
-| puzzle                                                                   | tags                                     |
-| ------------------------------------------------------------------------ | ---------------------------------------- |
-| [[Read Charlie’s Paper]] | <ul><li>snoop</li><li>optional</li></ul> |
-| [[王 King]]                       | <ul><li>food</li></ul>                   |
+| puzzle                                                                   | tags                                                 |
+| ------------------------------------------------------------------------ | ---------------------------------------------------- |
+| [[Read Charlie’s Paper]] | <ul><li>mhm</li><li>snoop</li><li>optional</li></ul> |
+| [[王 King]]                       | <ul><li>mhm</li></ul>                                |
 <!-- SerializedQuery END -->
 
 ## Library
 <!-- QueryToSerialize: Table WITHOUT ID file.link as library, tags from "content/03 MHM/Library" where contains(environment,  [[]]) sort tags desc -->
 <!-- SerializedQuery: Table WITHOUT ID file.link as library, tags from "content/03 MHM/Library" where contains(environment,  [[]]) sort tags desc -->
 
-| library                                                                                                          | tags                                    |
-| ---------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
-| [[San Francisco Postcard]]                                     | <ul><li>postcard</li></ul>              |
-| [[Bandits, Outlaws, Scofflaws and the Like]] | <ul><li>book</li><li>no cover</li></ul> |
+| library                                                                                                          | tags                                                |
+| ---------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| [[San Francisco Postcard]]                                     | <ul><li>mhm</li><li>postcard</li></ul>              |
+| [[Bandits, Outlaws, Scofflaws and the Like]] | <ul><li>mhm</li><li>book</li><li>no-cover</li></ul> |
 <!-- SerializedQuery END -->
 

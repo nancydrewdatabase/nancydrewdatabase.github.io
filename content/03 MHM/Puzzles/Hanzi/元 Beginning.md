@@ -2,7 +2,7 @@
 number: 2
 environment: "[[Golden Gardenia Attic]]"
 tags:
-  - letter
+  - mhm
 ---
 ## Location
 - In the attic desk, on the left

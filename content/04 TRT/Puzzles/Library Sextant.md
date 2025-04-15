@@ -9,7 +9,7 @@ tags:
 ## Clues
 * _A sly rabbit will have three openings to its den_
 	* Possibly meaning there are 3 numbers to input
-* [[Library Globe Puzzle]]
+* [[Library Globe]]
 ## Unwritten Rules
 * Use the top red button to select
 - Use the center green button to reset

@@ -1,7 +1,8 @@
 ---
 game: "[[03 MHM]]"
-environment: "[[Chinese Room]]"
+environment: "[[Nancy's Chinese Room]]"
 tags:
+  - mhm
   - jewel
 ---
 ## Prerequisites

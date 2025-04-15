@@ -1,6 +1,7 @@
 ---
 game: "[[03 MHM]]"
 tags:
+  - mhm
   - stairs
 ---
 ## Inventory
@@ -17,10 +18,10 @@ tags:
 <!-- QueryToSerialize: Table WITHOUT ID file.link as puzzle, tags from "content/03 MHM/Puzzles" where contains(environment,  [[]]) sort tags desc -->
 <!-- SerializedQuery: Table WITHOUT ID file.link as puzzle, tags from "content/03 MHM/Puzzles" where contains(environment,  [[]]) sort tags desc -->
 
-| puzzle                                                                                                         | tags                                                                               |
-| -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| [[Stop the Culprit in the Haunted Mansion]] | <ul><li>stop the culprit</li><li>pull the lever</li><li>time restraint</li></ul>   |
-| [[Stair Banister]]                                                   | <ul><li>algorithmic</li><li>chain reaction</li><li>junior/senior variant</li></ul> |
+| puzzle                                                                                                         | tags                                                                                           |
+| -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| [[Stop the Culprit in the Haunted Mansion]] | <ul><li>mhm</li><li>stop-the-culprit</li><li>pull-the-lever</li><li>time-restraint</li></ul>   |
+| [[Stair Banister]]                                                   | <ul><li>mhm</li><li>algorithmic</li><li>chain-reaction</li><li>junior-senior-variant</li></ul> |
 <!-- SerializedQuery END -->
 
 
@@ -28,8 +29,8 @@ tags:
 <!-- QueryToSerialize: Table WITHOUT ID file.link as library, tags from "content/03 MHM/Library" where contains(environment,  [[]]) sort tags desc -->
 <!-- SerializedQuery: Table WITHOUT ID file.link as library, tags from "content/03 MHM/Library" where contains(environment,  [[]]) sort tags desc -->
 
-| library                                                                | tags                                                   |
-| ---------------------------------------------------------------------- | ------------------------------------------------------ |
-| [[Stars and Moon Poem]] | <ul><li>letter</li><li>junior/senior variant</li></ul> |
+| library                                                                | tags                                                               |
+| ---------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [[Stars and Moon Poem]] | <ul><li>mhm</li><li>letter</li><li>junior-senior-variant</li></ul> |
 <!-- SerializedQuery END -->
 

@@ -11,7 +11,7 @@ tags:
 	* [[Blue Medallion]]
 	* [[Green Medallion]]
 ## Unwritten Rules
-* Make sure to check the decoder in [[Translate Marie’s Diary]] after knowing the secret messages to have Nancy mention the meaning of the symbols
+* Make sure to check the decoder in [[Translate Marie’s Journal]] after knowing the secret messages to have Nancy mention the meaning of the symbols
 ## Solution
 * Look through all medallions
-* [[Beatrice Hotchkiss|Professor Hotchkiss]] can translate these French phrases
+* [[Professor Hotchkiss|Professor Hotchkiss]] can translate these French phrases

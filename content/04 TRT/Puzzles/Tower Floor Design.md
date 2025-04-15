@@ -11,7 +11,7 @@ tags:
 	* [[Blue Medallion]]
 	* [[Green Medallion]]
 ## Clues
-* [[Marie's Diary Translated]]
+* [[Marie's Journal]]
 	* If you are reading this, know that my HONOR shall be BLUE, our COURAGE shall be RED and your LOYALTY shall be GREEN
 ## Unwritten Rules
 * 

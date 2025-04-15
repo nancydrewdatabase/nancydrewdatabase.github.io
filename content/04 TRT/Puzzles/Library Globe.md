@@ -13,4 +13,4 @@ tags:
 * Set the Latitude to 90 degrees
 
 ## Reward
-- Clue to the [[Library Sextant Puzzle]]
+- Clue to the [[Library Sextant]]

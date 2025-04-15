@@ -1,7 +1,7 @@
 ---
 game: "[[04 TRT]]"
-environment: "[[Ski Locker Room]]"
-tags: 
+environment: "[[Wickford Ski Locker Room]]"
+tags:
   - lock-combo
   - locker-combo
 ---

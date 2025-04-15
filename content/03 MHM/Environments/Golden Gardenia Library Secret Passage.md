@@ -1,6 +1,7 @@
 ---
 game: "[[03 MHM]]"
 tags:
+  - mhm
   - library
   - secret
 ---
@@ -18,8 +19,8 @@ tags:
 <!-- QueryToSerialize: Table WITHOUT ID file.link as puzzle, tags from "content/03 MHM/Puzzles" where contains(environment,  [[]]) sort tags desc -->
 <!-- SerializedQuery: Table WITHOUT ID file.link as puzzle, tags from "content/03 MHM/Puzzles" where contains(environment,  [[]]) sort tags desc -->
 
-| puzzle                                                   | tags                                           |
-| -------------------------------------------------------- | ---------------------------------------------- |
-| [[Spy on Louis]] | <ul><li>snoop</li><li>time sensitive</li></ul> |
-| [[子 Child]]     | <ul><li>painting</li></ul>                     |
+| puzzle                                                   | tags                                                       |
+| -------------------------------------------------------- | ---------------------------------------------------------- |
+| [[Spy on Louis]] | <ul><li>mhm</li><li>snoop</li><li>time-sensitive</li></ul> |
+| [[子 Child]]     | <ul><li>mhm</li></ul>                                      |
 <!-- SerializedQuery END -->

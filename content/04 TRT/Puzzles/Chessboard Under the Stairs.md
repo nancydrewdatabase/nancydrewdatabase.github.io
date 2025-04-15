@@ -1,6 +1,6 @@
 ---
 game: "[[04 TRT]]"
-environment: "[[Under the Royal Tower]]"
+environment: "[[Under Royal Tower]]"
 tags:
   - chessboard
   - junior-senior-variant

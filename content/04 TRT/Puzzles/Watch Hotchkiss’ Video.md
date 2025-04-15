@@ -7,7 +7,7 @@ tags:
 ---
 ## Prerequisites
 * [[Hotchkiss' Research Questions]]
-* [[Hotchkiss' Room Key 214]]
+* [[Hotchkiss’ Room Key 214]]
 ## Unwritten Rules
 * Note that charging the battery before playing will yield the same result and will need to be charged again after a certain point
 ## Solution

@@ -1,13 +1,17 @@
 ---
 game: "[[03 MHM]]"
+title: Easter Eggs
+aliases:
+  - MHM Easter Eggs
 tags: 
+  - mhm
   - easter-eggs
 ---
-<!-- QueryToSerialize: Table WITHOUT ID file.link as "easter eggs", environment, tags from "content/03 MHM/Easter Eggs" sort tags -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as "easter eggs", environment, tags from "content/03 MHM/Easter Eggs" sort tags -->
+<!-- QueryToSerialize: Table WITHOUT ID file.link as "easter eggs", environment from "content/03 MHM/Easter Eggs" sort tags -->
+<!-- SerializedQuery: Table WITHOUT ID file.link as "easter eggs", environment from "content/03 MHM/Easter Eggs" sort tags -->
 
-| easter eggs                                                              | environment                                                                       | tags                                              |
-| ------------------------------------------------------------------------ | --------------------------------------------------------------------------------- | ------------------------------------------------- |
-| [[Clucking Lady Head]] | [[Golden Gardenia Attic]]   | <ul><li>weird-sounds</li></ul>                    |
-| [[Strange Phone Call]] | [[Golden Gardenia Parlor]] | <ul><li>weird-sounds</li><li>phone-call</li></ul> |
+| easter eggs                                                              | environment                                                                       |
+| ------------------------------------------------------------------------ | --------------------------------------------------------------------------------- |
+| [[Clucking Lady Head]] | [[Golden Gardenia Attic]]   |
+| [[Strange Phone Call]] | [[Golden Gardenia Parlor]] |
 <!-- SerializedQuery END -->

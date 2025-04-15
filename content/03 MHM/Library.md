@@ -1,54 +1,58 @@
 ---
 game: "[[03 MHM]]"
+title: library
+aliases:
+  - MHM Library
 tags: 
+  - mhm
   - library
 ---
 ## Nancy's Letters
-<!-- QueryToSerialize: Table WITHOUT ID file.link as document, author, tags from "content/03 MHM/Library" where contains(tags, "case-file") -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as document, author, tags from "content/03 MHM/Library" where contains(tags, "case-file") -->
+<!-- QueryToSerialize: Table WITHOUT ID file.link as document, author from "content/03 MHM/Library" where contains(tags, "case-file") -->
+<!-- SerializedQuery: Table WITHOUT ID file.link as document, author from "content/03 MHM/Library" where contains(tags, "case-file") -->
 
-| document                                                             | author                                                   | tags                                               |
-| -------------------------------------------------------------------- | -------------------------------------------------------- | -------------------------------------------------- |
-| [[MHM Closing Letter]] | [[Nancy Drew]] | <ul><li>closing-letter</li><li>case-file</li></ul> |
-| [[MHM Opening Letter]] | [[Nancy Drew]] | <ul><li>opening-letter</li><li>case-file</li></ul> |
+| document                                                             | author                                                   |
+| -------------------------------------------------------------------- | -------------------------------------------------------- |
+| [[MHM Closing Letter]] | [[Nancy Drew]] |
+| [[MHM Opening Letter]] | [[Nancy Drew]] |
 <!-- SerializedQuery END -->
 
 ## Books
-<!-- QueryToSerialize: Table WITHOUT ID file.link as document, environment, author, tags from "content/03 MHM/Library" where contains(tags, "book") -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as document, environment, author, tags from "content/03 MHM/Library" where contains(tags, "book") -->
+<!-- QueryToSerialize: Table WITHOUT ID file.link as document, environment, author from "content/03 MHM/Library" where contains(tags, "book") -->
+<!-- SerializedQuery: Table WITHOUT ID file.link as document, environment, author from "content/03 MHM/Library" where contains(tags, "book") -->
 
-| document                                                                                                                                                                                         | environment                                                                                                         | author          | tags                                                    |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------- | --------------- | ------------------------------------------------------- |
-| [[Famous Non-Alcoholic Drinks and how to mix them]]                                                                   | [[Golden Gardenia Basement Saloon]]                 | \-              | <ul><li>book</li><li>cookbook</li></ul>                 |
-| [[Legends of San Francisco - The City’s Most Influential Personalities]]                         | [[Golden Gardenia Library]]                                 | \-              | <ul><li>book</li><li>nonfiction</li></ul>               |
-| [[Bandits, Outlaws, Scofflaws and the Like]]                                                                                 | [[Golden Gardenia Basement Secret Passage]] | \-              | <ul><li>book</li><li>no-cover</li></ul>                 |
-| [[Lessons in Chess]]                                                                                                                                 | [[Golden Gardenia Library]]                                 | \-              | <ul><li>book</li><li>no-cover</li></ul>                 |
-| [[Fortune Telling For Business Popularity]]                                                                                   | [[Abby's Room]]                                                         | Agatha Eckhardt | <ul><li>book</li><li>cover-only</li></ul>               |
-| [[Mythical Creatures And Distant Monsters]]                                                                                   | [[Golden Gardenia Library]]                                 | \-              | <ul><li>book</li><li>monsters</li></ul>                 |
-| [[Subterranean San Francisco - Explore the Hidden World that Lies Beneath the City]] | [[Golden Gardenia Parlor]]                                   | Lantern Press   | <ul><li>book</li><li>nonfiction</li></ul>               |
-| [[The History of Piano]]                                                                                                                         | [[Golden Gardenia Library]]                                 | Melody McKehr   | <ul><li>book</li><li>music</li><li>clue</li></ul>       |
-| [[The Mysterious Storybook]]                                                                                                                 | [[The Mysterious Storybook]]                                    | \-              | <ul><li>book</li><li>fairy-tales</li></ul>              |
-| [[The Theory of Music - Level 1]]                                                                                                       | [[Golden Gardenia Library]]                                 | \-              | <ul><li>book</li><li>nonfiction</li><li>music</li></ul> |
-| [[The Zodiac and You]]                                                                                                                             | [[Abby's Room]]                                                         | Mercury Day     | <ul><li>book</li><li>zodiac</li><li>clue</li></ul>      |
-| [[Through Our Own Voices - An Oral History Of Chinese Immigrants In California]]         | [[Golden Gardenia Library]]                                 | \-              | <ul><li>book</li><li>nonfiction</li><li>clue</li></ul>  |
-| [[Old West Romances]]                                                                                                                               | [[Abby's Room]]                                                         | \-              | <ul><li>book</li><li>romance</li></ul>                  |
-| [[Mastering The Art Of Illusion]]                                                                                                       | [[Abby's Room]]                                                         | Brady Beisis    | <ul><li>book</li><li>magic</li></ul>                    |
+| document                                                                                                                                                                                         | environment                                                                                                         | author          |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------- | --------------- |
+| [[Bandits, Outlaws, Scofflaws and the Like]]                                                                                 | [[Golden Gardenia Basement Secret Passage]] | \-              |
+| [[Famous Non-Alcoholic Drinks and how to mix them]]                                                                   | [[Golden Gardenia Basement Saloon]]                 | \-              |
+| [[Fortune Telling For Business Popularity]]                                                                                   | [[Abby's Room]]                                                         | Agatha Eckhardt |
+| [[Lessons in Chess]]                                                                                                                                 | [[Golden Gardenia Library]]                                 | \-              |
+| [[Mastering The Art Of Illusion]]                                                                                                       | [[Abby's Room]]                                                         | Brady Beisis    |
+| [[Legends of San Francisco - The City’s Most Influential Personalities]]                         | [[Golden Gardenia Library]]                                 | \-              |
+| [[Mythical Creatures And Distant Monsters]]                                                                                   | [[Golden Gardenia Library]]                                 | \-              |
+| [[Old West Romances]]                                                                                                                               | [[Abby's Room]]                                                         | \-              |
+| [[Subterranean San Francisco - Explore the Hidden World that Lies Beneath the City]] | [[Golden Gardenia Parlor]]                                   | Lantern Press   |
+| [[The History of Piano]]                                                                                                                         | [[Golden Gardenia Library]]                                 | Melody McKehr   |
+| [[The Mysterious Storybook]]                                                                                                                 | [[The Mysterious Storybook]]                                    | \-              |
+| [[The Zodiac and You]]                                                                                                                             | [[Abby's Room]]                                                         | Mercury Day     |
+| [[The Theory of Music - Level 1]]                                                                                                       | [[Golden Gardenia Library]]                                 | \-              |
+| [[Through Our Own Voices - An Oral History Of Chinese Immigrants In California]]         | [[Golden Gardenia Library]]                                 | \-              |
 <!-- SerializedQuery END -->
 
 ## Misc
-<!-- QueryToSerialize: Table WITHOUT ID file.link as document, environment, author, tags from "content/03 MHM/Library" where !contains(tags, "book") and !contains(tags, "case-file") -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as document, environment, author, tags from "content/03 MHM/Library" where !contains(tags, "book") and !contains(tags, "case-file") -->
+<!-- QueryToSerialize: Table WITHOUT ID file.link as document, environment, author from "content/03 MHM/Library" where !contains(tags, "book") and !contains(tags, "case-file") -->
+<!-- SerializedQuery: Table WITHOUT ID file.link as document, environment, author from "content/03 MHM/Library" where !contains(tags, "book") and !contains(tags, "case-file") -->
 
-| document                                                                                                   | environment                                                                                                         | author                                                                    | tags                                                   |
-| ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------ |
-| [[Argentine Appraisers Letter]]                     | [[Golden Gardenia Library]]                                 | [[Louis Chandler]]           | <ul><li>letter</li></ul>                               |
-| [[Elizabeth Applegate’s Journal]]                 | [[Golden Gardenia Attic]]                                     | [[Elizabeth Applegate]] | <ul><li>journal</li></ul>                              |
-| [[Emily's Letter]]                                               | [[Chinese Room]]                                                       | [[Emily Foxworth]]           | <ul><li>letter</li><li>clue</li></ul>                  |
-| [[Fire Insurance Letter]]                                 | [[Golden Gardenia Dining Room]]                         | \-                                                                        | <ul><li>letter</li></ul>                               |
-| [[Nancy's Notebook]]                                           | [[Chinese Room]]                                                       | [[Nancy Drew]]                  | <ul><li>journal</li></ul>                              |
-| [[New American Bed & Breakfasts Monthly]] | [[Golden Gardenia Dining Room]]                         | \-                                                                        | <ul><li>magazine</li></ul>                             |
-| [[San Francisco Postcard]]                               | [[Golden Gardenia Basement Secret Passage]] | [[Charlie Murphy]]           | <ul><li>postcard</li></ul>                             |
-| [[Stars and Moon Poem]]                                     | [[Golden Gardenia Grand Staircase]]                 | [[Elizabeth Applegate]] | <ul><li>letter</li><li>junior-senior-variant</li></ul> |
-| [[The Bandit's Treasure]]                                 | [[Golden Gardenia Attic]]                                     | \-                                                                        | <ul><li>music</li></ul>                                |
-| [[Victorian Antiques]]                                       | [[Golden Gardenia Library]]                                 | \-                                                                        | <ul><li>magazine</li></ul>                             |
+| document                                                                                                   | environment                                                                                                         | author                                                                    |
+| ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| [[Argentine Appraisers Letter]]                     | [[Golden Gardenia Library]]                                 | [[Louis Chandler]]           |
+| [[Elizabeth Applegate’s Journal]]                 | [[Golden Gardenia Attic]]                                     | [[Elizabeth Applegate]] |
+| [[Emily's Letter]]                                               | [[Nancy's Chinese Room]]                                       | [[Emily Foxworth]]           |
+| [[Fire Insurance Letter]]                                 | [[Golden Gardenia Dining Room]]                         | \-                                                                        |
+| [[New American Bed & Breakfasts Monthly]] | [[Golden Gardenia Dining Room]]                         | \-                                                                        |
+| [[Nancy's Notebook]]                                           | [[Nancy's Chinese Room]]                                       | [[Nancy Drew]]                  |
+| [[Stars and Moon Poem]]                                     | [[Golden Gardenia Grand Staircase]]                 | [[Elizabeth Applegate]] |
+| [[San Francisco Postcard]]                               | [[Golden Gardenia Basement Secret Passage]] | [[Charlie Murphy]]           |
+| [[The Bandit's Treasure]]                                 | [[Golden Gardenia Attic]]                                     | \-                                                                        |
+| [[Victorian Antiques]]                                       | [[Golden Gardenia Library]]                                 | \-                                                                        |
 <!-- SerializedQuery END -->

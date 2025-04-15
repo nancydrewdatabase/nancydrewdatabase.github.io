@@ -1,6 +1,6 @@
 ---
 game: "[[04 TRT]]"
-environment: 
+environment: "[[Wickford Library]]"
 tags: 
   - lock-and-key
   - lock-combo
@@ -8,7 +8,7 @@ tags:
 ---
 ## Prerequisites
 * [[Enter Wickford Library (Through the Vents)]]
-* [[Wickford Library Key]]
+* [[Library Key]]
 * [[Paintbrush]] (dusted)
 ## Clues
 * [[Sassy Detective Magazine]]

@@ -1,29 +1,33 @@
 ---
 game: "[[03 MHM]]"
+title: Inventory
+aliases:
+  - MHM Inventory
 tags: 
+  - mhm
   - inventory
 ---
-<!-- QueryToSerialize: Table WITHOUT ID file.link as item, environment, tags from "content/03 MHM/Inventory" -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as item, environment, tags from "content/03 MHM/Inventory" -->
+<!-- QueryToSerialize: Table WITHOUT ID file.link as item, environment from "content/03 MHM/Inventory" -->
+<!-- SerializedQuery: Table WITHOUT ID file.link as item, environment from "content/03 MHM/Inventory" -->
 
-| item                                                                   | environment                                                                                                         | tags                                     |
-| ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
-| [[Antique Desk Key]]     | [[Chinese Room]]                                                       | <ul><li>key</li></ul>                    |
-| [[Attic Trapdoor Key]] | [[Golden Gardenia Basement Saloon]]                 | <ul><li>key</li></ul>                    |
-| [[Attic Tile]]                 | [[Golden Gardenia Attic]]                                     | <ul><li>tile</li></ul>                   |
-| [[Cassette]]                     | [[Golden Gardenia Basement Saloon]]                 | <ul><li>tech</li><li>optional</li></ul>  |
-| [[Crowbar]]                       | [[Golden Gardenia Attic]]                                     | <ul><li>tool</li></ul>                   |
-| [[Dumbwaiter Tile]]       | [[Golden Gardenia Second Floor Hallway]]       | <ul><li>tile</li></ul>                   |
-| [[Floppy Disk]]               | [[Golden Gardenia Basement Secret Passage]] | <ul><li>tech</li><li>optional</li></ul>  |
-| [[Fire Extinguisher]]   | [[Golden Gardenia Parlor]]                                   | <ul><li>tool</li></ul>                   |
-| [[Gold Charm]]                 | [[Golden Gardenia Grand Staircase]]                 | <ul><li>key</li></ul>                    |
-| [[Iron]]                             | [[Golden Gardenia Attic]]                                     | <ul><li>tool</li></ul>                   |
-| [[Library Tile]]             | [[Golden Gardenia Library]]                                 | <ul><li>tile</li></ul>                   |
-| [[Lantern]]                       | [[Golden Gardenia Library Secret Passage]]   | <ul><li>light</li><li>optional</li></ul> |
-| [[Luggage Key]]               | \-                                                                                                                  | <ul><li>key</li></ul>                    |
-| [[Paint Scraper]]           | [[Golden Gardenia Entryway]]                               | <ul><li>tool</li></ul>                   |
-| [[Screwdriver]]               | [[Golden Gardenia Basement Saloon]]                 | <ul><li>tool</li><li>optional</li></ul>  |
-| [[Torn Music Sheet]]     | [[Golden Gardenia Basement Saloon]]                 | <ul><li>music</li><li>code</li></ul>     |
-| [[Ruby]]                             | [[Chinese Room]]                                                       | <ul><li>jewel</li></ul>                  |
-| [[Spider Charm]]             | [[Abby's Room]]                                                         | <ul><li>key</li></ul>                    |
+| item                                                                   | environment                                                                                                         |
+| ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| [[Antique Desk Key]]     | [[Nancy's Chinese Room]]                                       |
+| [[Attic Tile]]                 | [[Golden Gardenia Attic]]                                     |
+| [[Attic Trapdoor Key]] | [[Golden Gardenia Basement Saloon]]                 |
+| [[Crowbar]]                       | [[Golden Gardenia Attic]]                                     |
+| [[Cassette]]                     | [[Golden Gardenia Basement Saloon]]                 |
+| [[Dumbwaiter Tile]]       | [[Golden Gardenia Second Floor Hallway]]       |
+| [[Fire Extinguisher]]   | [[Golden Gardenia Parlor]]                                   |
+| [[Floppy Disk]]               | [[Golden Gardenia Basement Secret Passage]] |
+| [[Iron]]                             | [[Golden Gardenia Attic]]                                     |
+| [[Gold Charm]]                 | [[Golden Gardenia Grand Staircase]]                 |
+| [[Lantern]]                       | [[Golden Gardenia Library Secret Passage]]   |
+| [[Luggage Key]]               | \-                                                                                                                  |
+| [[Paint Scraper]]           | [[Golden Gardenia Entryway]]                               |
+| [[Library Tile]]             | [[Golden Gardenia Library]]                                 |
+| [[Ruby]]                             | [[Nancy's Chinese Room]]                                       |
+| [[Screwdriver]]               | [[Golden Gardenia Basement Saloon]]                 |
+| [[Spider Charm]]             | [[Abby's Room]]                                                         |
+| [[Torn Music Sheet]]     | [[Golden Gardenia Basement Saloon]]                 |
 <!-- SerializedQuery END -->

@@ -1,6 +1,7 @@
 ---
 game: "[[03 MHM]]"
 tags:
+  - mhm
   - key
 ---
 ## Usage

@@ -8,7 +8,10 @@ tags:
 ---
 ## Prerequisites
 * Talk to all suspects
-	* TODO: list of suspects
+	* [[Dexter Egan]]
+	* [[Jacques Brunais]]
+	* [[Professor Hotchkiss]]
+	* [[Lisa Ostrum]]
 * Use the elevator between the first and second floor
 ## Unwritten Rules
 * You can avoid triggering this by only using the stairs between the first and second floor

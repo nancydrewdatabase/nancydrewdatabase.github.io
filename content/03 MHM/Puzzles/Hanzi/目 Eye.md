@@ -2,7 +2,7 @@
 number: 5
 environment: "[[Golden Gardenia Second Floor Hallway]]"
 tags:
-  - kitchenware
+  - mhm
 ---
 ## Location
 - On the teacup inside the dumbwaiter

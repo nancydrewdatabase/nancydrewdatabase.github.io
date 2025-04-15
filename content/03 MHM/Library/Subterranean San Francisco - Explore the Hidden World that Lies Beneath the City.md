@@ -2,6 +2,7 @@
 game: "[[03 MHM]]"
 environment: "[[Golden Gardenia Parlor]]"
 tags:
+  - mhm
   - book
   - nonfiction
 author: Lantern Press

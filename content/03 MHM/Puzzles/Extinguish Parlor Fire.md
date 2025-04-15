@@ -2,6 +2,7 @@
 game: "[[03 MHM]]"
 environment: "[[Golden Gardenia Parlor]]"
 tags:
+  - mhm
   - fire
   - time-restraint
   - optional

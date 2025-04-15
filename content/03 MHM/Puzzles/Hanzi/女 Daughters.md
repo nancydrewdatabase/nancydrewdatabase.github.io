@@ -1,8 +1,8 @@
 ---
 number: 3
-environment: "[[Chinese Room]]"
+environment: "[[Nancy's Chinese Room]]"
 tags:
- - statue
+  - mhm
 ---
 ## Location 
 - On the green dragon statue on a shelf in Nancy's room
