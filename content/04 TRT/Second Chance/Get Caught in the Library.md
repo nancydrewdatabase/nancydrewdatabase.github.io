@@ -5,7 +5,6 @@ related:
   - "[[Enter Wickford Library (Through the Vents)]]"
   - "[[Enter Wickford Library (Through the Door)]]"
 tags:
-  - trt
   - caught-snooping
   - out-of-time
   - puzzle-failed

@@ -1,6 +1,5 @@
 ---
 game: "[[04 TRT]]"
-title: Inventory
 aliases:
   - TRT Inventory
 tags: 
@@ -15,19 +14,19 @@ tags:
 | [[Basement Gate Key]]             | [[Wickford Ski Shed]]                             |
 | [[Blue Medallion]]                   | [[Hotchkiss' Room 214]]                         |
 | [[Camera Battery]]                   | [[Hotchkiss' Room 214]]                         |
-| [[Diamond Key]]                         | [[Royal Tower Golden Room]]                 |
 | [[Garden Key]]                           | [[Wickford Library Secret Room]]       |
-| [[Hotchkiss’ Boots]]               | [[Wickford Ski Shop]]                             |
-| [[Green Medallion]]                 | [[Wickford Ski Shed]]                             |
-| [[Hotchkiss’ Room Key 214]] | [[Wickford Sitting Room]]                     |
+| [[Diamond Key]]                         | [[Royal Tower Golden Room]]                 |
 | [[George’s Letter]]                 | \-                                                                                                  |
+| [[Green Medallion]]                 | [[Wickford Ski Shed]]                             |
+| [[Hotchkiss’ Boots]]               | [[Wickford Ski Shop]]                             |
 | [[Library Key]]                         | [[Wickford Lobby]]                                   |
+| [[Hotchkiss’ Room Key 214]] | [[Wickford Sitting Room]]                     |
+| [[Lighter]]                                 | [[Wickford Library Secret Room]]       |
 | [[Nancy’s Room Key 205]]       | [[Nancy's Room 205]]                               |
 | [[Oil Can]]                                 | [[Nancy's Room 205]]                               |
-| [[Red Medallion]]                     | [[Ezra's Secret Garden]]                       |
-| [[Lighter]]                                 | [[Wickford Library Secret Room]]       |
 | [[Paintbrush]]                           | [[Wickford Ski Shop]]                             |
-| [[Wickford Castle Menu]]       | [[Nancy's Room 205]]                               |
+| [[Red Medallion]]                     | [[Ezra's Secret Garden]]                       |
 | [[Spear Head]]                           | [[Wickford Secret Passage Hallway]] |
+| [[Wickford Castle Menu]]       | [[Nancy's Room 205]]                               |
 <!-- SerializedQuery END -->
 

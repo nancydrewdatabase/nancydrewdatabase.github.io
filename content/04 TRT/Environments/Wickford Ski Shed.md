@@ -1,7 +1,7 @@
 ---
 game: "[[04 TRT]]"
 tags:
-  - trt
+  - 
 ---
 ## Inventory
 
@@ -20,7 +20,7 @@ tags:
 
 | puzzle                                                                           |
 | -------------------------------------------------------------------------------- |
-| [[Find the Green Medallion]] |
 | [[Start Ski Lift]]                     |
+| [[Find the Green Medallion]] |
 <!-- SerializedQuery END -->
 

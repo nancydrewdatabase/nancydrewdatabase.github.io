@@ -4,7 +4,6 @@ environment: "[[Wickford Lobby]]"
 aliases:
   - Dexter
 tags: 
-  - trt
   - suspect
   - phone-contact
 phone: 0

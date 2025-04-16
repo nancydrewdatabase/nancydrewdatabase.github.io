@@ -2,7 +2,6 @@
 game: "[[03 MHM]]"
 environment: "[[Golden Gardenia Library]]"
 tags:
-  - mhm
   - keyboard-required
   - password
   - optional

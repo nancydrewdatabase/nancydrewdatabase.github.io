@@ -7,7 +7,6 @@ aliases:
   - "Professor Beatrice Gertrude Winifred Hotchkiss"
   - "Beatrice Hotchkiss"
 tags: 
-  - trt
   - suspect
 ---
 Chatty and knowledgeable, Professor Hotchkiss is the person to ask for all things related to Marie Antoinette. Is she trying to keep the treasure hidden by the doomed queen for herself?

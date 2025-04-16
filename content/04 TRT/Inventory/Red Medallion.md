@@ -2,7 +2,6 @@
 game: "[[04 TRT]]"
 environment: "[[Ezra's Secret Garden]]"
 tags: 
-  - trt
   - jewel
 ---
 ## Prerequisites

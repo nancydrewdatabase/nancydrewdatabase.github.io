@@ -1,24 +1,23 @@
 ---
 game: "[[03 MHM]]"
 tags:
-  - mhm
   - entryway
 ---
 ## Inventory
 
-<!-- QueryToSerialize: Table WITHOUT ID file.link as item, tags from "content/03 MHM/Inventory" where contains(environment,  [[]]) -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as item, tags from "content/03 MHM/Inventory" where contains(environment,  [[]]) -->
+<!-- QueryToSerialize: Table WITHOUT ID file.link as item from "content/03 MHM/Inventory" where contains(environment,  [[]]) -->
+<!-- SerializedQuery: Table WITHOUT ID file.link as item from "content/03 MHM/Inventory" where contains(environment,  [[]]) -->
 
-| item                                                         | tags                   |
-| ------------------------------------------------------------ | ---------------------- |
-| [[Paint Scraper]] | <ul><li>tool</li></ul> |
+| item                                                         |
+| ------------------------------------------------------------ |
+| [[Paint Scraper]] |
 <!-- SerializedQuery END -->
 
 ## Puzzle
-<!-- QueryToSerialize: Table WITHOUT ID file.link as puzzle, tags from "content/03 MHM/Puzzles" where contains(environment,  [[]]) sort tags desc -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as puzzle, tags from "content/03 MHM/Puzzles" where contains(environment,  [[]]) sort tags desc -->
+<!-- QueryToSerialize: Table WITHOUT ID file.link as puzzle from "content/03 MHM/Puzzles" where contains(environment,  [[]]) sort tags desc -->
+<!-- SerializedQuery: Table WITHOUT ID file.link as puzzle from "content/03 MHM/Puzzles" where contains(environment,  [[]]) sort tags desc -->
 
-| puzzle                                                                                     | tags                                                               |
-| ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------ |
-| [[Find Golden Gardenia Treasure]] | <ul><li>mhm</li><li>something's-missing</li><li>use-tool</li></ul> |
+| puzzle                                                                                     |
+| ------------------------------------------------------------------------------------------ |
+| [[Find Golden Gardenia Treasure]] |
 <!-- SerializedQuery END -->

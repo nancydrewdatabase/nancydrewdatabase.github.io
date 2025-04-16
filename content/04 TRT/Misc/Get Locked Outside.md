@@ -2,7 +2,6 @@
 game: "[[04 TRT]]"
 environment: "[[Outside Wickford Castle]]"
 tags:
-  - trt
   - escape
   - cold
 ---

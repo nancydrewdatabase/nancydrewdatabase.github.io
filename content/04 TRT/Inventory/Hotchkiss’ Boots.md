@@ -2,7 +2,6 @@
 game: "[[04 TRT]]"
 environment: "[[Wickford Ski Shop]]"
 tags: 
-  - trt
   - clothing
 ---
 ## Prerequisites

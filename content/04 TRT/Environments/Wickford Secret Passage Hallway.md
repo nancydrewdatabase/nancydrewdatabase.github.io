@@ -1,7 +1,8 @@
 ---
 game: "[[04 TRT]]"
 tags:
-  - trt
+  - hallway
+  - secret
 ---
 ## Inventory
 

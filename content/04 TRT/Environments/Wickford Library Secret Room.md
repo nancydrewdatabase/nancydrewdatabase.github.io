@@ -1,7 +1,7 @@
 ---
 game: "[[04 TRT]]"
 tags:
-  - trt
+  - library
   - secret
 ---
 ## Inventory
@@ -20,6 +20,6 @@ tags:
 
 | library                                                                                                |
 | ------------------------------------------------------------------------------------------------------ |
-| [[When he was good, he was very good…]] |
 | [[When he was bad, he was horrid.]]         |
+| [[When he was good, he was very good…]] |
 <!-- SerializedQuery END -->

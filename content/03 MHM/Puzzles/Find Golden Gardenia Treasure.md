@@ -2,7 +2,6 @@
 game: "[[03 MHM]]"
 environment: "[[Golden Gardenia Entryway]]"
 tags:
-  - mhm
   - something's-missing
   - use-tool
 ---

@@ -1,7 +1,7 @@
 ---
 game: "[[04 TRT]]"
 tags:
-  - trt
+  - 
 ---
 ## Characters
 <!-- QueryToSerialize: Table WITHOUT ID file.link as characters from "content/04 TRT/Characters" where contains(environment,  [[]]) -->

@@ -2,7 +2,6 @@
 game: "[[03 MHM]]"
 environment: "[[Golden Gardenia Attic]]"
 tags:
-  - mhm
   - use-tool
 ---
 ## Prerequisites

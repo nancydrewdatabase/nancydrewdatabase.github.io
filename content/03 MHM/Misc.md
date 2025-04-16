@@ -1,6 +1,5 @@
 ---
 game: "[[03 MHM]]"
-title: Misc
 aliases:
   - MHM Misc
 tags: 
@@ -13,7 +12,7 @@ tags:
 
 | item                                                                      | environment                                                                                         |
 | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| [[Leave the Mansion Now!]] | [[Nancy's Chinese Room]]                       |
+| [[Leave the Mansion Now!]] | [[Chinese Room]]                                       |
 | [[Séance]]                                 | [[Golden Gardenia Basement Saloon]] |
 | [[Winter Festival]]               | [[Golden Gardenia Dining Room]]         |
 <!-- SerializedQuery END -->

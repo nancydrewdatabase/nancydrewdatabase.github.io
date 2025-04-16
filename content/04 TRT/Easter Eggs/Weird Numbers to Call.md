@@ -7,7 +7,7 @@ tags:
 ---
 ## Easter Egg
 - Call these numbers for some weird sounds
-- Note - These are in-jokes from Nancy Drew message boards
+- Note - These are in-jokes from Nancy Drew [message boards](https://community.herinteractive.com/)
 
 | Words   | Numbers |
 | ------- | ------- |

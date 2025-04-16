@@ -1,7 +1,7 @@
 ---
 game: "[[04 TRT]]"
 environment: "[[Nancy's Room 205]]"
-tags: 
+tags:
   - nancy's-room
   - bedroom
   - hotel-room

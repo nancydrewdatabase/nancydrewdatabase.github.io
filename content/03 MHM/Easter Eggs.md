@@ -1,6 +1,5 @@
 ---
 game: "[[03 MHM]]"
-title: Easter Eggs
 aliases:
   - MHM Easter Eggs
 tags: 

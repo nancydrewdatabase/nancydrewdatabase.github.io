@@ -2,7 +2,6 @@
 game: "[[03 MHM]]"
 environment: "[[Abby's Room]]"
 tags:
-  - mhm
   - haunting uncovered
   - optional
 ---
@@ -14,6 +13,6 @@ tags:
 * Speaker in the vent - found in the [[Golden Gardenia Second Floor Hallway]] making strange noises
 * Portrait mirror - able to see into the hallway and spy on people
 ## Solution
-- Use [[Screwdriver]] on the vents in the [[Golden Gardenia Second Floor Hallway]] between [[Abby's Room]] and [[Nancy's Chinese Room]]
+- Use [[Screwdriver]] on the vents in the [[Golden Gardenia Second Floor Hallway]] between [[Abby's Room]] and [[Chinese Room]]
 * Use the [[Cassette]] on the boom box in Abby's closet to discover the [[Séance]] was faked
 -  [[Abby Sideris]] has been causing some of the hauntings to drum up business

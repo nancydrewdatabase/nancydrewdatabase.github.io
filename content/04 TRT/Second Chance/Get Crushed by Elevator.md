@@ -3,7 +3,6 @@ game: "[[04 TRT]]"
 environment: "[[Wickford Elevator Shaft]]"
 related: "[[Open Secret Door Under Elevator]]"
 tags:
-  - trt
   - out-of-time
   - falling-object
 ---

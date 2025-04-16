@@ -4,7 +4,6 @@ environment: "[[Golden Gardenia Dining Room]]"
 aliases:
   - Rose
 tags:
-  - mhm
   - suspect
   - friend-of-a-friend
 ---

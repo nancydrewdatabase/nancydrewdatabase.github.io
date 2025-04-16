@@ -2,7 +2,6 @@
 game: "[[04 TRT]]"
 environment: "[[Royal Tower Golden Room]]"
 tags: 
-  - trt
   - key
 ---
 ## Prerequisites

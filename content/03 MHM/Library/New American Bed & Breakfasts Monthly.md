@@ -2,7 +2,6 @@
 game: "[[03 MHM]]"
 environment: "[[Golden Gardenia Dining Room]]"
 tags:
-  - mhm
   - magazine
 ---
 ## Text

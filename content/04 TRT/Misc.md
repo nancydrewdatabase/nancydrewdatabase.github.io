@@ -1,6 +1,5 @@
 ---
 game: "[[04 TRT]]"
-title: Misc
 aliases:
   - TRT Misc
 tags: 
@@ -13,8 +12,8 @@ tags:
 
 | item                                                                                              | environment                                                                                                                                                                         |
 | ------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Get Knocked Out in Ski Locker Room]] | [[Wickford Ski Locker Room]]                                                                                               |
 | [[Elevator Stops Between Floors]]           | [[Wickford Elevator]]                                                                                                             |
+| [[Get Knocked Out in Ski Locker Room]] | [[Wickford Ski Locker Room]]                                                                                               |
 | [[Get Locked Outside]]                                 | [[Outside Wickford Castle]]                                                                                                 |
 | [[Wickford Hallway Dead Ends]]                 | <ul><li>[[Wickford Basement]]</li><li>[[Wickford Second Floor]]</li></ul> |
 <!-- SerializedQuery END -->

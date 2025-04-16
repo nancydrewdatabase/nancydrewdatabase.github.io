@@ -2,7 +2,6 @@
 game: "[[04 TRT]]"
 environment: "[[Wickford Ski Shed]]"
 tags: 
-  - trt
   - key
 ---
 ## Prerequisites

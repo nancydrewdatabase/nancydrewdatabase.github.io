@@ -2,7 +2,7 @@
 game: "[[04 TRT]]"
 environment: "[[Wickford Secret Passage Hallway]]"
 tags: 
-  - trt
+  - tool
 ---
 ## Prerequisites
 - [[Open Secret Door Under Elevator]]

@@ -1,6 +1,8 @@
 ---
 release: 4
 abbreviation: TRT
+tags:
+  - trt
 location: Butter Ridge, Wisconson
 ---
 # Treasure in a Royal Tower

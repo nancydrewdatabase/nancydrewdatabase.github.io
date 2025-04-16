@@ -3,7 +3,6 @@ game: "[[03 MHM]]"
 environment: "[[Golden Gardenia Library]]"
 related: "[[Translate “Gum Bo Fu”]]"
 tags:
-  - mhm
   - dialogue
 ---
 ## Related

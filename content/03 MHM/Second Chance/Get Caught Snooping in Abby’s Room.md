@@ -3,7 +3,6 @@ game: "[[03 MHM]]"
 environment: "[[Abby's Room]]"
 related: "[[Uncover the True Mansion Haunting]]"
 tags:
-  - mhm
   - caught-snooping
   - out-of-time
 ---

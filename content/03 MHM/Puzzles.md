@@ -1,6 +1,5 @@
 ---
 game: "[[03 MHM]]"
-title: Puzzles
 aliases:
   - MHM Puzzles
 tags: 
@@ -14,7 +13,7 @@ tags:
 | puzzle                                                                                                         | environment                                                                                                         |
 | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
 | [[Bird Tangram]]                                                       | [[Golden Gardenia Dining Room]]                         |
-| [[Chinese Zodiac Animals]]                                   | [[Nancy's Chinese Room]]                                       |
+| [[Chinese Zodiac Animals]]                                   | [[Chinese Room]]                                                       |
 | [[Enter Attic]]                                                         | [[Golden Gardenia Second Floor Hallway]]       |
 | [[Enter Saloon Secret Passage]]                         | [[Golden Gardenia Basement Saloon]]                 |
 | [[Escape Attic]]                                                       | [[Golden Gardenia Attic]]                                     |
@@ -27,16 +26,16 @@ tags:
 | [[Open Abby’s Closet]]                                           | [[Abby's Room]]                                                         |
 | [[Open Attic Desk]]                                                 | [[Golden Gardenia Attic]]                                     |
 | [[Open Louis’ Briefcase]]                                     | [[Golden Gardenia Library]]                                 |
-| [[Phoenix Slider]]                                                   | [[Nancy's Chinese Room]]                                       |
+| [[Phoenix Slider]]                                                   | [[Chinese Room]]                                                       |
 | [[Play The Bandit’s Treasure on Piano]]         | [[Golden Gardenia Basement Saloon]]                 |
-| [[Pyramid Missing Piece]]                                     | [[Nancy's Chinese Room]]                                       |
+| [[Pyramid Missing Piece]]                                     | [[Chinese Room]]                                                       |
 | [[Read Charlie’s Paper]]                                       | [[Golden Gardenia Basement Secret Passage]] |
 | [[Scrape the Tiles]]                                               | [[Golden Gardenia Second Floor Hallway]]       |
 | [[Spy on Louis]]                                                       | [[Golden Gardenia Library Secret Passage]]   |
 | [[Stair Banister]]                                                   | [[Golden Gardenia Grand Staircase]]                 |
 | [[Stop the Culprit in the Haunted Mansion]] | [[Golden Gardenia Grand Staircase]]                 |
-| [[Sun and Moon]]                                                       | [[Nancy's Chinese Room]]                                       |
-| [[Tapestry Poem]]                                                     | [[Nancy's Chinese Room]]                                       |
+| [[Sun and Moon]]                                                       | [[Chinese Room]]                                                       |
+| [[Tapestry Poem]]                                                     | [[Chinese Room]]                                                       |
 | [[Translate “Gum Bo Fu”]]                                     | [[Golden Gardenia Library]]                                 |
 | [[Uncover the True Mansion Haunting]]             | [[Abby's Room]]                                                         |
 <!-- SerializedQuery END -->

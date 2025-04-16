@@ -3,7 +3,6 @@ game: "[[03 MHM]]"
 environment: "[[Golden Gardenia Basement Secret Passage]]"
 related: "[[Enter Saloon Secret Passage]]"
 tags:
-  - mhm
   - fall-to-death
   - it's-too-dark
 ---

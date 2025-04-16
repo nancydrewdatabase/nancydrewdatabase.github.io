@@ -2,7 +2,6 @@
 game: "[[04 TRT]]"
 environment: 
 tags: 
-  - trt
   - case-file
   - opening-letter
 author: "[[Nancy Drew]]"

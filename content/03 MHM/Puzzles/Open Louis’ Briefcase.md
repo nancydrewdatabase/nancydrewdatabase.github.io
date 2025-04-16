@@ -2,7 +2,6 @@
 game: "[[03 MHM]]"
 environment: "[[Golden Gardenia Library]]"
 tags:
-  - mhm
   - lock-combo
   - random
 ---

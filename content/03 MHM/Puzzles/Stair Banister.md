@@ -2,7 +2,6 @@
 game: "[[03 MHM]]"
 environment: "[[Golden Gardenia Grand Staircase]]"
 tags:
-  - mhm
   - algorithmic
   - chain-reaction
   - junior-senior-variant

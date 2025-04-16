@@ -1,7 +1,7 @@
 ---
 game: "[[04 TRT]]"
 tags:
-  - trt
+  - garden
 ---
 ## Inventory
 

@@ -1,26 +1,25 @@
 ---
 game: "[[03 MHM]]"
 tags:
-  - mhm
   - library
   - secret
 ---
 ## Inventory
 
-<!-- QueryToSerialize: Table WITHOUT ID file.link as item, tags from "content/03 MHM/Inventory" where contains(environment,  [[]]) -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as item, tags from "content/03 MHM/Inventory" where contains(environment,  [[]]) -->
+<!-- QueryToSerialize: Table WITHOUT ID file.link as item from "content/03 MHM/Inventory" where contains(environment,  [[]]) -->
+<!-- SerializedQuery: Table WITHOUT ID file.link as item from "content/03 MHM/Inventory" where contains(environment,  [[]]) -->
 
-| item                                             | tags                                     |
-| ------------------------------------------------ | ---------------------------------------- |
-| [[Lantern]] | <ul><li>light</li><li>optional</li></ul> |
+| item                                             |
+| ------------------------------------------------ |
+| [[Lantern]] |
 <!-- SerializedQuery END -->
 
 ## Puzzle
-<!-- QueryToSerialize: Table WITHOUT ID file.link as puzzle, tags from "content/03 MHM/Puzzles" where contains(environment,  [[]]) sort tags desc -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as puzzle, tags from "content/03 MHM/Puzzles" where contains(environment,  [[]]) sort tags desc -->
+<!-- QueryToSerialize: Table WITHOUT ID file.link as puzzle from "content/03 MHM/Puzzles" where contains(environment,  [[]]) sort tags desc -->
+<!-- SerializedQuery: Table WITHOUT ID file.link as puzzle from "content/03 MHM/Puzzles" where contains(environment,  [[]]) sort tags desc -->
 
-| puzzle                                                   | tags                                                       |
-| -------------------------------------------------------- | ---------------------------------------------------------- |
-| [[Spy on Louis]] | <ul><li>mhm</li><li>snoop</li><li>time-sensitive</li></ul> |
-| [[子 Child]]     | <ul><li>mhm</li></ul>                                      |
+| puzzle                                                   |
+| -------------------------------------------------------- |
+| [[Spy on Louis]] |
+| [[子 Child]]     |
 <!-- SerializedQuery END -->

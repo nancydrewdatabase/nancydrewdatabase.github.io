@@ -3,7 +3,6 @@ game: "[[04 TRT]]"
 environment: "[[Wickford Elevator Shaft]]"
 related: "[[Escape Wickford Elevator]]"
 tags:
-  - trt
   - fall-to-death
 ---
 ## Related

@@ -1,27 +1,27 @@
 ---
 game: "[[03 MHM]]"
 tags:
-  - mhm
   - hallway
+  - floor
 ---
 ## Inventory
 
-<!-- QueryToSerialize: Table WITHOUT ID file.link as item, tags from "content/03 MHM/Inventory" where contains(environment,  [[]]) -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as item, tags from "content/03 MHM/Inventory" where contains(environment,  [[]]) -->
+<!-- QueryToSerialize: Table WITHOUT ID file.link as item from "content/03 MHM/Inventory" where contains(environment,  [[]]) -->
+<!-- SerializedQuery: Table WITHOUT ID file.link as item from "content/03 MHM/Inventory" where contains(environment,  [[]]) -->
 
-| item                                                             | tags                   |
-| ---------------------------------------------------------------- | ---------------------- |
-| [[Dumbwaiter Tile]] | <ul><li>tile</li></ul> |
+| item                                                             |
+| ---------------------------------------------------------------- |
+| [[Dumbwaiter Tile]] |
 <!-- SerializedQuery END -->
 
 ## Puzzle
-<!-- QueryToSerialize: Table WITHOUT ID file.link as puzzle, tags from "content/03 MHM/Puzzles" where contains(environment,  [[]]) sort tags desc -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as puzzle, tags from "content/03 MHM/Puzzles" where contains(environment,  [[]]) sort tags desc -->
+<!-- QueryToSerialize: Table WITHOUT ID file.link as puzzle from "content/03 MHM/Puzzles" where contains(environment,  [[]]) sort tags desc -->
+<!-- SerializedQuery: Table WITHOUT ID file.link as puzzle from "content/03 MHM/Puzzles" where contains(environment,  [[]]) sort tags desc -->
 
-| puzzle                                                           | tags                                                      |
-| ---------------------------------------------------------------- | --------------------------------------------------------- |
-| [[Enter Attic]]           | <ul><li>mhm</li><li>lock-and-key</li></ul>                |
-| [[Scrape the Tiles]] | <ul><li>mhm</li><li>chore</li><li>fix-the-thing</li></ul> |
-| [[目 Eye]]                 | <ul><li>mhm</li></ul>                                     |
+| puzzle                                                           |
+| ---------------------------------------------------------------- |
+| [[Enter Attic]]           |
+| [[Scrape the Tiles]] |
+| [[目 Eye]]                 |
 <!-- SerializedQuery END -->
 

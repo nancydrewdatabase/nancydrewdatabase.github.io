@@ -1,7 +1,6 @@
 ---
 game: "[[04 TRT]]"
 tags:
-  - trt
   - bedroom
 ---
 ## Inventory
@@ -22,6 +21,7 @@ tags:
 | puzzle                                                                                     |
 | ------------------------------------------------------------------------------------------ |
 | [[Watch Hotchkiss’ Video]]               |
+| [[Order Dinner for Hotchkiss]]       |
 | [[Hotchkiss' Research Questions]] |
 | [[Find the Blue Medallion]]             |
 <!-- SerializedQuery END -->

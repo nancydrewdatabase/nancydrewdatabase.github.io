@@ -1,7 +1,6 @@
 ---
 game: "[[04 TRT]]"
 tags:
-  - trt
   - library
 ---
 
@@ -22,10 +21,10 @@ tags:
 
 | library                                                                                                  |
 | -------------------------------------------------------------------------------------------------------- |
-| [[An Atlas of the United States]]               |
 | [[The Diary Of Hans Axel von Fersen]]       |
 | [[Purple-Hearted Queen]]                                 |
 | [[True Stories Behind Famous Portraits]] |
+| [[An Atlas of the United States]]               |
 <!-- SerializedQuery END -->
 
 ## Second Chance

@@ -3,7 +3,6 @@ game: "[[04 TRT]]"
 environment: "[[Under Royal Tower]]"
 related: "[[Stop the Culprit in the Royal Tower]]"
 tags:
-  - trt  
   - catch-the-culprit
   - out-of-time
   - puzzle-failed

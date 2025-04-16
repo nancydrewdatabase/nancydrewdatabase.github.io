@@ -1,37 +1,36 @@
 ---
 game: "[[03 MHM]]"
 tags:
-  - mhm
   - basement
   - secret
 ---
 ## Inventory
 
-<!-- QueryToSerialize: Table WITHOUT ID file.link as item, tags from "content/03 MHM/Inventory" where contains(environment,  [[]]) -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as item, tags from "content/03 MHM/Inventory" where contains(environment,  [[]]) -->
+<!-- QueryToSerialize: Table WITHOUT ID file.link as item from "content/03 MHM/Inventory" where contains(environment,  [[]]) -->
+<!-- SerializedQuery: Table WITHOUT ID file.link as item from "content/03 MHM/Inventory" where contains(environment,  [[]]) -->
 
-| item                                                     | tags                                    |
-| -------------------------------------------------------- | --------------------------------------- |
-| [[Floppy Disk]] | <ul><li>tech</li><li>optional</li></ul> |
+| item                                                     |
+| -------------------------------------------------------- |
+| [[Floppy Disk]] |
 <!-- SerializedQuery END -->
 
 ## Puzzle
-<!-- QueryToSerialize: Table WITHOUT ID file.link as puzzle, tags from "content/03 MHM/Puzzles" where contains(environment,  [[]]) sort tags desc -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as puzzle, tags from "content/03 MHM/Puzzles" where contains(environment,  [[]]) sort tags desc -->
+<!-- QueryToSerialize: Table WITHOUT ID file.link as puzzle from "content/03 MHM/Puzzles" where contains(environment,  [[]]) sort tags desc -->
+<!-- SerializedQuery: Table WITHOUT ID file.link as puzzle from "content/03 MHM/Puzzles" where contains(environment,  [[]]) sort tags desc -->
 
-| puzzle                                                                   | tags                                                 |
-| ------------------------------------------------------------------------ | ---------------------------------------------------- |
-| [[Read Charlie’s Paper]] | <ul><li>mhm</li><li>snoop</li><li>optional</li></ul> |
-| [[王 King]]                       | <ul><li>mhm</li></ul>                                |
+| puzzle                                                                   |
+| ------------------------------------------------------------------------ |
+| [[Read Charlie’s Paper]] |
+| [[王 King]]                       |
 <!-- SerializedQuery END -->
 
 ## Library
-<!-- QueryToSerialize: Table WITHOUT ID file.link as library, tags from "content/03 MHM/Library" where contains(environment,  [[]]) sort tags desc -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as library, tags from "content/03 MHM/Library" where contains(environment,  [[]]) sort tags desc -->
+<!-- QueryToSerialize: Table WITHOUT ID file.link as library from "content/03 MHM/Library" where contains(environment,  [[]]) sort tags desc -->
+<!-- SerializedQuery: Table WITHOUT ID file.link as library from "content/03 MHM/Library" where contains(environment,  [[]]) sort tags desc -->
 
-| library                                                                                                          | tags                                                |
-| ---------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
-| [[San Francisco Postcard]]                                     | <ul><li>mhm</li><li>postcard</li></ul>              |
-| [[Bandits, Outlaws, Scofflaws and the Like]] | <ul><li>mhm</li><li>book</li><li>no-cover</li></ul> |
+| library                                                                                                          |
+| ---------------------------------------------------------------------------------------------------------------- |
+| [[San Francisco Postcard]]                                     |
+| [[Bandits, Outlaws, Scofflaws and the Like]] |
 <!-- SerializedQuery END -->
 

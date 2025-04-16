@@ -2,7 +2,6 @@
 game: "[[03 MHM]]"
 environment: "[[Golden Gardenia Second Floor Hallway]]"
 tags:
-  - mhm
   - chore
   - fix-the-thing
 ---

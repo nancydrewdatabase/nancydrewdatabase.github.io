@@ -2,7 +2,6 @@
 game: "[[04 TRT]]"
 environment: "[[Wickford Lobby]]"
 tags: 
-  - trt
   - key
 ---
 ## Prerequisites

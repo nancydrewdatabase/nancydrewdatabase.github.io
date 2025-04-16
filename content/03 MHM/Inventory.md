@@ -1,6 +1,5 @@
 ---
 game: "[[03 MHM]]"
-title: Inventory
 aliases:
   - MHM Inventory
 tags: 
@@ -12,22 +11,22 @@ tags:
 
 | item                                                                   | environment                                                                                                         |
 | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| [[Antique Desk Key]]     | [[Nancy's Chinese Room]]                                       |
-| [[Attic Tile]]                 | [[Golden Gardenia Attic]]                                     |
-| [[Attic Trapdoor Key]] | [[Golden Gardenia Basement Saloon]]                 |
-| [[Crowbar]]                       | [[Golden Gardenia Attic]]                                     |
+| [[Antique Desk Key]]     | [[Chinese Room]]                                                       |
 | [[Cassette]]                     | [[Golden Gardenia Basement Saloon]]                 |
+| [[Crowbar]]                       | [[Golden Gardenia Attic]]                                     |
+| [[Attic Tile]]                 | [[Golden Gardenia Attic]]                                     |
 | [[Dumbwaiter Tile]]       | [[Golden Gardenia Second Floor Hallway]]       |
-| [[Fire Extinguisher]]   | [[Golden Gardenia Parlor]]                                   |
+| [[Attic Trapdoor Key]] | [[Golden Gardenia Basement Saloon]]                 |
 | [[Floppy Disk]]               | [[Golden Gardenia Basement Secret Passage]] |
-| [[Iron]]                             | [[Golden Gardenia Attic]]                                     |
 | [[Gold Charm]]                 | [[Golden Gardenia Grand Staircase]]                 |
+| [[Fire Extinguisher]]   | [[Golden Gardenia Parlor]]                                   |
+| [[Library Tile]]             | [[Golden Gardenia Library]]                                 |
+| [[Iron]]                             | [[Golden Gardenia Attic]]                                     |
 | [[Lantern]]                       | [[Golden Gardenia Library Secret Passage]]   |
 | [[Luggage Key]]               | \-                                                                                                                  |
-| [[Paint Scraper]]           | [[Golden Gardenia Entryway]]                               |
-| [[Library Tile]]             | [[Golden Gardenia Library]]                                 |
-| [[Ruby]]                             | [[Nancy's Chinese Room]]                                       |
+| [[Ruby]]                             | [[Chinese Room]]                                                       |
 | [[Screwdriver]]               | [[Golden Gardenia Basement Saloon]]                 |
+| [[Paint Scraper]]           | [[Golden Gardenia Entryway]]                               |
 | [[Spider Charm]]             | [[Abby's Room]]                                                         |
 | [[Torn Music Sheet]]     | [[Golden Gardenia Basement Saloon]]                 |
 <!-- SerializedQuery END -->

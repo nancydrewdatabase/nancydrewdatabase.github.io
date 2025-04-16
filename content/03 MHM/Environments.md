@@ -1,6 +1,5 @@
 ---
 game: "[[03 MHM]]"
-title: Environments
 aliases:
   - MHM Environments
 tags: 
@@ -17,13 +16,13 @@ tags:
 | [[Golden Gardenia Attic]]                                     |
 | [[Golden Gardenia Basement Saloon]]                 |
 | [[Golden Gardenia Basement Secret Passage]] |
-| [[Golden Gardenia Entryway]]                               |
 | [[Golden Gardenia Dining Room]]                         |
+| [[Golden Gardenia Entryway]]                               |
 | [[Golden Gardenia First Floor Hallway]]         |
-| [[Golden Gardenia Library]]                                 |
 | [[Golden Gardenia Grand Staircase]]                 |
-| [[Golden Gardenia Parlor]]                                   |
 | [[Golden Gardenia Library Secret Passage]]   |
+| [[Golden Gardenia Library]]                                 |
+| [[Golden Gardenia Parlor]]                                   |
 | [[Golden Gardenia Second Floor Hallway]]       |
-| [[Nancy's Chinese Room]]                                       |
+| [[Chinese Room]]                                                       |
 <!-- SerializedQuery END -->

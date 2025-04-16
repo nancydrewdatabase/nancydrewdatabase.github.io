@@ -2,7 +2,6 @@
 game: "[[04 TRT]]"
 environment: "[[Wickford Library]]" 
 tags: 
-  - trt
   - journal
 author: Hans Axel von Fersen
 ---

@@ -2,7 +2,6 @@
 game: "[[04 TRT]]"
 environment: "[[Wickford Library Secret Room]]"
 tags: 
-  - trt
   - scrapbook
 author: "[[Ezra Wickford]]"
 ---

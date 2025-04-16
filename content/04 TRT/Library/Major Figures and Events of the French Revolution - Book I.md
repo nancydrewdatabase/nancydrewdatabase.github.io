@@ -2,7 +2,6 @@
 game: "[[04 TRT]]"
 environment: "[[Wickford Sitting Room]]"
 tags: 
-  - trt
   - book
   - history
   - clue

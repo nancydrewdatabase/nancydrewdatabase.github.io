@@ -3,7 +3,6 @@ game: "[[04 TRT]]"
 environment: "[[Outside Wickford Castle]]"
 related: "[[Get Locked Outside]]"
 tags:
-  - trt
   - freeze-to-death
   - out-of-time
   - puzzle failed

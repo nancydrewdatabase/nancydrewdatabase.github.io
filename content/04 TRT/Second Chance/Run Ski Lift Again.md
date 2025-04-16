@@ -3,7 +3,6 @@ game: "[[04 TRT]]"
 environment: "[[Wickford Ski Shed]]"
 related: "[[Start Ski Lift]]"
 tags:
-  - trt
   - don't-push-the-button
 ---
 ## Related

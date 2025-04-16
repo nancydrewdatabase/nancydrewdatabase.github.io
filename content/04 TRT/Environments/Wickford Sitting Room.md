@@ -1,7 +1,7 @@
 ---
 game: "[[04 TRT]]"
 tags:
-  - trt
+  - parlor
 ---
 ## Characters
 <!-- QueryToSerialize: Table WITHOUT ID file.link as characters from "content/04 TRT/Characters" where contains(environment,  [[]]) -->
@@ -9,8 +9,8 @@ tags:
 
 | characters                                                                |
 | ------------------------------------------------------------------------- |
-| [[Lisa Ostrum]]                 |
 | [[Professor Hotchkiss]] |
+| [[Lisa Ostrum]]                 |
 <!-- SerializedQuery END -->
 
 ## Inventory
@@ -27,11 +27,11 @@ tags:
 <!-- QueryToSerialize: Table WITHOUT ID file.link as puzzle from "content/04 TRT/Puzzles" where contains(environment,  [[]]) sort tags desc -->
 <!-- SerializedQuery: Table WITHOUT ID file.link as puzzle from "content/04 TRT/Puzzles" where contains(environment,  [[]]) sort tags desc -->
 
-| puzzle                                                                                                                                                                                                     |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Translate Marie’s Journal]]                                                                                                                         |
-| [[How old was Marie Antoinette when she married King Louis]]                                       |
+| puzzle                                                                                                                                                                                                               |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Translate Marie’s Journal]]                                                                                                                                   |
 | [[How many days before her 38th birthday was Marie Antoinette executed]]               |
+| [[How old was Marie Antoinette when she married King Louis]]                                       |
 | [[On what date was the Bastille prison destroyed during the French Revolution]] |
 <!-- SerializedQuery END -->
 ## Library

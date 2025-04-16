@@ -2,7 +2,6 @@
 game: "[[04 TRT]]"
 environment: "[[Wickford Elevator]]"
 tags:
-  - trt
   - elevator
   - escape
 ---

@@ -18,12 +18,7 @@ tags:
 <!-- QueryToSerialize: Table WITHOUT ID file.link as question, answer from "content/04 TRT/Puzzles/Hotchkiss Questions" sort answer asc -->
 <!-- SerializedQuery: Table WITHOUT ID file.link as question, answer from "content/04 TRT/Puzzles/Hotchkiss Questions" sort answer asc -->
 
-| question                                                                                                                                                                                                         | answer                                  |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
-| [[How old was Marie Antoinette when she married King Louis]]                                             | 15                                      |
-| [[How many days before her 38th birthday was Marie Antoinette executed]]                     | 17                                      |
-| [[What is the model number on the elevator]]                                                                             | 50964                                   |
-| [[On what date was the Bastille prison destroyed during the French Revolution]]       | July 14, 1789                           |
-| [[Not counting the towers, how many windows are there on the faces of the castle]] | Trick Question - ask for a new question |
+| question | answer |
+| -------- | ------ |
 <!-- SerializedQuery END -->
 

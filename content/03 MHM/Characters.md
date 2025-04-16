@@ -1,6 +1,5 @@
 ---
 game: "[[03 MHM]]"
-title: Characters
 aliases:
   - MHM Characters
 tags: 
@@ -14,8 +13,8 @@ tags:
 | character                                                       | environment                                                                                         |
 | --------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
 | [[Rose Green]]         | [[Golden Gardenia Dining Room]]         |
-| [[Charlie Murphy]] | [[Golden Gardenia Basement Saloon]] |
 | [[Abby Sideris]]     | [[Abby's Room]]                                         |
+| [[Charlie Murphy]] | [[Golden Gardenia Basement Saloon]] |
 | [[Louis Chandler]] | [[Golden Gardenia Library]]                 |
 <!-- SerializedQuery END -->
 

@@ -2,7 +2,6 @@
 game: "[[03 MHM]]"
 environment: "[[Golden Gardenia Basement Secret Passage]]"
 tags:
-  - mhm
   - tech
   - optional
 ---

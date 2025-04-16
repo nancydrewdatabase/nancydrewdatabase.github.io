@@ -1,6 +1,5 @@
 ---
 game: "[[04 TRT]]"
-title: Environments
 aliases:
   - TRT Environments
 tags: 
@@ -15,21 +14,21 @@ tags:
 | [[Ezra's Secret Garden]]                       |
 | [[Hotchkiss' Room 214]]                         |
 | [[Nancy's Room 205]]                               |
-| [[Portrait Alcove]]                                 |
-| [[Wickford Basement]]                             |
 | [[Outside Wickford Castle]]                 |
+| [[Portrait Alcove]]                                 |
+| [[Royal Tower Golden Room]]                 |
+| [[Under Royal Tower]]                             |
 | [[Wickford Elevator]]                             |
-| [[Wickford First Floor]]                       |
 | [[Wickford Elevator Shaft]]                 |
+| [[Wickford Basement]]                             |
+| [[Wickford First Floor]]                       |
 | [[Wickford Library Secret Room]]       |
 | [[Wickford Library]]                               |
 | [[Wickford Lobby]]                                   |
 | [[Wickford Second Floor]]                     |
-| [[Wickford Sitting Room]]                     |
 | [[Wickford Secret Passage Hallway]] |
+| [[Wickford Sitting Room]]                     |
 | [[Wickford Ski Locker Room]]               |
 | [[Wickford Ski Shed]]                             |
 | [[Wickford Ski Shop]]                             |
-| [[Under Royal Tower]]                             |
-| [[Royal Tower Golden Room]]                 |
 <!-- SerializedQuery END -->

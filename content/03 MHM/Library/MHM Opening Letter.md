@@ -1,7 +1,6 @@
 ---
 game: "[[03 MHM]]"
 tags:
-  - mhm
   - opening-letter
   - case-file
 author: "[[Nancy Drew]]"

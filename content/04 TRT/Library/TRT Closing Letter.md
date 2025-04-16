@@ -2,7 +2,6 @@
 game: "[[04 TRT]]"
 environment: 
 tags: 
-  - trt
   - case-file
   - closing-letter
 author: "[[Nancy Drew]]"

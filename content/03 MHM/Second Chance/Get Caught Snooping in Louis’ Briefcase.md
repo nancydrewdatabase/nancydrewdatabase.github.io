@@ -3,7 +3,6 @@ game: "[[03 MHM]]"
 environment: "[[Golden Gardenia Library]]"
 related: "[[Open Louis’ Briefcase]]"
 tags:
-  - mhm
   - caught-snooping
   - out-of-time
 ---

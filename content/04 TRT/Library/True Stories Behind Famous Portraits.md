@@ -2,7 +2,6 @@
 game: "[[04 TRT]]"
 environment: "[[Wickford Library]]" 
 tags: 
-  - trt
   - book
   - history
 author: C.B. Brown

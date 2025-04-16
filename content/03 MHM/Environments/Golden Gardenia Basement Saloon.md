@@ -1,47 +1,46 @@
 ---
 game: "[[03 MHM]]"
 tags:
-  - mhm
   - basement
 ---
 ## Characters
-<!-- QueryToSerialize: Table WITHOUT ID file.link as characters, tags from "content/03 MHM/Characters" where contains(environment,  [[]]) -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as characters, tags from "content/03 MHM/Characters" where contains(environment,  [[]]) -->
+<!-- QueryToSerialize: Table WITHOUT ID file.link as characters from "content/03 MHM/Characters" where contains(environment,  [[]]) -->
+<!-- SerializedQuery: Table WITHOUT ID file.link as characters from "content/03 MHM/Characters" where contains(environment,  [[]]) -->
 
-| characters                                                      | tags                                  |
-| --------------------------------------------------------------- | ------------------------------------- |
-| [[Charlie Murphy]] | <ul><li>mhm</li><li>suspect</li></ul> |
+| characters                                                      |
+| --------------------------------------------------------------- |
+| [[Charlie Murphy]] |
 <!-- SerializedQuery END -->
 
 ## Inventory
 
-<!-- QueryToSerialize: Table WITHOUT ID file.link as item, tags from "content/03 MHM/Inventory" where contains(environment,  [[]]) -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as item, tags from "content/03 MHM/Inventory" where contains(environment,  [[]]) -->
+<!-- QueryToSerialize: Table WITHOUT ID file.link as item from "content/03 MHM/Inventory" where contains(environment,  [[]]) -->
+<!-- SerializedQuery: Table WITHOUT ID file.link as item from "content/03 MHM/Inventory" where contains(environment,  [[]]) -->
 
-| item                                                                   | tags                                    |
-| ---------------------------------------------------------------------- | --------------------------------------- |
-| [[Attic Trapdoor Key]] | <ul><li>key</li></ul>                   |
-| [[Cassette]]                     | <ul><li>tech</li><li>optional</li></ul> |
-| [[Screwdriver]]               | <ul><li>tool</li><li>optional</li></ul> |
-| [[Torn Music Sheet]]     | <ul><li>music</li><li>code</li></ul>    |
+| item                                                                   |
+| ---------------------------------------------------------------------- |
+| [[Cassette]]                     |
+| [[Attic Trapdoor Key]] |
+| [[Screwdriver]]               |
+| [[Torn Music Sheet]]     |
 <!-- SerializedQuery END -->
 
 ## Puzzle
-<!-- QueryToSerialize: Table WITHOUT ID file.link as puzzle, tags from "content/03 MHM/Puzzles" where contains(environment,  [[]]) sort tags desc -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as puzzle, tags from "content/03 MHM/Puzzles" where contains(environment,  [[]]) sort tags desc -->
+<!-- QueryToSerialize: Table WITHOUT ID file.link as puzzle from "content/03 MHM/Puzzles" where contains(environment,  [[]]) sort tags desc -->
+<!-- SerializedQuery: Table WITHOUT ID file.link as puzzle from "content/03 MHM/Puzzles" where contains(environment,  [[]]) sort tags desc -->
 
-| puzzle                                                                                                 | tags                                                    |
-| ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------- |
-| [[Enter Saloon Secret Passage]]                 | <ul><li>mhm</li><li>use-tool</li><li>optional</li></ul> |
-| [[Play The Bandit’s Treasure on Piano]] | <ul><li>mhm</li><li>music</li><li>piano</li></ul>       |
-| [[川 River]]                                                   | <ul><li>mhm</li></ul>                                   |
+| puzzle                                                                                                 |
+| ------------------------------------------------------------------------------------------------------ |
+| [[Enter Saloon Secret Passage]]                 |
+| [[Play The Bandit’s Treasure on Piano]] |
+| [[川 River]]                                                   |
 <!-- SerializedQuery END -->
 
 ## Library
-<!-- QueryToSerialize: Table WITHOUT ID file.link as library, tags from "content/03 MHM/Library" where contains(environment,  [[]]) sort tags desc -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as library, tags from "content/03 MHM/Library" where contains(environment,  [[]]) sort tags desc -->
+<!-- QueryToSerialize: Table WITHOUT ID file.link as library from "content/03 MHM/Library" where contains(environment,  [[]]) sort tags desc -->
+<!-- SerializedQuery: Table WITHOUT ID file.link as library from "content/03 MHM/Library" where contains(environment,  [[]]) sort tags desc -->
 
-| library                                                                                                                        | tags                                                |
-| ------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------- |
-| [[Famous Non-Alcoholic Drinks and how to mix them]] | <ul><li>mhm</li><li>book</li><li>cookbook</li></ul> |
+| library                                                                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------ |
+| [[Famous Non-Alcoholic Drinks and how to mix them]] |
 <!-- SerializedQuery END -->

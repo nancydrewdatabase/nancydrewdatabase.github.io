@@ -2,7 +2,6 @@
 game: "[[04 TRT]]"
 environment: "[[Hotchkiss' Room 214]]"
 tags: 
-  - trt
   - tech
 ---
 ## Prerequisites

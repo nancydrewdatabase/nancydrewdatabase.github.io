@@ -3,7 +3,6 @@ game: "[[03 MHM]]"
 environment: "[[Golden Gardenia Entryway]]"
 related: "[[Stop the Culprit in the Haunted Mansion]]"
 tags:
-  - mhm
   - catch-the-culprit
   - out-of-time
   - puzzle-failed
