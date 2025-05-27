@@ -7,3 +7,4 @@ related:
   - "[[Bess Marvin]]"
   - "[[George Fayne]]"
 ---
+- Bess' phone number - 1-523-555-HINT

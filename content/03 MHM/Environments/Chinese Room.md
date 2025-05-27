@@ -41,3 +41,8 @@ tags:
 | [[Nancy's Notebook]] |
 <!-- SerializedQuery END -->
 
+## Utilities
+
+| utility             |
+| ------------------- |
+| [[Chinese Room Alarm Clock]] |

@@ -4,14 +4,16 @@ tags:
   - parlor
 ---
 ## Characters
-<!-- QueryToSerialize: Table WITHOUT ID file.link as characters from "content/03 MHM/Characters" where contains(tags,  "phone") -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as characters from "content/03 MHM/Characters" where contains(tags,  "phone") -->
+<!-- QueryToSerialize: Table WITHOUT ID file.link as characters, phone from "content/03 MHM/Characters" where contains(tags,  "phone") -->
+<!-- SerializedQuery: Table WITHOUT ID file.link as characters, phone from "content/03 MHM/Characters" where contains(tags,  "phone") -->
 
-| characters                                                        |
-| ----------------------------------------------------------------- |
-| [[Bess and George]] |
-| [[Emily Foxworth]]   |
+| characters                                                        | phone          |
+| ----------------------------------------------------------------- | -------------- |
+| [[Bess and George]] | 1-523-555-4468 |
+| [[Emily Foxworth]]   | 555-5367       |
+| [[Hannah Gruen]]       | 1-523-555-3739 |
 <!-- SerializedQuery END -->
+
 
 ## Inventory
 <!-- QueryToSerialize: Table WITHOUT ID file.link as item from "content/03 MHM/Inventory" where contains(environment,  [[]]) -->
@@ -41,3 +43,8 @@ tags:
 | [[Subterranean San Francisco - Explore the Hidden World that Lies Beneath the City]] |
 <!-- SerializedQuery END -->
 
+## Utilities
+
+| utility          |
+| ---------------- |
+| [[Golden Gardenia Landline]] |

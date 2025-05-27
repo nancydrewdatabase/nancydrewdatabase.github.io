@@ -16,3 +16,4 @@ Nancy Drew is invited, by a friend, to San Francisco to assist in the renovation
 - [[03 MHM/Second Chance|Second Chance]]
 - [[03 MHM/Easter Eggs|Easter Eggs]]
 - [[03 MHM/Misc|Misc]]
+- [[03 MHM/Utilities|Utilities]]
