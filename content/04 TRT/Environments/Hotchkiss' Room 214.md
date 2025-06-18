@@ -21,9 +21,9 @@ tags:
 | puzzle                                                                                     |
 | ------------------------------------------------------------------------------------------ |
 | [[Watch Hotchkiss’ Video]]               |
-| [[Order Dinner for Hotchkiss]]       |
 | [[Hotchkiss' Research Questions]] |
 | [[Find the Blue Medallion]]             |
+| [[Order Dinner for Hotchkiss]]       |
 <!-- SerializedQuery END -->
 
 ## Library

@@ -18,16 +18,16 @@ tags:
 | [[Portrait Alcove]]                                 |
 | [[Royal Tower Golden Room]]                 |
 | [[Under Royal Tower]]                             |
-| [[Wickford Elevator]]                             |
 | [[Wickford Elevator Shaft]]                 |
 | [[Wickford Basement]]                             |
+| [[Wickford Elevator]]                             |
 | [[Wickford First Floor]]                       |
-| [[Wickford Library Secret Room]]       |
 | [[Wickford Library]]                               |
 | [[Wickford Lobby]]                                   |
+| [[Wickford Library Secret Room]]       |
 | [[Wickford Second Floor]]                     |
-| [[Wickford Secret Passage Hallway]] |
 | [[Wickford Sitting Room]]                     |
+| [[Wickford Secret Passage Hallway]] |
 | [[Wickford Ski Locker Room]]               |
 | [[Wickford Ski Shed]]                             |
 | [[Wickford Ski Shop]]                             |

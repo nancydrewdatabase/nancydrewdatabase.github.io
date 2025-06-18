@@ -11,17 +11,17 @@ tags:
 
 | environment                                                                                                         |
 | ------------------------------------------------------------------------------------------------------------------- |
-| [[Golden Gardenia Attic]]                                     |
-| [[Chinese Room]]                                                       |
 | [[Abby's Room]]                                                         |
+| [[Golden Gardenia Attic]]                                     |
 | [[Golden Gardenia Basement Saloon]]                 |
-| [[Golden Gardenia Entryway]]                               |
-| [[Golden Gardenia Dining Room]]                         |
 | [[Golden Gardenia Basement Secret Passage]] |
+| [[Chinese Room]]                                                       |
+| [[Golden Gardenia Dining Room]]                         |
 | [[Golden Gardenia First Floor Hallway]]         |
+| [[Golden Gardenia Grand Staircase]]                 |
 | [[Golden Gardenia Library Secret Passage]]   |
 | [[Golden Gardenia Library]]                                 |
-| [[Golden Gardenia Grand Staircase]]                 |
 | [[Golden Gardenia Parlor]]                                   |
 | [[Golden Gardenia Second Floor Hallway]]       |
+| [[Golden Gardenia Entryway]]                               |
 <!-- SerializedQuery END -->

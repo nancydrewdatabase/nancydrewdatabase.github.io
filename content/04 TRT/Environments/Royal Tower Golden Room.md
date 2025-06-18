@@ -19,8 +19,8 @@ tags:
 
 | puzzle                                                                   |
 | ------------------------------------------------------------------------ |
-| [[Tower Floor Design]]     |
 | [[Golden Leaf Puzzle]]     |
+| [[Tower Floor Design]]     |
 | [[Find the Diamond Key]] |
 <!-- SerializedQuery END -->
 

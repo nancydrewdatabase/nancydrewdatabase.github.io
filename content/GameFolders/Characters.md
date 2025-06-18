@@ -23,7 +23,7 @@ tags:
 
 ## Mentions
 <!-- QueryToSerialize: TABLE WITHOUT ID file.link as character from "content/X/Characters" where contains(tags, "mention") sort tags desc -->
-<!-- SerializedQuery: TABLE WITHOUT ID file.link as character from "content/05 FIN/Characters" where contains(tags, "mention") sort tags desc -->
+<!-- SerializedQuery: TABLE WITHOUT ID file.link as character from "content/X/Characters" where contains(tags, "mention") sort tags desc -->
 
 | character |
 | --------- |

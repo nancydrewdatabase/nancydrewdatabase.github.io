@@ -15,8 +15,8 @@ tags:
 | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Dexter Egan]]                 | [[Wickford Lobby]]                                                                                                                       |
 | [[Jacques Brunais]]         | [[Wickford Ski Shop]]                                                                                                                 |
-| [[Professor Hotchkiss]] | <ul><li>[[Hotchkiss' Room 214]]</li><li>[[Wickford Sitting Room]]</li></ul> |
 | [[Lisa Ostrum]]                 | [[Wickford Sitting Room]]                                                                                                         |
+| [[Professor Hotchkiss]] | <ul><li>[[Hotchkiss' Room 214]]</li><li>[[Wickford Sitting Room]]</li></ul> |
 <!-- SerializedQuery END -->
 
 ## Phone Contacts

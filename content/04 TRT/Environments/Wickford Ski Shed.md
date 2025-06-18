@@ -20,7 +20,7 @@ tags:
 
 | puzzle                                                                           |
 | -------------------------------------------------------------------------------- |
-| [[Start Ski Lift]]                     |
 | [[Find the Green Medallion]] |
+| [[Start Ski Lift]]                     |
 <!-- SerializedQuery END -->
 

@@ -19,8 +19,8 @@ tags:
 
 | item                                                                   |
 | ---------------------------------------------------------------------- |
-| [[Cassette]]                     |
 | [[Attic Trapdoor Key]] |
+| [[Cassette]]                     |
 | [[Screwdriver]]               |
 | [[Torn Music Sheet]]     |
 <!-- SerializedQuery END -->

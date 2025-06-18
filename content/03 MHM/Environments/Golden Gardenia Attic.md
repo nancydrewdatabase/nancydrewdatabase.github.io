@@ -10,8 +10,8 @@ tags:
 
 | item                                                   |
 | ------------------------------------------------------ |
-| [[Crowbar]]       |
 | [[Attic Tile]] |
+| [[Crowbar]]       |
 | [[Iron]]             |
 <!-- SerializedQuery END -->
 

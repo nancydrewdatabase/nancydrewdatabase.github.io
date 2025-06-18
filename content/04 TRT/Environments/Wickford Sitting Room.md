@@ -9,8 +9,8 @@ tags:
 
 | characters                                                                |
 | ------------------------------------------------------------------------- |
-| [[Professor Hotchkiss]] |
 | [[Lisa Ostrum]]                 |
+| [[Professor Hotchkiss]] |
 <!-- SerializedQuery END -->
 
 ## Inventory
@@ -30,8 +30,8 @@ tags:
 | puzzle                                                                                                                                                                                                               |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Translate Marie’s Journal]]                                                                                                                                   |
-| [[How many days before her 38th birthday was Marie Antoinette executed]]               |
 | [[How old was Marie Antoinette when she married King Louis]]                                       |
+| [[How many days before her 38th birthday was Marie Antoinette executed]]               |
 | [[On what date was the Bastille prison destroyed during the French Revolution]] |
 <!-- SerializedQuery END -->
 ## Library

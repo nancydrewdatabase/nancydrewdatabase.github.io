@@ -13,9 +13,9 @@ tags:
 | character                                                       | environment                                                                                         |
 | --------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
 | [[Rose Green]]         | [[Golden Gardenia Dining Room]]         |
-| [[Abby Sideris]]     | [[Abby's Room]]                                         |
 | [[Charlie Murphy]] | [[Golden Gardenia Basement Saloon]] |
 | [[Louis Chandler]] | [[Golden Gardenia Library]]                 |
+| [[Abby Sideris]]     | [[Abby's Room]]                                         |
 <!-- SerializedQuery END -->
 
 ## Phone Contacts
