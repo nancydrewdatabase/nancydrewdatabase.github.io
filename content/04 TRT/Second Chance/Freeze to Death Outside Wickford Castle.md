@@ -1,11 +1,12 @@
 ---
 game: "[[04 TRT]]"
 environment: "[[Outside Wickford Castle]]"
-related: "[[Get Locked Outside]]"
+related:
+  - "[[Get Locked Outside]]"
 tags:
   - freeze-to-death
   - out-of-time
-  - puzzle failed
+  - puzzle-failed
 ---
 ## Related
 - [[Get Locked Outside]]

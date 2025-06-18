@@ -7,8 +7,7 @@ tags:
 author: "[[Nancy Drew]]"
 recepient: "[[George Fayne]]"
 ---
-
-# Text
+## Text
 
 _Dear [[George Fayne|George]],_
 

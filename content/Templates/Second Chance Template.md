@@ -1,9 +1,8 @@
 ---
-game: "[[04 TRT]]"
+game: 
 environment: 
 related puzzle: 
 tags:
-  - trt
 ---
 ## Related
 - 

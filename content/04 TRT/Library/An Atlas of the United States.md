@@ -7,8 +7,8 @@ tags:
   - clue
 author: J. Putnam
 ---
-# Text
-## Wisconsin
+## Text
+### Wisconsin
 - Capital: Madison
 - Organized as Territory: July 4, 1836
 - Entered Union: May 29, 1848

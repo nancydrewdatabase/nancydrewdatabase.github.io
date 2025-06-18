@@ -3,6 +3,7 @@ game: "[[03 MHM]]"
 environment: "[[Golden Gardenia Basement Saloon]]"
 tags:
   - cutscene
+  - misc
 ---
 ## Prerequisites
 - Talk to [[Louis Chandler|Louis]]

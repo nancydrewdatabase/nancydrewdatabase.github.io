@@ -1,5 +1,5 @@
 ---
-game: "[[04 TRT]]"
-tags: 
+game: 
+tags:
   - characters
 ---

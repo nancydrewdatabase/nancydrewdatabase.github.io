@@ -5,16 +5,16 @@ tags:
 ---
 
 ## Suspects
-<!-- QueryToSerialize: TABLE WITHOUT ID file.link as character, environment from "content/05 FIN/Characters" where contains(tags, "suspect") sort tags desc -->
-<!-- SerializedQuery: TABLE WITHOUT ID file.link as character, environment from "content/05 FIN/Characters" where contains(tags, "suspect") sort tags desc -->
+<!-- QueryToSerialize: TABLE WITHOUT ID file.link as character, environment from "content/X/Characters" where contains(tags, "suspect") sort tags desc -->
+<!-- SerializedQuery: TABLE WITHOUT ID file.link as character, environment from "content/X/Characters" where contains(tags, "suspect") sort tags desc -->
 
 | character | environment |
 | --------- | ----------- |
 <!-- SerializedQuery END -->
 
 ## Phone Contacts
-<!-- QueryToSerialize: TABLE WITHOUT ID file.link as character, phone from "content/05 FIN/Characters" where contains(tags, "phone") sort tags desc -->
-<!-- SerializedQuery: TABLE WITHOUT ID file.link as character, phone from "content/05 FIN/Characters" where contains(tags, "phone") sort tags desc -->
+<!-- QueryToSerialize: TABLE WITHOUT ID file.link as character, phone from "content/X/Characters" where contains(tags, "phone") sort tags desc -->
+<!-- SerializedQuery: TABLE WITHOUT ID file.link as character, phone from "content/X/Characters" where contains(tags, "phone") sort tags desc -->
 
 | character | phone |
 | --------- | ----- |
@@ -22,8 +22,8 @@ tags:
 
 
 ## Mentions
-<!-- QueryToSerialize: TABLE WITHOUT ID file.link as character from "content/05 FIN/Characters" where contains(tags, "mention") sort tags desc -->
-<!-- SerializedQuery: TABLE WITHOUT ID file.link as character from "content/05 FIN/Characters" where contains(tags, "mention") sort tags desc -->
+<!-- QueryToSerialize: TABLE WITHOUT ID file.link as character from "content/X/Characters" where contains(tags, "mention") sort tags desc -->
+<!-- SerializedQuery: TABLE WITHOUT ID file.link as character from "content/X/Characters" where contains(tags, "mention") sort tags desc -->
 
 | character |
 | --------- |

@@ -1,13 +1,14 @@
 ---
-
+tags:
+  - blog
+  - wiki
 ---
 I know I'm not the only one out there, and decided to make a [website](https://nancydcluecrew.wixsite.com/nancydrewcluecrew) for other Nancy Drew fans around the world.
 
-
 | [Nancy Drew Games](https://nancydcluecrew.wixsite.com/nancydrewcluecrew/nancy-drew-games) |                |
 | ----------------------------------------------------------------------------------------- | -------------- |
-| [Nancy Drew Books](https://nancydcluecrew.wixsite.com/nancydrewcluecrew/nancy-drew-books) | #book          |
-| [Book-Based Games](https://nancydcluecrew.wixsite.com/nancydrewcluecrew/book-based-games) | #book          |
+| [Nancy Drew Books](https://nancydcluecrew.wixsite.com/nancydrewcluecrew/nancy-drew-books) | #library       |
+| [Book-Based Games](https://nancydcluecrew.wixsite.com/nancydrewcluecrew/book-based-games) | #library       |
 | [Awards](https://nancydcluecrew.wixsite.com/nancydrewcluecrew/awards)                     | #award         |
 | [Characters](https://nancydcluecrew.wixsite.com/nancydrewcluecrew/characters)             | #characters    |
 | [Cookies](https://nancydcluecrew.wixsite.com/nancydrewcluecrew/cookies)                   | #easter-eggs   |

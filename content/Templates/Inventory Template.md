@@ -1,8 +1,7 @@
 ---
-game: "[[04 TRT]]"
+game: 
 environment: 
-tags: 
-  - trt
+tags:
 ---
 ## Prerequisites
 - 

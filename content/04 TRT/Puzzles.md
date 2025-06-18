@@ -2,9 +2,9 @@
 game: "[[04 TRT]]"
 aliases:
   - TRT Puzzles
-tags: 
+tags:
   - trt
-  - puzzles
+  - puzzle
 ---
 
 <!-- QueryToSerialize: Table WITHOUT ID file.link as puzzle, environment from "content/04 TRT/Puzzles" where !startswith(file.path, "content/04 TRT/Puzzles/Hotchkiss Questions") sort file.link -->

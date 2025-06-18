@@ -12,4 +12,4 @@ Welcome to [TV Tropes](https://tvtropes.org/): THE ALL DEVOURING POP-CULTURE WIK
 | [11CurseOfBlackmoorManor](https://tvtropes.org/pmwiki/pmwiki.php/Recap/NancyDrewGame11CurseOfBlackmoorManor)     | #cur        |
 | [16WhiteWolfOfIcicleCreek](https://tvtropes.org/pmwiki/pmwiki.php/Recap/NancyDrewGame16WhiteWolfOfIcicleCreek)   | #ice        |
 | [Trivia](https://tvtropes.org/pmwiki/pmwiki.php/Trivia/NancyDrew)                                                | #trivia     |
-| [StockVideoGamePuzzle](https://tvtropes.org/pmwiki/pmwiki.php/Main/StockVideoGamePuzzle)                         | #puzzles    |
+| [StockVideoGamePuzzle](https://tvtropes.org/pmwiki/pmwiki.php/Main/StockVideoGamePuzzle)                         | #puzzle     |

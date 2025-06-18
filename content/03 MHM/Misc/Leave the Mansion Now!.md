@@ -3,6 +3,7 @@ game: "[[03 MHM]]"
 environment: "[[Chinese Room]]"
 tags:
   - letter
+  - misc
 ---
 ## Prerequisites
 - [[Open Louis’ Briefcase]] and after go to [[Chinese Room]] 

@@ -4,7 +4,6 @@ environment: "[[Golden Gardenia Dining Room]]"
 tags:
   - letter
 ---
-
 ## Text
 
 ASIAN PACIFIC FIRE INSURANCE COMPANY

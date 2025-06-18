@@ -1,9 +1,9 @@
 ---
-tags: 
+tags:
+  - learning
   - music
 ---
-
-There are multiple puzzles that involve reading music and playing music to fulfill a puzzle, usually on a piano. Every game gives instructions on how to solve the music puzzle as part of a code.
+There are multiple puzzles that involve reading music and playing music to fulfill a puzzle, usually on a piano. Every game gives instructions on how to solve the music puzzle as part of a code. However, learning how to read music makes it that much easier to solve.
 
 - Play the piano, shows the notes in the browser
 	- [Virtual Piano](https://www.musicca.com/piano)

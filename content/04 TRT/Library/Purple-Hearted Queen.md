@@ -7,7 +7,7 @@ tags:
   - clue
 author: "[[Professor Hotchkiss|Hotchkiss]]"
 ---
-# Text
+## Text
 
 Traditional history books have seldom mentioned it, but there is ample evidence that [[Marie Antoinette]]'s favorite color was **purple**. This is not an insignificant fact, as some might think, but one that may offer great insight into the character of a queen, who I believe, has been heavily and unfairly judged, both in her lifetime and up to today.
 
