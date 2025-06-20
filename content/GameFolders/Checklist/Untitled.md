@@ -1,5 +1,4 @@
 ---
 game: 
-tags:
-  - checklist
+tags: []
 ---

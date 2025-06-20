@@ -2,5 +2,5 @@
 game: 
 environment: 
 tags:
-  - utility
+  - phone
 ---

@@ -1,7 +1,5 @@
 ---
 release: 
-abbreviation: 
 location: 
 tags:
-  - 
 ---

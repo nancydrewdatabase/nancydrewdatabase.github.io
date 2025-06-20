@@ -1,6 +1,5 @@
 ---
 game: 
 environment: 
-tags:
-  - misc
+tags: []
 ---

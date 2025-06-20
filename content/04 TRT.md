@@ -1,8 +1,8 @@
 ---
 release: 4
+location: Butter Ridge, Wisconson
 tags:
   - trt
-location: Butter Ridge, Wisconson
 ---
 # Treasure in a Royal Tower
 Follow Ancient Clues to Find Marie Antoinette’s Legendary Secret!
@@ -17,3 +17,4 @@ While snowed-in at the Wickford Castle Ski Resort you, as Nancy Drew, are trappe
 - [[04 TRT/Second Chance|Second Chance]]
 - [[04 TRT/Easter Eggs|Easter Eggs]]
 - [[04 TRT/Misc|Misc]]
+- [[04 TRT/Utilities|Utilities]]

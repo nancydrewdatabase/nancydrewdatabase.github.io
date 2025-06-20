@@ -2,7 +2,6 @@
 game: 
 environment: 
 aliases: 
-tags:
-  - characters
+tags: []
 phone:
 ---

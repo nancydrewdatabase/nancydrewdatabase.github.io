@@ -6,6 +6,7 @@ tags:
   - phone-call
 ---
 ## Easter Egg
+- Use [[Wickford Room 205 Hotel Room Phone]]
 - Call these numbers for some weird sounds
 - Note - These are in-jokes from Nancy Drew [message boards](https://community.herinteractive.com/)
 

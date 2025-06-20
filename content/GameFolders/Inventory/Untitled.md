@@ -1,8 +1,7 @@
 ---
 game: 
 environment: 
-tags:
-  - inventory
+tags: []
 ---
 ## Prerequisites
 - 

@@ -3,7 +3,6 @@ game: "[[03 MHM]]"
 environment: "[[Golden Gardenia Parlor]]"
 tags:
   - phone
-  - utility
 ---
 - Use to call phone contacts
 

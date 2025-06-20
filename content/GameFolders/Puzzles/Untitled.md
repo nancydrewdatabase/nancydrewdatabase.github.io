@@ -1,8 +1,7 @@
 ---
 game: 
 environment: 
-tags:
-  - puzzle
+tags: []
 ---
 ## Prerequisites
 * 

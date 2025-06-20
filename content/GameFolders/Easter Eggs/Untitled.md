@@ -1,8 +1,7 @@
 ---
 game: 
 environment: 
-tags:
-  - easter-eggs
+tags: []
 ---
 ## Prerequisites
 - 

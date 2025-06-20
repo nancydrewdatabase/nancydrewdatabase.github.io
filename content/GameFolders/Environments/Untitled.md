@@ -1,7 +1,6 @@
 ---
 game: 
-tags:
-  - environments
+tags: []
 ---
 ## Characters
 <!-- QueryToSerialize: Table WITHOUT ID file.link as characters from "content/X/Characters" where contains(environment,  [[]]) -->

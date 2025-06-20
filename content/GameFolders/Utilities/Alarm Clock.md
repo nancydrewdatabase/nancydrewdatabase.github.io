@@ -1,6 +1,6 @@
 ---
 game: 
 environment: 
-author: 
-tags: []
+tags:
+  - alarm-clock
 ---

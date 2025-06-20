@@ -6,8 +6,8 @@ tags:
   - mhm
   - inventory
 ---
-<!-- QueryToSerialize: Table WITHOUT ID file.link as item, environment from "content/03 MHM/Inventory" -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as item, environment from "content/03 MHM/Inventory" -->
+<!-- QueryToSerialize: Table WITHOUT ID file.link as item, environment from "content/03 MHM/Inventory" sort file.link asc-->
+<!-- SerializedQuery: Table WITHOUT ID file.link as item, environment from "content/03 MHM/Inventory" sort file.link -->
 
 | item                                                                   | environment                                                                                                         |
 | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
@@ -15,18 +15,18 @@ tags:
 | [[Attic Tile]]                 | [[Golden Gardenia Attic]]                                     |
 | [[Attic Trapdoor Key]] | [[Golden Gardenia Basement Saloon]]                 |
 | [[Cassette]]                     | [[Golden Gardenia Basement Saloon]]                 |
+| [[Crowbar]]                       | [[Golden Gardenia Attic]]                                     |
 | [[Dumbwaiter Tile]]       | [[Golden Gardenia Second Floor Hallway]]       |
 | [[Fire Extinguisher]]   | [[Golden Gardenia Parlor]]                                   |
-| [[Crowbar]]                       | [[Golden Gardenia Attic]]                                     |
+| [[Floppy Disk]]               | [[Golden Gardenia Basement Secret Passage]] |
 | [[Gold Charm]]                 | [[Golden Gardenia Grand Staircase]]                 |
 | [[Iron]]                             | [[Golden Gardenia Attic]]                                     |
-| [[Floppy Disk]]               | [[Golden Gardenia Basement Secret Passage]] |
 | [[Lantern]]                       | [[Golden Gardenia Library Secret Passage]]   |
-| [[Paint Scraper]]           | [[Golden Gardenia Entryway]]                               |
-| [[Luggage Key]]               | \-                                                                                                                  |
 | [[Library Tile]]             | [[Golden Gardenia Library]]                                 |
+| [[Luggage Key]]               | \-                                                                                                                  |
+| [[Paint Scraper]]           | [[Golden Gardenia Entryway]]                               |
+| [[Ruby]]                             | [[Chinese Room]]                                                       |
 | [[Screwdriver]]               | [[Golden Gardenia Basement Saloon]]                 |
 | [[Spider Charm]]             | [[Abby's Room]]                                                         |
 | [[Torn Music Sheet]]     | [[Golden Gardenia Basement Saloon]]                 |
-| [[Ruby]]                             | [[Chinese Room]]                                                       |
 <!-- SerializedQuery END -->
