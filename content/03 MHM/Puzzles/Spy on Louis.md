@@ -3,7 +3,7 @@ game: "[[03 MHM]]"
 environment: "[[Golden Gardenia Library Secret Passage]]"
 tags:
   - snoop
-  - time-sensitive
+  - time-restraint
 ---
 ## Prerequisites
 * [[Fireplace Tiles]]

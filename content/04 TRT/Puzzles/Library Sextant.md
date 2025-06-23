@@ -1,8 +1,9 @@
 ---
 game: "[[04 TRT]]"
 environment: "[[Wickford Library]]"
-tags: 
+tags:
   - follow-the-formula
+  - secret-entrance
 ---
 ## Prerequisites
 * "[[Enter Wickford Library (Through the Vents)]]"

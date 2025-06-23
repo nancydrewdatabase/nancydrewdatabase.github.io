@@ -2,7 +2,7 @@
 game: "[[04 TRT]]"
 tags:
   - bedrooom
-  - nancy's-room
+  - nancys-room
 ---
 
 ## Inventory

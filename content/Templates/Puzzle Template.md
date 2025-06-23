@@ -1,5 +1,5 @@
 ---
-game: 
+game: "[[05 FIN]]"
 environment: 
 tags:
 ---

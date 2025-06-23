@@ -1,10 +1,8 @@
 ---
 game: 
 aliases: 
-environment: 
 tags:
   - library
-author:
 ---
 ## Nancy's Letters
 <!-- QueryToSerialize: Table WITHOUT ID file.link as document, recepient from "content/X/Library" where contains(tags, "case-file") -->

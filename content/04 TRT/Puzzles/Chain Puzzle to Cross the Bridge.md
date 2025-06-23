@@ -1,16 +1,18 @@
 ---
 game: "[[04 TRT]]"
 environment: "[[Wickford Secret Passage Hallway]]"
-tags: 
+tags:
   - chain-reaction
   - match-the-image
   - multiple-solves
+  - algorithmic
 ---
 ## Prerequisites
 * [[Enter the Basement Gate]]
 ## Clues
 * The image on the other side of the wall shows the height each chain
 ## Unwritten Rules
+* Chains listed from left to right, 1 to 5
 * Have to redo this puzzle each time entering [[Under Royal Tower]], but the solution is the same every time
 * Back away to reset the puzzle
 - Each chain can move multiple other chains

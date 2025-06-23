@@ -1,8 +1,9 @@
 ---
 game: "[[04 TRT]]"
 environment: "[[Nancy's Room 205]]"
-tags: 
+tags:
   - tool
+  - lubricant
 ---
 ## Prerequisites
 - [[Order Dinner for Hotchkiss]]

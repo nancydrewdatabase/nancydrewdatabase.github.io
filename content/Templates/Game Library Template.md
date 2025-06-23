@@ -1,6 +1,0 @@
----
-game: 
-environment: 
-tags: 
-author:
----

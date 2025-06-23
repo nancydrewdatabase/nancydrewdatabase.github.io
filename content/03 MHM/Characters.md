@@ -13,20 +13,20 @@ tags:
 | character                                                       | environment                                                                                         |
 | --------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
 | [[Rose Green]]         | [[Golden Gardenia Dining Room]]         |
+| [[Abby Sideris]]     | [[Abby's Room]]                                         |
 | [[Charlie Murphy]] | [[Golden Gardenia Basement Saloon]] |
 | [[Louis Chandler]] | [[Golden Gardenia Library]]                 |
-| [[Abby Sideris]]     | [[Abby's Room]]                                         |
 <!-- SerializedQuery END -->
 
 ## Phone Contacts
 <!-- QueryToSerialize: TABLE WITHOUT ID file.link as character, phone from "content/03 MHM/Characters" where contains(tags, "phone") sort tags desc -->
 <!-- SerializedQuery: TABLE WITHOUT ID file.link as character, phone from "content/03 MHM/Characters" where contains(tags, "phone") sort tags desc -->
 
-| character                                                         | phone          |
-| ----------------------------------------------------------------- | -------------- |
-| [[Bess and George]] | 1-523-555-4468 |
-| [[Emily Foxworth]]   | 555-5367       |
-| [[Hannah Gruen]]       | 1-523-555-3739 |
+| character                                                         | phone            |
+| ----------------------------------------------------------------- | ---------------- |
+| [[content/03 MHM/Characters/Bess and George.md\|Bess and George]] | 1 (523) 555-4468 |
+| [[Emily Foxworth]]   | 555-5367         |
+| [[Hannah Gruen]]       | 1 (523) 555-3739 |
 <!-- SerializedQuery END -->
 
 ## Mentions

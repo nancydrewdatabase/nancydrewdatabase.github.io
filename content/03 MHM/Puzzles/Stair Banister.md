@@ -10,6 +10,7 @@ tags:
 * [[The Bandit's Treasure]] and [[Torn Music Sheet]]
 	- Find Diego on the stairs
 ## Unwritten Rules
+* Columns listed from left to right, 1 to 5
 * Each column can move multiple other columns
 - Which columns move others changes between junior/senior
 ### Junior

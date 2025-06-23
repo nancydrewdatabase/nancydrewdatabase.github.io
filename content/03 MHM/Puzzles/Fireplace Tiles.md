@@ -2,8 +2,10 @@
 game: "[[03 MHM]]"
 environment: "[[Golden Gardenia Library]]"
 tags:
-  - something's-missing
   - match-the-pattern
+  - pull-the-lever
+  - secret-entrance
+  - somethings-missing
 ---
 ## Prerequisites
 - [[Library Tile]]

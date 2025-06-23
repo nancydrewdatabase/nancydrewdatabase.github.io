@@ -4,6 +4,7 @@ environment: "[[Golden Gardenia Basement Saloon]]"
 tags:
   - use-tool
   - optional
+  - secret-entrance
 ---
 ## Prerequisites
 * [[Crowbar]]

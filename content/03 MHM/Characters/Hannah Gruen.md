@@ -2,7 +2,7 @@
 game: "[[03 MHM]]"
 tags:
   - phone-contact
-phone: 1-523-555-3739
+phone: 1 (523) 555-3739
 ---
 - Phone number - 1-523-555-DREW
 - The Drew's housekeeper and mother figure to Nancy. 

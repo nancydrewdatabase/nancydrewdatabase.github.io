@@ -18,6 +18,6 @@ tags:
 
 | utility                                                                            | environment                                                                       |
 | ---------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| [[Golden Gardenia Landline]] | [[Golden Gardenia Parlor]] |
 | [[Chinese Room Alarm Clock]] | [[Chinese Room]]                     |
+| [[Golden Gardenia Landline]] | [[Golden Gardenia Parlor]] |
 <!-- SerializedQuery END -->
