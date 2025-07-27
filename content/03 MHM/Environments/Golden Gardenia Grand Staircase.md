@@ -8,19 +8,16 @@ tags:
 <!-- QueryToSerialize: Table WITHOUT ID file.link as item from "content/03 MHM/Inventory" where contains(environment,  [[]]) -->
 <!-- SerializedQuery: Table WITHOUT ID file.link as item from "content/03 MHM/Inventory" where contains(environment,  [[]]) -->
 
-| item                                                   |
-| ------------------------------------------------------ |
-| [[Gold Charm]] |
+| item |
+| ---- |
 <!-- SerializedQuery END -->
 
 ## Puzzle
 <!-- QueryToSerialize: Table WITHOUT ID file.link as puzzle from "content/03 MHM/Puzzles" where contains(environment,  [[]]) sort tags desc -->
 <!-- SerializedQuery: Table WITHOUT ID file.link as puzzle from "content/03 MHM/Puzzles" where contains(environment,  [[]]) sort tags desc -->
 
-| puzzle                                                                                                         |
-| -------------------------------------------------------------------------------------------------------------- |
-| [[Stop the Culprit in the Haunted Mansion]] |
-| [[Stair Banister]]                                                   |
+| puzzle |
+| ------ |
 <!-- SerializedQuery END -->
 
 
@@ -28,8 +25,7 @@ tags:
 <!-- QueryToSerialize: Table WITHOUT ID file.link as library from "content/03 MHM/Library" where contains(environment,  [[]]) sort tags desc -->
 <!-- SerializedQuery: Table WITHOUT ID file.link as library from "content/03 MHM/Library" where contains(environment,  [[]]) sort tags desc -->
 
-| library                                                                |
-| ---------------------------------------------------------------------- |
-| [[Stars and Moon Poem]] |
+| library |
+| ------- |
 <!-- SerializedQuery END -->
 

@@ -23,18 +23,16 @@ There are multiple entrances to find here on [[FIN Day 2]]/[[FIN Day 3]]
 <!-- QueryToSerialize: Table WITHOUT ID file.link as item from "content/05 FIN/Inventory" where contains(environment,  [[]]) -->
 <!-- SerializedQuery: Table WITHOUT ID file.link as item from "content/05 FIN/Inventory" where contains(environment,  [[]]) -->
 
-| item                                         |
-| -------------------------------------------- |
-| [[WD-40]] |
+| item |
+| ---- |
 <!-- SerializedQuery END -->
 
 ## Puzzle
 <!-- QueryToSerialize: Table WITHOUT ID file.link as puzzle from "content/05 FIN/Puzzles" where contains(environment,  [[]]) sort tags desc -->
 <!-- SerializedQuery: Table WITHOUT ID file.link as puzzle from "content/05 FIN/Puzzles" where contains(environment,  [[]]) sort tags desc -->
 
-| puzzle                                                                                             |
-| -------------------------------------------------------------------------------------------------- |
-| [[Rabbit to Magic Hat Slider Puzzle]] |
+| puzzle |
+| ------ |
 <!-- SerializedQuery END -->
 
 ## Library

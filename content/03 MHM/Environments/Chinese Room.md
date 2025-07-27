@@ -9,38 +9,24 @@ tags:
 <!-- QueryToSerialize: Table WITHOUT ID file.link as item from "content/03 MHM/Inventory" where contains(environment,  [[]]) -->
 <!-- SerializedQuery: Table WITHOUT ID file.link as item from "content/03 MHM/Inventory" where contains(environment,  [[]]) -->
 
-| item                                                               |
-| ------------------------------------------------------------------ |
-| [[Antique Desk Key]] |
-| [[Ruby]]                         |
+| item |
+| ---- |
 <!-- SerializedQuery END -->
 
 ## Puzzle
 <!-- QueryToSerialize: Table WITHOUT ID file.link as puzzle from "content/03 MHM/Puzzles" where contains(environment,  [[]]) sort tags desc -->
 <!-- SerializedQuery: Table WITHOUT ID file.link as puzzle from "content/03 MHM/Puzzles" where contains(environment,  [[]]) sort tags desc -->
 
-| puzzle                                                                               |
-| ------------------------------------------------------------------------------------ |
-| [[Tapestry Poem]]                           |
-| [[Pyramid Missing Piece]]           |
-| [[Phoenix Slider]]                         |
-| [[女 Daughters-Nicole_thin]] |
-| [[金 Gold-Nicole_thin]]           |
-| [[Hanzi Safe]]                                 |
-| [[Chinese Zodiac Animals]]         |
-| [[Sun and Moon Flip]]                   |
-| [[女 Daughters]]                         |
-| [[金 Gold]]                                   |
+| puzzle |
+| ------ |
 <!-- SerializedQuery END -->
 
 ## Library
 <!-- QueryToSerialize: Table WITHOUT ID file.link as library from "content/03 MHM/Library" where contains(environment,  [[]]) sort tags desc -->
 <!-- SerializedQuery: Table WITHOUT ID file.link as library from "content/03 MHM/Library" where contains(environment,  [[]]) sort tags desc -->
 
-| library                                                          |
-| ---------------------------------------------------------------- |
-| [[Emily's Letter]]     |
-| [[Nancy's Notebook]] |
+| library |
+| ------- |
 <!-- SerializedQuery END -->
 
 ## Utilities

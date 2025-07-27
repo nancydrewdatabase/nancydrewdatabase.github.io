@@ -8,9 +8,8 @@ tags:
 <!-- QueryToSerialize: Table WITHOUT ID file.link as characters from "content/05 FIN/Characters" where contains(environment,  [[]]) -->
 <!-- SerializedQuery: Table WITHOUT ID file.link as characters from "content/05 FIN/Characters" where contains(environment,  [[]]) -->
 
-| characters                                                          |
-| ------------------------------------------------------------------- |
-| [[Nicholas Falcone]] |
+| characters |
+| ---------- |
 <!-- SerializedQuery END -->
 
 ## Inventory
@@ -18,10 +17,8 @@ tags:
 <!-- QueryToSerialize: Table WITHOUT ID file.link as item from "content/05 FIN/Inventory" where contains(environment,  [[]]) -->
 <!-- SerializedQuery: Table WITHOUT ID file.link as item from "content/05 FIN/Inventory" where contains(environment,  [[]]) -->
 
-| item                                                         |
-| ------------------------------------------------------------ |
-| [[Projector Key]] |
-| [[Small Gear]]       |
+| item |
+| ---- |
 <!-- SerializedQuery END -->
 
 ## Puzzle

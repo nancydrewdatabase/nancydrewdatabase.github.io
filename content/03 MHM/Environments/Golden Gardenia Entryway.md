@@ -8,16 +8,14 @@ tags:
 <!-- QueryToSerialize: Table WITHOUT ID file.link as item from "content/03 MHM/Inventory" where contains(environment,  [[]]) -->
 <!-- SerializedQuery: Table WITHOUT ID file.link as item from "content/03 MHM/Inventory" where contains(environment,  [[]]) -->
 
-| item                                                         |
-| ------------------------------------------------------------ |
-| [[Paint Scraper]] |
+| item |
+| ---- |
 <!-- SerializedQuery END -->
 
 ## Puzzle
 <!-- QueryToSerialize: Table WITHOUT ID file.link as puzzle from "content/03 MHM/Puzzles" where contains(environment,  [[]]) sort tags desc -->
 <!-- SerializedQuery: Table WITHOUT ID file.link as puzzle from "content/03 MHM/Puzzles" where contains(environment,  [[]]) sort tags desc -->
 
-| puzzle                                                                                     |
-| ------------------------------------------------------------------------------------------ |
-| [[Find Golden Gardenia Treasure]] |
+| puzzle |
+| ------ |
 <!-- SerializedQuery END -->

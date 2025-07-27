@@ -7,9 +7,8 @@ tags:
 <!-- QueryToSerialize: Table WITHOUT ID file.link as characters from "content/05 FIN/Characters" where contains(environment,  [[]]) -->
 <!-- SerializedQuery: Table WITHOUT ID file.link as characters from "content/05 FIN/Characters" where contains(environment,  [[]]) -->
 
-| characters                                                    |
-| ------------------------------------------------------------- |
-| [[Joseph Hughes]] |
+| characters |
+| ---------- |
 <!-- SerializedQuery END -->
 
 ## Inventory
@@ -17,39 +16,31 @@ tags:
 <!-- QueryToSerialize: Table WITHOUT ID file.link as item from "content/05 FIN/Inventory" where contains(environment,  [[]]) -->
 <!-- SerializedQuery: Table WITHOUT ID file.link as item from "content/05 FIN/Inventory" where contains(environment,  [[]]) -->
 
-| item                                                                     |
-| ------------------------------------------------------------------------ |
-| [[Burnt Out Lightbulb]] |
-| [[New Lightbulb]]             |
+| item |
+| ---- |
 <!-- SerializedQuery END -->
 
 ## Puzzle
 <!-- QueryToSerialize: Table WITHOUT ID file.link as puzzle from "content/05 FIN/Puzzles" where contains(environment,  [[]]) sort tags desc -->
 <!-- SerializedQuery: Table WITHOUT ID file.link as puzzle from "content/05 FIN/Puzzles" where contains(environment,  [[]]) sort tags desc -->
 
-| puzzle                                                                                                       |
-| ------------------------------------------------------------------------------------------------------------ |
-| [[Open Projector Room Secret Passage]]         |
-| [[Hide from the Police in Projector Room]] |
-| [[Setup Magician Cages Onstage]]                     |
-| [[Use the Projector]]                                           |
+| puzzle |
+| ------ |
 <!-- SerializedQuery END -->
 
 ## Library
 <!-- QueryToSerialize: Table WITHOUT ID file.link as library from "content/05 FIN/Library" where contains(environment,  [[]]) sort tags desc -->
 <!-- SerializedQuery: Table WITHOUT ID file.link as library from "content/05 FIN/Library" where contains(environment,  [[]]) sort tags desc -->
 
-| library                                                                                              |
-| ---------------------------------------------------------------------------------------------------- |
-| [[Clayton Projector Care & Operation]] |
+| library |
+| ------- |
 <!-- SerializedQuery END -->
 
 ## Second Chance
 <!-- QueryToSerialize: Table WITHOUT ID file.link as second-chance from "content/05 FIN/Second Chance" where contains(environment,  [[]]) -->
 <!-- SerializedQuery: Table WITHOUT ID file.link as second-chance from "content/05 FIN/Second Chance" where contains(environment,  [[]]) -->
 
-| second-chance                                                                                                              |
-| -------------------------------------------------------------------------------------------------------------------------- |
-| [[Get Caught by the Police in Projector Room]] |
+| second-chance |
+| ------------- |
 <!-- SerializedQuery END -->
 

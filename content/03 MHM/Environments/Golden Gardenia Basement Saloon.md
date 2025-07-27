@@ -7,9 +7,8 @@ tags:
 <!-- QueryToSerialize: Table WITHOUT ID file.link as characters from "content/03 MHM/Characters" where contains(environment,  [[]]) -->
 <!-- SerializedQuery: Table WITHOUT ID file.link as characters from "content/03 MHM/Characters" where contains(environment,  [[]]) -->
 
-| characters                                                      |
-| --------------------------------------------------------------- |
-| [[Charlie Murphy]] |
+| characters |
+| ---------- |
 <!-- SerializedQuery END -->
 
 ## Inventory
@@ -17,30 +16,22 @@ tags:
 <!-- QueryToSerialize: Table WITHOUT ID file.link as item from "content/03 MHM/Inventory" where contains(environment,  [[]]) -->
 <!-- SerializedQuery: Table WITHOUT ID file.link as item from "content/03 MHM/Inventory" where contains(environment,  [[]]) -->
 
-| item                                                                   |
-| ---------------------------------------------------------------------- |
-| [[Attic Trapdoor Key]] |
-| [[Cassette]]                     |
-| [[Screwdriver]]               |
-| [[Torn Music Sheet]]     |
+| item |
+| ---- |
 <!-- SerializedQuery END -->
 
 ## Puzzle
 <!-- QueryToSerialize: Table WITHOUT ID file.link as puzzle from "content/03 MHM/Puzzles" where contains(environment,  [[]]) sort tags desc -->
 <!-- SerializedQuery: Table WITHOUT ID file.link as puzzle from "content/03 MHM/Puzzles" where contains(environment,  [[]]) sort tags desc -->
 
-| puzzle                                                                                                 |
-| ------------------------------------------------------------------------------------------------------ |
-| [[Enter Saloon Secret Passage]]                 |
-| [[Play The Bandit’s Treasure on Piano]] |
-| [[川 River]]                                                   |
+| puzzle |
+| ------ |
 <!-- SerializedQuery END -->
 
 ## Library
 <!-- QueryToSerialize: Table WITHOUT ID file.link as library from "content/03 MHM/Library" where contains(environment,  [[]]) sort tags desc -->
 <!-- SerializedQuery: Table WITHOUT ID file.link as library from "content/03 MHM/Library" where contains(environment,  [[]]) sort tags desc -->
 
-| library                                                                                                                        |
-| ------------------------------------------------------------------------------------------------------------------------------ |
-| [[Famous Non-Alcoholic Drinks and how to mix them]] |
+| library |
+| ------- |
 <!-- SerializedQuery END -->

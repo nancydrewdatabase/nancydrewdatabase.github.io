@@ -9,19 +9,15 @@ tags:
 <!-- QueryToSerialize: Table WITHOUT ID file.link as item from "content/04 TRT/Inventory" where contains(environment,  [[]]) -->
 <!-- SerializedQuery: Table WITHOUT ID file.link as item from "content/04 TRT/Inventory" where contains(environment,  [[]]) -->
 
-| item                                                   |
-| ------------------------------------------------------ |
-| [[Spear Head]] |
+| item |
+| ---- |
 <!-- SerializedQuery END -->
 
 ## Puzzle
 <!-- QueryToSerialize: Table WITHOUT ID file.link as puzzle from "content/04 TRT/Puzzles" where contains(environment,  [[]]) sort tags desc -->
 <!-- SerializedQuery: Table WITHOUT ID file.link as puzzle from "content/04 TRT/Puzzles" where contains(environment,  [[]]) sort tags desc -->
 
-| puzzle                                                                                             |
-| -------------------------------------------------------------------------------------------------- |
-| [[Find the Source of Strange Sounds]] |
-| [[Enter the Basement Gate]]                     |
-| [[Chain Puzzle to Cross the Bridge]]   |
+| puzzle |
+| ------ |
 <!-- SerializedQuery END -->
 
