@@ -7,16 +7,18 @@ tags:
 ## Prerequisites
 * [[Projector Key]]
 ## Clues
-* TODO: meant to look at the [[Library of Congress Slide]]
+* [[Library of Congress Slide]]
 ## Unwritten Rules
 - The projector light will only fail on [[FIN Day 3]]
-* The projector knob only falls off when the [[Floor Plan Slide]] is set
+* The projector knob only falls off when the [[Blueprints Slide]] is set
+	* Set focus once to prevent this from happening
 ## Solution
 * Try flipping the power switch, but the light burned out
-- Open projector and grab [[Floor Plan Slide]]
+- Open projector and grab [[Blueprints Slide]]
 - Replace with [[New Lightbulb]]
 - [[Hide from the Police in Projector Room]]
-- Insert [[Floor Plan Slide]]
+- Insert [[Library of Congress Slide]] to read [[Houdini Slide Letter]]
+- Insert [[Blueprints Slide]]
 - Adjust focus using knob until it falls out
-- Grab knob from the floor under the control panel
+- Grab knob from the floor under the control panel and discover [[Joseph Hughes|Joseph]]'s secrets
 - See the [[Secret Ice Depository]] and have Nancy comment on it

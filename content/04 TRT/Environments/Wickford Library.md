@@ -12,8 +12,8 @@ tags:
 | -------------------------------------------------------------------------------------------------------------------- |
 | [[Enter Wickford Library (Through the Vents)]] |
 | [[Enter Wickford Library (Through the Door)]]   |
-| [[Library Globe]]                                                           |
 | [[Library Sextant]]                                                       |
+| [[Library Globe]]                                                           |
 <!-- SerializedQuery END -->
 ## Library
 <!-- QueryToSerialize: Table WITHOUT ID file.link as library from "content/04 TRT/Library" where contains(environment,  [[]]) sort tags desc -->

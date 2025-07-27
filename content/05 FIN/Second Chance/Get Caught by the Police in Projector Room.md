@@ -1,12 +1,13 @@
 ---
 game: "[[05 FIN]]"
 environment: "[[Projector Room]]"
-related puzzle: 
+related: "[[Hide from the Police in Projector Room]]"
 tags:
   - out-of-time
   - hiding-place
+  - day-3
 ---
 ## Related
-- TODO: Not get caught by police
+- [[Hide from the Police in Projector Room]]
 ## Fatal Error
 - Be out in the open when the police are searching the [[Projector Room]]

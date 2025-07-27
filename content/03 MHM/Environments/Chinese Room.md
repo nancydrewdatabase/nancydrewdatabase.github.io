@@ -19,16 +19,18 @@ tags:
 <!-- QueryToSerialize: Table WITHOUT ID file.link as puzzle from "content/03 MHM/Puzzles" where contains(environment,  [[]]) sort tags desc -->
 <!-- SerializedQuery: Table WITHOUT ID file.link as puzzle from "content/03 MHM/Puzzles" where contains(environment,  [[]]) sort tags desc -->
 
-| puzzle                                                                       |
-| ---------------------------------------------------------------------------- |
-| [[Tapestry Poem]]                   |
-| [[Pyramid Missing Piece]]   |
-| [[Phoenix Slider]]                 |
-| [[Hanzi Safe]]                         |
-| [[Chinese Zodiac Animals]] |
-| [[Sun and Moon]]                     |
-| [[金 Gold]]                           |
-| [[女 Daughters]]                 |
+| puzzle                                                                               |
+| ------------------------------------------------------------------------------------ |
+| [[Tapestry Poem]]                           |
+| [[Pyramid Missing Piece]]           |
+| [[Phoenix Slider]]                         |
+| [[女 Daughters-Nicole_thin]] |
+| [[金 Gold-Nicole_thin]]           |
+| [[Hanzi Safe]]                                 |
+| [[Chinese Zodiac Animals]]         |
+| [[Sun and Moon Flip]]                   |
+| [[女 Daughters]]                         |
+| [[金 Gold]]                                   |
 <!-- SerializedQuery END -->
 
 ## Library

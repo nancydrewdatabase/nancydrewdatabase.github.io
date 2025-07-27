@@ -1,9 +1,10 @@
 ---
 game: "[[05 FIN]]"
 environment: "[[Secret Ice Depository]]"
-related puzzle: "[[Stop the Demolition]]"
+related: "[[Stop the Demolition]]"
 tags:
   - out-of-time
+  - day-3
 ---
 ## Related
 - [[Stop the Demolition]]

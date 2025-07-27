@@ -14,3 +14,4 @@ tags:
 - On the righthand side of the ticket booth on [[FIN Day 3|Day 3]]
 ## Usage
 - [[Use the Projector]]
+- Text within [[Houdini Slide Letter]]

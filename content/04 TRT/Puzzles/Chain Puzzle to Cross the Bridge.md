@@ -5,7 +5,6 @@ tags:
   - chain-reaction
   - match-the-image
   - multiple-solves
-  - algorithmic
 ---
 ## Prerequisites
 * [[Enter the Basement Gate]]

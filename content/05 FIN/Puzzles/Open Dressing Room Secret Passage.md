@@ -6,7 +6,8 @@ tags:
   - pull-the-lever
 ---
 ## Prerequisites
-* [[Answer Men's Room Phone]]
+* Answer [[Men's Room Phone]]
+* Talk to [[Brady Armstrong]]
 ## Clues
 * [[Joseph Hughes]] will tell you about a secret passage
 ## Unwritten Rules

@@ -1,8 +1,8 @@
 ---
 game: 
 environment: 
-related puzzle: 
-tags: []
+related: 
+tags:
 ---
 ## Related
 - 

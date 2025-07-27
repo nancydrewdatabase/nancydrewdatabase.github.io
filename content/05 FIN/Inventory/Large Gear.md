@@ -9,4 +9,4 @@ tags:
 ## Location
 - When looking down from balcony seats stage right (same side as [[Woman's Dressing Room]])
 ## Usage
-- [[Gear Box Puzzle]]
+- [[Open Gear Box]]

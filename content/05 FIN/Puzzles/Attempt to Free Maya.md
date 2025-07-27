@@ -6,9 +6,7 @@ tags:
   - use-tool
 ---
 ## Prerequisites
-* [[Sledge Hammer]]
 * [[Open Ice Depository Door]]
-## Clues
-* TODO: see Maya 
+* [[Hack Saw]] and/or [[Sledge Hammer]]
 ## Unwritten Rules
 * You can hit the window a few times, but unfortunately, Maya can’t be freed with physical force

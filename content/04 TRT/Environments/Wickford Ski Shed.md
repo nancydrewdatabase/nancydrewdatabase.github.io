@@ -10,8 +10,8 @@ tags:
 
 | item                                                                 |
 | -------------------------------------------------------------------- |
-| [[Basement Gate Key]] |
 | [[Green Medallion]]     |
+| [[Basement Gate Key]] |
 <!-- SerializedQuery END -->
 
 ## Puzzle

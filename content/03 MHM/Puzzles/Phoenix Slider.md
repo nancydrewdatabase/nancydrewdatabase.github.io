@@ -6,7 +6,7 @@ tags:
   - junior-senior-variant
 ---
 ## Prerequisites
-* [[Sun and Moon]]
+* [[Sun and Moon Flip]]
 ## Unwritten Rules
 * Make the slider look like a phoenix
 * Junior will have 3x3 and Senior will have 4x4

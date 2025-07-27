@@ -5,3 +5,5 @@ tags:
   - mention
   - dead
 ---
+- Grandmother of [[Nicholas Falcone]]
+- Artist who worked on the theater molding 

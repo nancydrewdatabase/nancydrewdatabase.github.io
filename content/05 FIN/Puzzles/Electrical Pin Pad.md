@@ -3,7 +3,6 @@ game: "[[05 FIN]]"
 environment: "[[Royal Palladium Basement]]"
 tags:
   - brute-force
-  - algorithmic
   - random
 ---
 ## Prerequisites

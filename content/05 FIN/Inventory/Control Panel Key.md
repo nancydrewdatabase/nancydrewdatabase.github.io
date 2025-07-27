@@ -5,7 +5,7 @@ tags:
   - key
 ---
 ## Prerequisites
-- [[Gear Box Puzzle]]
+- [[Open Gear Box]]
 ## Location
 - On the right in the secret drawer
 ## Usage

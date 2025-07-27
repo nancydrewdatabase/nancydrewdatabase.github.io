@@ -1,11 +1,12 @@
 ---
 game: "[[05 FIN]]"
 environment: "[[Royal Palladium Basement]]"
-related puzzle: 
+related: "[[Electrical Pin Pad]]"
 tags:
   - electrocute
+  - day-2
 ---
 ## Related
-- TODO: [[Open Gate with Electrified Pin Pad]]
+- [[Electrical Pin Pad]]
 ## Fatal Error
 - Forget to use [[Rubber Gloves]] and get electrocuted

@@ -6,4 +6,4 @@ tags:
   - phone-contact
 phone: 555-5367
 ---
-- Phone nunber - 555-LENS (Emily is a photo journalist)
+- Phone number - 555-LENS (Emily is a photo journalist)

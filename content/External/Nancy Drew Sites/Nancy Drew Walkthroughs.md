@@ -51,4 +51,4 @@ aka Huw Miller or [legofreak689](https://www.reddit.com/user/legofreak689/ )on r
 ## Merch
 - [Shop](https://www.ndwalkthroughs.ca/shop.html)
 - [How to Be a Detective: The Essential Guide for Becoming a Better Detective by Huw Miller](https://www.amazon.com/How-Be-Detective-Essential-Becoming/dp/1096354403/ref=sr_1_1?dchild=1&sr=8-1)
-- [Spring](https://ndw-store.creator-spring.com/)
+- [Spring Tee](https://ndw-store.creator-spring.com/)

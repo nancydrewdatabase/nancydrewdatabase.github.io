@@ -1,11 +1,12 @@
 ---
 game: "[[03 MHM]]"
 environment: "[[Golden Gardenia Entryway]]"
-related: "[[Stop the Culprit in the Haunted Mansion]]"
+related:
+  - "[[Stop the Culprit in the Haunted Mansion]]"
 tags:
-  - catch-the-culprit
   - out-of-time
   - puzzle-failed
+  - stop-the-culprit
 ---
 ## Related
 - [[Stop the Culprit in the Haunted Mansion]]

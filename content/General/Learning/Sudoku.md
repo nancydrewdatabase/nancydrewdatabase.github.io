@@ -1,6 +1,5 @@
 ---
 tags:
-  - learning
   - sudoku
 ---
 Sudoku is a logic puzzle where the goal is to get the numbers 1-9 with no repeats in each row, column, and block. Despite the use of numbers, there is no math involved in solving Sudoku puzzles. My personal favorite is [Linky Sudoku](https://sudoku.simonton.app/), but there are multiple sites to play and learn advanced techniques. 

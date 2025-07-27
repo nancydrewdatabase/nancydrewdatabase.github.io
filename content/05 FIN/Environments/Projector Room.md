@@ -1,13 +1,14 @@
 ---
 game: "[[05 FIN]]"
 tags:
+  - theater
 ---
 ## Characters
 <!-- QueryToSerialize: Table WITHOUT ID file.link as characters from "content/05 FIN/Characters" where contains(environment,  [[]]) -->
 <!-- SerializedQuery: Table WITHOUT ID file.link as characters from "content/05 FIN/Characters" where contains(environment,  [[]]) -->
 
-| characters        |
-| ----------------- |
+| characters                                                    |
+| ------------------------------------------------------------- |
 | [[Joseph Hughes]] |
 <!-- SerializedQuery END -->
 
@@ -26,8 +27,12 @@ tags:
 <!-- QueryToSerialize: Table WITHOUT ID file.link as puzzle from "content/05 FIN/Puzzles" where contains(environment,  [[]]) sort tags desc -->
 <!-- SerializedQuery: Table WITHOUT ID file.link as puzzle from "content/05 FIN/Puzzles" where contains(environment,  [[]]) sort tags desc -->
 
-| puzzle |
-| ------ |
+| puzzle                                                                                                       |
+| ------------------------------------------------------------------------------------------------------------ |
+| [[Open Projector Room Secret Passage]]         |
+| [[Hide from the Police in Projector Room]] |
+| [[Setup Magician Cages Onstage]]                     |
+| [[Use the Projector]]                                           |
 <!-- SerializedQuery END -->
 
 ## Library

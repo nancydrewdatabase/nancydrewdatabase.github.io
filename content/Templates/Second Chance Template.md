@@ -1,7 +1,7 @@
 ---
 game: 
 environment: 
-related puzzle: 
+related: 
 tags:
 ---
 ## Related

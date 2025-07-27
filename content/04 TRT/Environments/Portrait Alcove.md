@@ -11,7 +11,6 @@ tags:
 | ------------------------------------------------------------------------------------------ |
 | [[Portrait Room Secret Messages]] |
 <!-- SerializedQuery END -->
-
 ## Library
 TODO: translated Portrait Room Secret Messages
 <!-- QueryToSerialize: Table WITHOUT ID file.link as library from "content/04 TRT/Library" where contains(environment,  [[]]) sort tags desc -->

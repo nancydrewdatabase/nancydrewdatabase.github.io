@@ -4,6 +4,7 @@ aliases:
   - MHM Bess and George
 tags:
   - phone-contact
+  - optional
 phone: 1 (523) 555-4468
 related:
   - "[[Bess Marvin]]"

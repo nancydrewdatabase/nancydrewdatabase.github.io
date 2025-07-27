@@ -6,6 +6,8 @@ tags:
   - self-help
   - book
 ---
+## Prerequisites
+- Available [[FIN Day 2]] when [[Brady Armstrong]] isn't in the [[Men's Dressing Room]]
 ## Text
 ### Chapter 2: The Language of Success
 
@@ -37,5 +39,3 @@ _(see chart on following page)_
 Do you see how the cabin boy is ruled by fear and doubt, whereas the CAPTAIN greets the world with his chest puffed out and his best foot forward? ==Isn’t it time YOU grabbed your destiny by the horns and sailed it into the sunset?== The choice is yours, but remember this: if you’re not the lead dog, the view never changes.
 
 Ready to transform your life? Read on…
-## Usage
-- TODO: Confront Brady about Theater

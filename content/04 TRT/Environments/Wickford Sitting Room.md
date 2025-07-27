@@ -7,10 +7,9 @@ tags:
 <!-- QueryToSerialize: Table WITHOUT ID file.link as characters from "content/04 TRT/Characters" where contains(environment,  [[]]) -->
 <!-- SerializedQuery: Table WITHOUT ID file.link as characters from "content/04 TRT/Characters" where contains(environment,  [[]]) -->
 
-| characters                                                                |
-| ------------------------------------------------------------------------- |
-| [[Lisa Ostrum]]                 |
-| [[Professor Hotchkiss]] |
+| characters                                                |
+| --------------------------------------------------------- |
+| [[Lisa Ostrum]] |
 <!-- SerializedQuery END -->
 
 ## Inventory

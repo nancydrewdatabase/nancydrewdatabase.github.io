@@ -8,6 +8,6 @@ tags:
 ## Prerequisites
 - [[Open Ice Depository Door]]
 ## Location
-- To the right of the wall near [[Maya]]
+- To the right of the wall near [[Maya Nguyen|Maya]]
 ## Usage
-- Attempt to free [[Maya]]
+- [[Attempt to Free Maya]]

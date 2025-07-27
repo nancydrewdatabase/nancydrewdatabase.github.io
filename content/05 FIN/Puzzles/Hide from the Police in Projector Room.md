@@ -6,7 +6,7 @@ tags:
   - time-restraint
 ---
 ## Prerequisites
-* [[Floor Plan Slide]]
+* Grab [[Blueprints Slide]]
 ## Unwritten Rules
 * If you take too long or try to exit, you will [[Get Caught by the Police in Projector Room]]
 ## Solution

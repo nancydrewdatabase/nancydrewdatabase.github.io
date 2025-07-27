@@ -9,4 +9,4 @@ tags:
 ## Location
 - Inside the chest near the exit door to the [[Royal Palladium Basement]], on the right
 ## Usage
-- [[Open Gate with Electrified Pin Pad]]
+- [[Electrical Pin Pad]]

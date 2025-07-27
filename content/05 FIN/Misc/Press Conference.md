@@ -7,10 +7,11 @@ tags:
 ## Prerequisites
 
 - Day 2 [FIN Time](https://www.notion.so/FIN-Time-e9a64d95775c4310bf70f5b41a1ab0a8?pvs=21)
-- Look at funeral wreath and Maya’s missing poster
-- Talk to all suspects (repeat as necessary)
-- [[Investigate Houdini’s descendants]]
-- Go to [[Theater Lobby]], may need enter/exit the [[Ticket Booth]]
+- Talk to all suspects
+	- Talk to [[Joseph Hughes|Joseph]] first to make the other characters appear
+	- If [[Brady Armstrong|Brady]] isn't there, try going through doors until he appears
+	- Talk to [[Nicholas Falcone|Nicholas]] twice
+- Go to [[Theater Lobby]] 
 ## What’s Next
 
 - All suspects leave and snooping in [[Woman's Dressing Room]] and [[Projector Room]] unlocked

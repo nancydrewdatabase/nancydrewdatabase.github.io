@@ -3,9 +3,13 @@ game: "[[04 TRT]]"
 environment: "[[Wickford Lobby]]"
 aliases:
   - Dexter
-tags: 
+tags:
   - suspect
   - phone-contact
-phone: 0
+phone: "0"
 ---
 Adopted by the castle’s creator when he was just a child, Dexter is now the caretaker. Are there secrets about the castle that he’s trying to hide?
+## Schedule
+- TODO
+- During the day at lobby, check schedule
+- Can answer the phone while at the desk?

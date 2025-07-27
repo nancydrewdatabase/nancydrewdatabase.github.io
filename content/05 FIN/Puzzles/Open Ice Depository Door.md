@@ -4,15 +4,18 @@ environment: "[[Secret Passage from Projector Room]]"
 tags:
   - lock-and-key
   - brute-force
+  - random
 ---
 ## Prerequisites
 * [[Open Projector Room Secret Passage]]
-## Clues
-* 
 ## Unwritten Rules
-* The correct key changes each playthrough. However, it will be the same on Second Chance if [[Stay in the Theater During the Demolition]]
+* Grab keys from the bottom of your inventory to try different keys each time
+* Reading papers inside the control panel is optional 
+	* [[Houdini-Falcone Ownership Papers]]
+	* [[Thompson Legal Letter]]
 ## Solution
-* Randomly try the keys
-- Grab keys from the bottom of your inventory to try different keys each time
+- Use [[Control Panel Key]] from [[Open Gear Box]] to open control panel on the right side
+* Randomly try the keys on the [[Secret Ice Depository]] door
+* It's the middle key in the top row
 ## Reward
 - Access [[Secret Ice Depository]]

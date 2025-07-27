@@ -29,8 +29,8 @@ tags:
 | puzzle                                                                     |
 | -------------------------------------------------------------------------- |
 | [[Translate “Gum Bo Fu”]] |
-| [[Fireplace Tiles]]             |
 | [[Laptop Maze]]                     |
+| [[Fireplace Tiles]]             |
 | [[Open Louis’ Briefcase]] |
 | [[Hack Louis’ Computer]]   |
 | [[四 Four]]                         |

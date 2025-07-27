@@ -10,8 +10,8 @@ tags:
 
 | item                                                           |
 | -------------------------------------------------------------- |
-| [[Blue Medallion]] |
 | [[Camera Battery]] |
+| [[Blue Medallion]] |
 <!-- SerializedQuery END -->
 
 ## Puzzle

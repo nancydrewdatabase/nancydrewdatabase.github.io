@@ -33,7 +33,7 @@ tags:
 | [[Spy on Louis]]                                                       | [[Golden Gardenia Library Secret Passage]]   |
 | [[Stair Banister]]                                                   | [[Golden Gardenia Grand Staircase]]                 |
 | [[Stop the Culprit in the Haunted Mansion]] | [[Golden Gardenia Grand Staircase]]                 |
-| [[Sun and Moon]]                                                       | [[Chinese Room]]                                                       |
+| [[Sun and Moon Flip]]                                             | [[Chinese Room]]                                                       |
 | [[Tapestry Poem]]                                                     | [[Chinese Room]]                                                       |
 | [[Translate “Gum Bo Fu”]]                                     | [[Golden Gardenia Library]]                                 |
 | [[Uncover the True Mansion Haunting]]             | [[Abby's Room]]                                                         |
