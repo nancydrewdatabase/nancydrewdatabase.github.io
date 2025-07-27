@@ -15,7 +15,7 @@ tags:
 | [[Beat the Magician - Amazing Monte]]           | [[Royal Palladium Basement]]                     |
 | [[Bee's Knees Game]]                                             | [[Theater Lobby]]                                           |
 | [[Break into Simone's PDA]]                               | [[Woman's Dressing Room]]                           |
-| [[Create Projector Key]]                                     | \-                                                                                                        |
+| [[Create Projector Key]]                                     | [[Theater Lobby]]                                           |
 | [[Electrical Pin Pad]]                                         | [[Royal Palladium Basement]]                     |
 | [[Hide from the Police in Projector Room]] | [[Projector Room]]                                         |
 | [[Investigate Houdini’s descendants]]           | [[Ticket Booth]]                                             |
