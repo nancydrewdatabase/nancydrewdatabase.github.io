@@ -8,9 +8,8 @@ tags:
 <!-- QueryToSerialize: Table WITHOUT ID file.link as item from "content/04 TRT/Inventory" where contains(environment,  [[]]) -->
 <!-- SerializedQuery: Table WITHOUT ID file.link as item from "content/04 TRT/Inventory" where contains(environment,  [[]]) -->
 
-| item                                                     |
-| -------------------------------------------------------- |
-| [[Diamond Key]] |
+| item |
+| ---- |
 <!-- SerializedQuery END -->
 
 ## Puzzle

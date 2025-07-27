@@ -10,7 +10,6 @@ tags:
 | puzzle                                                                                                 |
 | ------------------------------------------------------------------------------------------------------ |
 | [[Stop the Culprit in the Royal Tower]] |
-| [[Chessboard Under the Stairs]]                 |
 <!-- SerializedQuery END -->
 
 ## Second Chance
