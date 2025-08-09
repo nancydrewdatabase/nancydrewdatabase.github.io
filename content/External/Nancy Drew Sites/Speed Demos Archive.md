@@ -6,8 +6,9 @@ tags:
 
 Nancy Drew speed run notes by Runa and [[Arglefumph - The Nancy Drew Dude]]
 
-| [Nancy Drew: Message in a Haunted Mansion](https://speeddemosarchive.com/NancyDrewMessageInAHauntedMansion.html) for PC (0:15:54) | #mhm |
+| Speedrun                                                                                                                          | Game |
 | --------------------------------------------------------------------------------------------------------------------------------- | ---- |
+| [Nancy Drew: Message in a Haunted Mansion](https://speeddemosarchive.com/NancyDrewMessageInAHauntedMansion.html) for PC (0:15:54) | #mhm |
 | [Nancy Drew: The Final Scene](https://speeddemosarchive.com/NancyDrewTheFinalScene.html) for PC (0:36:17)                         | #fin |
 | [Nancy Drew: The Deadly Device](https://speeddemosarchive.com/NancyDrewTheDeadlyDevice.html) for PC (0:34:40)                     | #ded |
 | [Nancy Drew: Labyrinth of Lies](https://speeddemosarchive.com/NancyDrewLabyrinthOfLies.html) for PC (0:52:04)                     | #lie |

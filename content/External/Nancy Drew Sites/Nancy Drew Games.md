@@ -5,8 +5,9 @@ tags:
 ---
 My name is Brianna and I am a HUGE fan of the point-and-click [Nancy Drew Mystery Games](https://nancydrewgames.weebly.com/). In this blog I will be playing the game starting from 1 and working my way forward. I hope you find this as entertaining to read as it is to write!
 
-| [Message in a Haunted Mansion](https://nancydrewgames.weebly.com/blog/message-in-a-haunted-mansion)            | #mhm |
+| Blog                                                                                                           | Game |
 | -------------------------------------------------------------------------------------------------------------- | ---- |
+| [Message in a Haunted Mansion](https://nancydrewgames.weebly.com/blog/message-in-a-haunted-mansion)            | #mhm |
 | [#4 Treasure in the Royal Tower](https://nancydrewgames.weebly.com/blog/4-treasure-in-the-royal-tower)         | #trt |
 | [#5 The Final Scene](https://nancydrewgames.weebly.com/blog/5-the-final-scene)                                 | #fin |
 | [#6 Secret of the Scarlet Hand](https://nancydrewgames.weebly.com/blog/6-secret-of-the-scarlet-hand)           | #ssh |

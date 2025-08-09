@@ -1,9 +1,10 @@
 ---
 tags:
   - blog
+  - "#mhm"
 ---
 
-Okay, here it is: I am a full-grown adult, and I _love_ the [Nancy Drew computer mystery game series](https://nancydfan.wordpress.com/). #mhm #puzzle
+Okay, here it is: I am a full-grown adult, and I _love_ the [Nancy Drew computer mystery game series](https://nancydfan.wordpress.com/). 
 
 - [Let the Games Begi..Oops – All Puzzles!](https://nancydfan.wordpress.com/2016/05/04/nancy-drew-puzzles/)
 - [Rating and Ranking Nancy Drew Games](https://nancydfan.wordpress.com/2016/06/22/introducing-nd-theme-lists/)

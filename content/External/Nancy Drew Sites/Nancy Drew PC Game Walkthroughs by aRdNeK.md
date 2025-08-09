@@ -7,8 +7,9 @@ Thanks for stopping by [my blog](https://ardnek-nancydrewgames.blogspot.com/p/ab
 
 DISCLAIMER: I don't take full credit for the walkthroughs, as I got several of them many years ago and have edited them to be more accurate based on my own game play. I haven't gotten all end-game prizes (only some of the newer games have this feature), and I've never played in Senior Detective mode (but I do have puzzle solutions for that). I also haven't found every single Easter egg, but ones found by others are included in the Cheats area of the particular game. Enjoy!
 
-| [Message in a Haunted Mansion](http://ardnek-nancydrewgames.blogspot.com/2011/07/message-in-haunted-mansion.html)       | #mhm |
+| Walkthrough                                                                                                             | Game |
 | ----------------------------------------------------------------------------------------------------------------------- | ---- |
+| [Message in a Haunted Mansion](http://ardnek-nancydrewgames.blogspot.com/2011/07/message-in-haunted-mansion.html)       | #mhm |
 | [Treasure in the Royal Tower](http://ardnek-nancydrewgames.blogspot.com/2011/07/treasure-in-royal-tower.html)           | #trt |
 | [The Final Scene](http://ardnek-nancydrewgames.blogspot.com/2011/07/final-scene.html)                                   | #fin |
 | [Secret of the Scarlet Hand](http://ardnek-nancydrewgames.blogspot.com/2011/07/secret-of-scarlet-hand.html)             | #ssh |

@@ -13,8 +13,8 @@ tags:
 | ------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
 | [[Brady Armstrong]]   | [[Men's Dressing Room]]     |
 | [[Joseph Hughes]]       | [[Projector Room]]               |
-| [[Simone Mueller]]     | [[Woman's Dressing Room]] |
 | [[Nicholas Falcone]] | [[Theater Lobby]]                 |
+| [[Simone Mueller]]     | [[Woman's Dressing Room]] |
 <!-- SerializedQuery END -->
 
 ## Phone Contacts
@@ -23,7 +23,7 @@ tags:
 
 | character                                                               | phone            |
 | ----------------------------------------------------------------------- | ---------------- |
-| [[content/05 FIN/Characters/Bess and George.md\|Bess and George]]       | 1 (523) 555-4468 |
+| [[content/05 FIN/Characters/Bess and George.md|Bess and George]]       | 1 (523) 555-4468 |
 | [[Madeline]]                     | 555-3309         |
 | [[Eustacia Andropov]]   | 1 (813) 555-3247 |
 | [[Sergeant MacRamsey]] | 555-1422         |

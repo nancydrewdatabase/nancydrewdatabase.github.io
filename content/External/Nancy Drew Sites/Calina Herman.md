@@ -11,12 +11,13 @@ I’m working on building a community of fellow gamers and Nancy Drew Clue Crew 
 aka StoryRetold or LittleJackelope
 ## Puzzles
 
-| [Puzzles – MHM](https://calinaherman.com/puzzles-message-in-a-haunted-mansion/) | #mhm  |
-| ------------------------------------------------------------------------------- | ----- |
-| [Puzzles – TRT](https://calinaherman.com/puzzles-treasure-in-the-royal-tower/)  | #trt  |
-| [Puzzles – SHA](https://calinaherman.com/the-secret-of-shadow-ranch-puzzles/)   | #sha  |
-| [Puzzles – SAW](https://calinaherman.com/puzzles-saw/)                          | #saw  |
-| [Puzzles – SEA](https://calinaherman.com/puzzles-sea/)                          | #sea  |
+| Puzzles                                                                         | Game |
+| ------------------------------------------------------------------------------- | ---- |
+| [Puzzles – MHM](https://calinaherman.com/puzzles-message-in-a-haunted-mansion/) | #mhm |
+| [Puzzles – TRT](https://calinaherman.com/puzzles-treasure-in-the-royal-tower/)  | #trt |
+| [Puzzles – SHA](https://calinaherman.com/the-secret-of-shadow-ranch-puzzles/)   | #sha |
+| [Puzzles – SAW](https://calinaherman.com/puzzles-saw/)                          | #saw |
+| [Puzzles – SEA](https://calinaherman.com/puzzles-sea/)                          | #sea |
 ## Merch
 - [Shopify](https://calinaherman.myshopify.com/)
 - [Spring](https://storyretold.creator-spring.com/)

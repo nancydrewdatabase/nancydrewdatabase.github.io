@@ -6,8 +6,9 @@ Hello, welcome to [Full of Salt](https://fullofsalt.wordpress.com/category/nancy
 
 [Nancy Drew: A Ranking of the Games](https://fullofsalt.wordpress.com/2018/12/01/nancy-drew-a-ranking-of-the-games/)
 
-| [Nancy Drew: Message in a Haunted Mansion (Part One)](https://fullofsalt.wordpress.com/2013/06/01/nancy-drew-message-in-a-haunted-mansion-part-one/)     | #mhm |
+| Review/Recap                                                                                                                                             | Game |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
+| [Nancy Drew: Message in a Haunted Mansion (Part One)](https://fullofsalt.wordpress.com/2013/06/01/nancy-drew-message-in-a-haunted-mansion-part-one/)     | #mhm |
 | [Nancy Drew: Treasure in the Royal Tower (Part One)](https://fullofsalt.wordpress.com/2014/08/05/nancy-drew-treasure-in-the-royal-tower-part-one/)       | #trt |
 | [Nancy Drew: The Final Scene (Part One)](https://fullofsalt.wordpress.com/2014/08/09/nancy-drew-the-final-scene-part-one/)                               | #fin |
 | [Nancy Drew: Secret of the Scarlet Hand (Part One)](https://fullofsalt.wordpress.com/2014/08/12/nancy-drew-secret-of-the-scarlet-hand-part-one/)         | #ssh |

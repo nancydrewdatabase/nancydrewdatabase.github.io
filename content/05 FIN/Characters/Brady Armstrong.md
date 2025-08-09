@@ -16,6 +16,5 @@ The star of the show and the last person Maya would have seen before her disappe
 ### Day 2
 - Unavailable before talking to Simone??
 - Unavailable during [[Press Conference]]
-
 ### Day 3
-- TODO: something about confronting/snooping
+- Available before [[Snoop in Brady's Bag]]

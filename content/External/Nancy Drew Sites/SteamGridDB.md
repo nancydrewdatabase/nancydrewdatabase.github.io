@@ -4,8 +4,9 @@ tags:
 ---
 Download and share custom [video game assets](https://www.steamgriddb.com/search/grids?term=nancy+drew) and personalize your gaming library.
 
-| [Nancy Drew: Message in a Haunted Mansion](https://www.steamgriddb.com/game/17665)  | #mhm |
+| Game Info                                                                           | Game |
 | ----------------------------------------------------------------------------------- | ---- |
+| [Nancy Drew: Message in a Haunted Mansion](https://www.steamgriddb.com/game/17665)  | #mhm |
 | [Nancy Drew: Treasure in the Royal Tower](https://www.steamgriddb.com/game/17666)   | #trt |
 | [Nancy Drew: The Final Scene](https://www.steamgriddb.com/game/17664)               | #fin |
 | [Nancy Drew: The Final Scene](https://www.steamgriddb.com/game/17664)               | #ssh |

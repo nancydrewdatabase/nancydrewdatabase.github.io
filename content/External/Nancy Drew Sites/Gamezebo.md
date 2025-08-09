@@ -5,8 +5,9 @@ tags:
 ---
 There are the games everybody is talking about, and the games that everybody should be talking about. [Gamezebo](https://www.gamezebo.com/search/Nancy+drew/page/) covers the best of both — but more than that, we cover the stories about them.
 
-| [Nancy Drew: Treasure in the Royal Tower Walkthrough](https://www.gamezebo.com/walkthroughs/nancy-drew-treasure-royal-tower-walkthrough-cheats-strategy-guide/?_rt=NHwxfG5hbmN5IGRyZXcvcGFnZXwxNzQ1NDM3MjUz&_rt_nonce=67c1193103) | #trt |
+| Walkthrough/Review                                                                                                                                                                                                                | Game |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
+| [Nancy Drew: Treasure in the Royal Tower Walkthrough](https://www.gamezebo.com/walkthroughs/nancy-drew-treasure-royal-tower-walkthrough-cheats-strategy-guide/?_rt=NHwxfG5hbmN5IGRyZXcvcGFnZXwxNzQ1NDM3MjUz&_rt_nonce=67c1193103) | #trt |
 | [Nancy Drew: Treasure in the Royal Tower Review](https://www.gamezebo.com/reviews/nancy-drew-treasure-in-the-royal-tower-review/?_rt=Mjd8NHxuYW5jeSBkcmV3fDE3NDU0Mzc5NzE&_rt_nonce=44b5bdab35)                                    | #trt |
 | [Nancy Drew: The Final Scene Walkthrough](https://www.gamezebo.com/walkthroughs/nancy-drew-final-scene-walkthrough-cheats-strategy-guide/?_rt=OHwxfG5hbmN5IGRyZXcvcGFnZXwxNzQ1NDM3MjUz&_rt_nonce=b8567fc328)                      | #fin |
 | [Nancy Drew: Secret of the Scarlet Hand Walkthrough](https://www.gamezebo.com/walkthroughs/nancy-drew-secret-scarlet-hand-walkthrough-cheats-strategy-guide/?_rt=NnwxfG5hbmN5IGRyZXcvcGFnZXwxNzQ1NDM3MjUz&_rt_nonce=f8c1c7283c)   | #ssh |

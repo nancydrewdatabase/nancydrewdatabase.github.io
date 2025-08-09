@@ -4,8 +4,9 @@ tags:
 ---
 Welcome to [Get A Clue Nancy Drew](https://getacluend.weebly.com/nd-games.html)! I created this page as a one stop site for all of your Nancy Drew needs including walkthroughs and a list of awards as well as how to get them.
 
-| [Message in a Haunted Mansion](https://getacluend.weebly.com/message-in-a-haunted-mansion.html)     | #mhm |
+| Walkthrough                                                                                         | Game |
 | --------------------------------------------------------------------------------------------------- | ---- |
+| [Message in a Haunted Mansion](https://getacluend.weebly.com/message-in-a-haunted-mansion.html)     | #mhm |
 | [Treasure in the Royal Tower](https://getacluend.weebly.com/treasure-in-the-royal-tower.html)       | #trt |
 | [The Final Scene](https://getacluend.weebly.com/the-final-scene.html)                               | #fin |
 | [Secret of the Scarlet Hand](https://getacluend.weebly.com/secret-of-the-scarlet-hand.html)         | #ssh |

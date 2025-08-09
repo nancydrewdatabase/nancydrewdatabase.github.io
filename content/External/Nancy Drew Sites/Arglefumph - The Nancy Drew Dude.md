@@ -30,14 +30,16 @@ aka Michael Gray or [The_Lost_Gamer](https://gamefaqs.gamespot.com/community/The
 - [Nancy Drew Death% Speedruns](https://www.youtube.com/playlist?list=PL-BD_KjCUmdwNRuocJlneTXFvztK8Liwn)
 ## Misc
 
-| [Nancy Drew Easter Egg Videos](https://www.youtube.com/playlist?list=PL-BD_KjCUmdwM24ElYG3WAAsJcx29Ttoa)    | #easter-eggs    |
-| ----------------------------------------------------------------------------------------------------------- | --------------- |
-| [Nancy Drew Games - Death Scenes](https://www.youtube.com/playlist?list=PL-BD_KjCUmdwOYOzZUBeR1XYanZnPrIp5) | #second-chance  |
+| Easter Egg/Second Chance                                                                                    | Tags           |
+| ----------------------------------------------------------------------------------------------------------- | -------------- |
+| [Nancy Drew Easter Egg Videos](https://www.youtube.com/playlist?list=PL-BD_KjCUmdwM24ElYG3WAAsJcx29Ttoa)    | #easter-eggs   |
+| [Nancy Drew Games - Death Scenes](https://www.youtube.com/playlist?list=PL-BD_KjCUmdwOYOzZUBeR1XYanZnPrIp5) | #second-chance |
 
 ## Walkthroughs
 
-| [Nancy Drew: Message in a Haunted Mansion](https://www.youtube.com/playlist?list=PL820D5A26C3567D62)             | #mhm |
+| Walkthrough                                                                                                      | Game |
 | ---------------------------------------------------------------------------------------------------------------- | ---- |
+| [Nancy Drew: Message in a Haunted Mansion](https://www.youtube.com/playlist?list=PL820D5A26C3567D62)             | #mhm |
 | [Nancy Drew: Treasure in the Royal Tower](https://www.youtube.com/playlist?list=PLCCF19C5F666C0EAC)              | #trt |
 | [Nancy Drew: The Final Scene](https://www.youtube.com/playlist?list=PL0D6EF4CEDA1F949A)                          | #fin |
 | [Nancy Drew: Secret of the Scarlet Hand](https://www.youtube.com/playlist?list=PL3CC157A231EF6BA7)               | #ssh |

@@ -5,8 +5,9 @@ tags:
 
 [GameBoomers](https://www.gameboomers.com/Walkthroughs/Nwalkthroughs.html) is one of the internet's premier adventure gaming websites.
 
-| [Nancy Drew Message in a Haunted Mansion](https://www.gameboomers.com/wtcheats/pcNn/NDMHM.html)                      | #mhm |
+| Walkthrough                                                                                                          | Game |
 | -------------------------------------------------------------------------------------------------------------------- | ---- |
+| [Nancy Drew Message in a Haunted Mansion](https://www.gameboomers.com/wtcheats/pcNn/NDMHM.html)                      | #mhm |
 | [Nancy Dew 3: Message in a Haunted Mansion](https://www.gameboomers.com/wtcheats/pcNn/nancydrewmhm.html)             | #mhm |
 | [Nancy Drew ~ Treasure in the Royal Tower](https://www.gameboomers.com/wtcheats/pcNn/NancyDrew_TRT.htm)              | #trt |
 | [Nancy Drew 4: Treasure in the Royal Tower](https://www.gameboomers.com/wtcheats/pcNn/ND4.html)                      | #trt |

@@ -5,8 +5,9 @@ tags:
 [GameFAQs](https://gamefaqs.gamespot.com/search?game=Nancy+drew) is an online archive of video and computer game information, codes, walkthroughs, hints, message boards, save games files, and of course, FAQs.
 - User [The_Lost_Gamer](https://gamefaqs.gamespot.com/community/The_Lost_Gamer/contributions/faqs), aka [[Arglefumph - The Nancy Drew Dude]] made guides for every Nancy Drew game
 
-| [Nancy Drew: Message in a Haunted Mansion – Guide and Walkthrough](https://gamefaqs.gamespot.com/pc/581205-nancy-drew-message-in-a-haunted-mansion/faqs/46325)     | #mhm |
+| Guide/Walkthrough                                                                                                                                                  | Game |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---- |
+| [Nancy Drew: Message in a Haunted Mansion – Guide and Walkthrough](https://gamefaqs.gamespot.com/pc/581205-nancy-drew-message-in-a-haunted-mansion/faqs/46325)     | #mhm |
 | [Nancy Drew: Message in a Haunted Mansion – Walkthrough](https://gamefaqs.gamespot.com/pc/581205-nancy-drew-message-in-a-haunted-mansion/faqs/54925)               | #mhm |
 | [Nancy Drew: Treasure in the Royal Tower – Guide and Walkthrough](https://gamefaqs.gamespot.com/pc/210338-nancy-drew-treasure-in-the-royal-tower/faqs/42337)       | #trt |
 | [Nancy Drew: Treasure in the Royal Tower – Guide and Walkthrough](https://gamefaqs.gamespot.com/pc/210338-nancy-drew-treasure-in-the-royal-tower/faqs/21419)       | #trt |

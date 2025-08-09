@@ -6,8 +6,9 @@ aliases:
 ---
 [Universal Hint System](https://www.uhs-hints.com/hints/search.php?search=nancy+drew) - Not your ordinary walkthrough. Just the hints you need
 
-| [Nancy Drew: Message in a Haunted Mansion Hints](https://www.uhs-hints.com/uhsweb/ndrew3.php)        | #mhm |
+| Walkthrough/Hints                                                                                    | Game |
 | ---------------------------------------------------------------------------------------------------- | ---- |
+| [Nancy Drew: Message in a Haunted Mansion Hints](https://www.uhs-hints.com/uhsweb/ndrew3.php)        | #mhm |
 | [Nancy Drew: Treasure in the Royal Tower Hints](https://www.uhs-hints.com/uhsweb/ndrew4.php)         | #trt |
 | [Nancy Drew: The Final Scene Hints](https://www.uhs-hints.com/uhsweb/ndrew5.php)                     | #fin |
 | [Nancy Drew: Secret of the Scarlet Hand Hints](https://www.uhs-hints.com/uhsweb/ndrew6.php)          | #ssh |

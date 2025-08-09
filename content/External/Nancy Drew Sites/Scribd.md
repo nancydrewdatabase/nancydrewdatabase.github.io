@@ -4,8 +4,9 @@ tags:
 ---
 [Scribd](https://www.scribd.com/search?query=nancy%20drew%20&verbatim=true) is the world's library of ideas, with over 200M documents and counting. Find and upload content on every topic and niche, from academic papers and legal documents to DIY hobbies, manuals, and more.
 
-| [Nancy Drew - Message in a Haunted Mansion](https://www.scribd.com/document/822309069/Nancy-Drew-Message-in-a-Haunted-Mansion?v=0.763)                                 | #mhm |
+| Walkthrough                                                                                                                                                            | Game |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
+| [Nancy Drew - Message in a Haunted Mansion](https://www.scribd.com/document/822309069/Nancy-Drew-Message-in-a-Haunted-Mansion?v=0.763)                                 | #mhm |
 | [Nancy Drew Treasure in Royal Tower Walk Through](https://www.scribd.com/document/92625896/Nancy-Drew-Treasure-in-Royal-Tower-Walk-Through?v=0.688)                    | #trt |
 | [Nancy Drew: Secret of The Old Clock](https://www.scribd.com/document/44982398/Nancy-Drew?v=0.058)                                                                     | #clk |
 | [Nancy Drew 19 - The Haunting of Castle Malloy Walkthrough](https://www.scribd.com/document/257928125/Nancy-Drew-19-the-Haunting-of-Castle-Malloy-Walkthrough?v=0.287) | #hau |

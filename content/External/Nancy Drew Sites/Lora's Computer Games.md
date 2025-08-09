@@ -3,10 +3,11 @@ tags:
   - blog
   - walkthrough
 ---
-Currently, I have [computer game cheats and walkthroughs](https://www.angelfire.com/hero/tjekanefir/drew-cheats.htm)available for fourteen Nancy Drew games.
+Currently, I have [computer game cheats and walkthroughs](https://www.angelfire.com/hero/tjekanefir/drew-cheats.htm) available for fourteen Nancy Drew games.
 
-| [**Message in a Haunted Mansion**](https://www.angelfire.com/hero/tjekanefir/drew-haunted.htm) | #mhm |
+| Walkthrough                                                                                    | Game |
 | ---------------------------------------------------------------------------------------------- | ---- |
+| [**Message in a Haunted Mansion**](https://www.angelfire.com/hero/tjekanefir/drew-haunted.htm) | #mhm |
 | [**Treasure in the Royal Tower**](https://www.angelfire.com/hero/tjekanefir/drew-tower.htm)    | #trt |
 | [**The Final Scene**](https://www.angelfire.com/hero/tjekanefir/drew-final.htm)                | #fin |
 | [**Secret of the Scarlet Hand**](https://www.angelfire.com/hero/tjekanefir/drew-scarlet.htm)   | #ssh |

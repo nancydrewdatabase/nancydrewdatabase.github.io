@@ -18,8 +18,9 @@ aka Huw Miller or [legofreak689](https://www.reddit.com/user/legofreak689/ )on r
 
 ## Games
 
-| **[Nancy Drew: Message in a Haunted Mansion](https://www.ndwalkthroughs.ca/nancy-drew-message-in-a-haunted-mansion.html)**     | #mhm |
+| Game Info                                                                                                                      | Game |
 | ------------------------------------------------------------------------------------------------------------------------------ | ---- |
+| **[Nancy Drew: Message in a Haunted Mansion](https://www.ndwalkthroughs.ca/nancy-drew-message-in-a-haunted-mansion.html)**     | #mhm |
 | **[Nancy Drew: Treasure in the Royal Tower](https://www.ndwalkthroughs.ca/nancy-drew-treasure-in-the-royal-tower.html)**       | #trt |
 | **[Nancy Drew: The Final Scene](https://www.ndwalkthroughs.ca/nancy-drew-the-final-scene.html)**                               | #fin |
 | **[Nancy Drew: Secret of the Scarlet Hand](https://www.ndwalkthroughs.ca/nancy-drew-secret-of-the-scarlet-hand.html)**         | #ssh |

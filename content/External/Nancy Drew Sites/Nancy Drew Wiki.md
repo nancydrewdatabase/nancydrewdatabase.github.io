@@ -4,8 +4,9 @@ tags:
 ---
 [Welcome to Nancy Drew Wiki](https://nancydrew.fandom.com/wiki/Category:PC_Games): Mysteries are everywhere
 
-| [List_of_Locations](https://nancydrew.fandom.com/wiki/List_of_Locations)                                        | #environments |
+| Various Pages                                                                                                   | Tags          |
 | --------------------------------------------------------------------------------------------------------------- | ------------- |
+| [List_of_Locations](https://nancydrew.fandom.com/wiki/List_of_Locations)                                        | #environments |
 | [Nancy's_Letters](https://nancydrew.fandom.com/wiki/Nancy's_Letters)                                            | #case-file    |
 | [Timeline](https://nancydrew.fandom.com/wiki/Timeline_\(games\))                                                | Timeline      |
 | [Nancy's_Scrapbook](https://nancydrew.fandom.com/wiki/Nancy%27s_Scrapbook)                                      | #scrapbook    |
@@ -13,8 +14,9 @@ tags:
 | [Nancy_Drew_Video_Game_Characters](https://nancydrew.fandom.com/wiki/Category:Nancy_Drew_Video_Game_Characters) | #characters   |
 ## Games
 
-| [Message_in_a_Haunted_Mansion](https://nancydrew.fandom.com/wiki/Message_in_a_Haunted_Mansion)                                                      | #mhm |
+| Wiki                                                                                                                                                | Game |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
+| [Message_in_a_Haunted_Mansion](https://nancydrew.fandom.com/wiki/Message_in_a_Haunted_Mansion)                                                      | #mhm |
 | [Treasure in the Royal Tower](https://nancydrew.fandom.com/wiki/Treasure_in_the_Royal_Tower "Treasure in the Royal Tower")                          | #trt |
 | [The Final Scene](https://nancydrew.fandom.com/wiki/The_Final_Scene_\(video_game\) "The Final Scene (video game)")                                  | #fin |
 | [Secret of the Scarlet Hand](https://nancydrew.fandom.com/wiki/Secret_of_the_Scarlet_Hand_\(video_game\) "Secret of the Scarlet Hand (video game)") | #ssh |

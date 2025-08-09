@@ -6,13 +6,15 @@ tags:
 [Big Fish Games](https://www.bigfishgames.com/us/en/games/genres/pc-adventure-games.html?game_series=389) is a world leader in desktop gaming and home to a massive catalog containing thousands of casual games.
 ## Walkthrough
 
-| [Nancy Drew: Treasure in the Royal Tower Walkthrough](https://www.bigfishgames.com/blog/walkthroughs/nancy-drew-treasure-in-a-royal-tower.html)    | #trt  |
-| -------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
-| [Nancy Drew: Secret of Shadow Ranch Walkthrough](https://www.bigfishgames.com/blog/walkthroughs/nancy-drew-secret-of-shadow-ranch.html)            | #sha  |
-| [Nancy Drew: Warnings at Waverly Academy Walkthrough](https://www.bigfishgames.com/blog/walkthroughs/nancy-drew--warnings-at-waverly-academy.html) | #wav  |
+| Walkthrough                                                                                                                                        | Game |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
+| [Nancy Drew: Treasure in the Royal Tower Walkthrough](https://www.bigfishgames.com/blog/walkthroughs/nancy-drew-treasure-in-a-royal-tower.html)    | #trt |
+| [Nancy Drew: Secret of Shadow Ranch Walkthrough](https://www.bigfishgames.com/blog/walkthroughs/nancy-drew-secret-of-shadow-ranch.html)            | #sha |
+| [Nancy Drew: Warnings at Waverly Academy Walkthrough](https://www.bigfishgames.com/blog/walkthroughs/nancy-drew--warnings-at-waverly-academy.html) | #wav |
 ## Purchase Games
-| [Nancy Drew: Message in a Haunted Mansion](https://www.bigfishgames.com/us/en/games/5517/nancy-drew-message-in-a-haunted-mansion/?pc&lang=en)     | #mhm |
+| Purchase Page                                                                                                                                     | Game |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
+| [Nancy Drew: Message in a Haunted Mansion](https://www.bigfishgames.com/us/en/games/5517/nancy-drew-message-in-a-haunted-mansion/?pc&lang=en)     | #mhm |
 | [Nancy Drew: Treasure in the Royal Tower](https://www.bigfishgames.com/us/en/games/5229/nancy-drew-treasure-in-a-royal-tower/?pc&lang=en)         | #trt |
 | [Nancy Drew: The Final Scene](https://www.bigfishgames.com/us/en/games/5230/nancy-drew-the-final-scene/?pc&lang=en)                               | #fin |
 | [Nancy Drew: Secret of the Scarlet Hand](https://www.bigfishgames.com/us/en/games/5087/nancy-drew-secret-of-the-scarlet-hand/?pc&lang=en)         | #ssh |

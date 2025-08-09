@@ -16,14 +16,14 @@ tags:
 | [[Brady's Pencil]]                       | [[Men's Dressing Room]]                               |
 | [[Burnt Out Lightbulb]]             | [[Projector Room]]                                         |
 | [[Control Panel Key]]                 | [[Royal Palladium Basement]]                     |
-| [[Floor Quarter]]                         | [[Royal Palladium Box Seats]]                   |
 | [[Flash Paper Ring]]                   | [[Royal Palladium Basement]]                     |
+| [[Floor Quarter]]                         | [[Royal Palladium Box Seats]]                   |
 | [[Hack Saw]]                                   | [[Secret Ice Depository]]                           |
 | [[Ice Depository Keys]]             | [[Secret Passage from Projector Room]] |
 | [[Large Gear]]                               | [[Royal Palladium Balcony Seats]]           |
-| [[New Lightbulb]]                         | [[Projector Room]]                                         |
-| [[Magic Wand]]                               | [[Men's Dressing Room]]                               |
 | [[Library of Congress Slide]] | [[Ticket Booth]]                                             |
+| [[Magic Wand]]                               | [[Men's Dressing Room]]                               |
+| [[New Lightbulb]]                         | [[Projector Room]]                                         |
 | [[Projector Key]]                         | [[Theater Lobby]]                                           |
 | [[Rubber Gloves]]                         | [[Magician's Room]]                                       |
 | [[Sledge Hammer]]                         | [[Secret Ice Depository]]                           |

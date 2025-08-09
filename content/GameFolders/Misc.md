@@ -1,5 +1,6 @@
 ---
 game: 
+aliases: 
 tags:
-  - checklist
+  - misc
 ---

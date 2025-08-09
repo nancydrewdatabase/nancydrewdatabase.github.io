@@ -4,8 +4,9 @@ tags:
 ---
 [Speedrun.com](https://www.speedrun.com/series/nancy_drew/games) is the leading platform for game communities to organize around the activity of speedrunning.
 
-| [Nancy Drew: Message in a Haunted Mansion](https://www.speedrun.com/nd_mhm)   | #mhm |
+| Speed Run                                                                     | Game |
 | ----------------------------------------------------------------------------- | ---- |
+| [Nancy Drew: Message in a Haunted Mansion](https://www.speedrun.com/nd_mhm)   | #mhm |
 | [Nancy Drew: Treasure in the Royal Tower](https://www.speedrun.com/nd_trt)    | #trt |
 | [Nancy Drew: The Final Scene](https://www.speedrun.com/nd_fin)                | #fin |
 | [Nancy Drew: Secret of the Scarlet Hand](https://www.speedrun.com/nd_ssh)     | #ssh |

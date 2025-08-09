@@ -1,11 +1,15 @@
 ---
 tags:
+  - official
+  - paid
+  - game-info
 ---
 [Official website](https://www.herinteractive.com/) of the award-winning Nancy Drew mystery-adventure games.
 ## Games
 
-| [Message in a Haunted Mansion](https://www.herinteractive.com/shop-games/nancy-drew-message-in-a-haunted-mansion/)     | #mhm |
+| Game Info                                                                                                              | Game |
 | ---------------------------------------------------------------------------------------------------------------------- | ---- |
+| [Message in a Haunted Mansion](https://www.herinteractive.com/shop-games/nancy-drew-message-in-a-haunted-mansion/)     | #mhm |
 | [Treasure in the Royal Tower](https://www.herinteractive.com/shop-games/nancy-drew-treasure-in-the-royal-tower/)       | #trt |
 | [The Final Scene](https://www.herinteractive.com/shop-games/nancy-drew-the-final-scene/)                               | #fin |
 | [Secret of the Scarlet Hand](https://www.herinteractive.com/shop-games/nancy-drew-secret-of-the-scarlet-hand/)         | #ssh |

@@ -8,8 +8,9 @@ tags:
 [Game Saves](https://mysterymanor.net/atticsavesn.htm)
 ## Easter Eggs
 
-| [Nancy Drew:  Message In A Haunted Mansion](https://mysterymanor.net/EasterEggs/eastereggsNDMessageInAHauntedMansion.htm) | #mhm |
+| Easter Eggs                                                                                                               | Game |
 | ------------------------------------------------------------------------------------------------------------------------- | ---- |
+| [Nancy Drew:  Message In A Haunted Mansion](https://mysterymanor.net/EasterEggs/eastereggsNDMessageInAHauntedMansion.htm) | #mhm |
 | [Nancy Drew:  Treasure In The Royal Tower](https://mysterymanor.net/EasterEggs/eastereggsNDTreasureInTheRoyalTower.htm)   | #trt |
 | [Nancy Drew:  The Final Scene](https://mysterymanor.net/EasterEggs/eastereggsNDTheFinalScene.htm)                         | #fin |
 | [Nancy Drew:  Secret Of The Scarlet Hand](https://mysterymanor.net/EasterEggs/eastereggsNDSecretOfTheScarletHand.htm)     | #ssh |
@@ -27,8 +28,9 @@ tags:
 | [Nancy Drew: Ghost Of Thornton Hall](https://mysterymanor.net/EasterEggs/eastereggsNDGhostOfThorntonHall.htm)             | #gth |
 
 ## Walkthrough
-| [Nancy Drew 3: Message in a Haunted Mansion](https://mysterymanor.net/walkthroughs/NDMessageInAHauntedMansion_Louis/nancy_drew_3.htm)       | #mhm |
+| Walkthrough                                                                                                                                 | Game |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
+| [Nancy Drew 3: Message in a Haunted Mansion](https://mysterymanor.net/walkthroughs/NDMessageInAHauntedMansion_Louis/nancy_drew_3.htm)       | #mhm |
 | [Nancy Drew Message in a Haunted Mansion](https://mysterymanor.net/walkthroughs/NGHauntedMansion/NDMHM.html)                                | #mhm |
 | [Nancy Drew 4 - Treasure In The Royal Tower](https://mysterymanor.net/walkthroughs/NDTreasureRoyalTower/ND4.html)                           | #trt |
 | [Nancy Drew 5 - The Final Scene](https://mysterymanor.net/walkthroughs/NDTheFinalScene/NDFinalScene.html)                                   | #fin |
@@ -48,8 +50,9 @@ tags:
 | [Nancy Drew 17 - The Legend Of The Crystal Skull](https://mysterymanor.net/walkthroughs/NDLegendOfTheCrystalSkull_Louis/nancy_drew_17.htm)  | #cry |
 
 ## Screenshots
-| [Nancy Drew 3 Message in a Haunted Mansion](https://mysterymanor.net/nancydrewmansion.htm)                      | #mhm |
+| Screenshots                                                                                                     | Game |
 | --------------------------------------------------------------------------------------------------------------- | ---- |
+| [Nancy Drew 3 Message in a Haunted Mansion](https://mysterymanor.net/nancydrewmansion.htm)                      | #mhm |
 | [Nancy Drew 4 Treasure in the Royal Tower](https://mysterymanor.net/nancydrewtower.htm)                         | #trt |
 | [Nancy Drew 5 The Final Scene](https://mysterymanor.net/nancydrewfinal.htm)                                     | #fin |
 | [Nancy Drew 6 Secret of the Scarlet Hand](https://mysterymanor.net/nancydrewscarlet.htm)                        | #ssh |

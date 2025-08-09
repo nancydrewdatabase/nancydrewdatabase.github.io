@@ -6,8 +6,9 @@ tags:
 
 ## Walkthrough
 
-| [Nancy Drew: Message in a Haunted Mansion](https://adventuregamers.com/walkthrough/nancy-drew-message-in-a-haunted-mansion)     | #mhm |
+| Walkthrough                                                                                                                     | Game |
 | ------------------------------------------------------------------------------------------------------------------------------- | ---- |
+| [Nancy Drew: Message in a Haunted Mansion](https://adventuregamers.com/walkthrough/nancy-drew-message-in-a-haunted-mansion)     | #mhm |
 | [Nancy Drew: Treasure in the Royal Tower](https://adventuregamers.com/walkthrough/nancy-drew-treasure-in-the-royal-tower)       | #trt |
 | [Nancy Drew: The Final Scene](https://adventuregamers.com/walkthrough/nancy-drew-the-final-scene)                               | #fin |
 | [Nancy Drew: Ghost Dogs of Moon Lake](https://adventuregamers.com/walkthrough/nancy-drew-ghost-dogs-of-moon-lake)               | #dog |
@@ -22,8 +23,9 @@ tags:
 | [Nancy Drew: Warnings at Waverly Academy](https://adventuregamers.com/walkthrough/nancy-drew-warnings-at-waverly-academy)       | #wav |
 ## Review
 
-| [Nancy Drew: Message in a Haunted Mansion](https://adventuregamers.com/articles/view/27656)   | #mhm |
+| Review                                                                                        | Game |
 | --------------------------------------------------------------------------------------------- | ---- |
+| [Nancy Drew: Message in a Haunted Mansion](https://adventuregamers.com/articles/view/27656)   | #mhm |
 | [Nancy Drew: Treasure in the Royal Tower](https://adventuregamers.com/articles/view/17694)    | #trt |
 | [Nancy Drew: The Final Scene](https://adventuregamers.com/articles/view/17789)                | #fin |
 | [Nancy Drew: Ghost Dogs of Moon Lake](https://adventuregamers.com/articles/view/17578)        | #dog |
