@@ -2,7 +2,6 @@
 tags:
   - blog
 ---
-
 Greetings, loved ones.  
 Let's [solve some crime](https://xyzzysqrl.dreamwidth.org/tag/nancy+drew).
 

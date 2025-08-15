@@ -4,3 +4,5 @@ tags:
   - mention
   - dead
 ---
+- Previous owner of Wickford Tower
+- Adoptive father of [[Dexter Egan]]

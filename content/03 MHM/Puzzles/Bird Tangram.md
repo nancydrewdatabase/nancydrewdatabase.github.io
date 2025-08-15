@@ -7,8 +7,9 @@ tags:
   - tangram
 learning: "[[Tangram]]"
 ---
+
 ## Prerequisites
-* Talk to [[Rose Green]]​
+* Talk to [[Rose Green]]
 ## Unwritten Rules
 * This puzzle can be pixel perfect!
 - Try to get tiles to be highlighted before placing

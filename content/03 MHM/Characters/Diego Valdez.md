@@ -6,3 +6,5 @@ tags:
   - mention
   - dead
 ---
+- A previous owner of the house, lover of [[Elizabeth Applegate]]
+- His treasure is hidden somewhere in the house

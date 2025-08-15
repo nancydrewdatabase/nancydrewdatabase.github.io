@@ -3,8 +3,9 @@ tags:
   - general
 ---
 
-| **M**essage in a **H**aunted **M**ansion | #mhm |
+| Game Name Bolded Title                   | Game |
 | ---------------------------------------- | ---- |
+| **M**essage in a **H**aunted **M**ansion | #mhm |
 | **T**reasure in the **R**oyal **T**ower  | #trt |
 | The **Fin**al Scene                      | #fin |
 | **S**ecret of the **S**carlet **H**and   | #ssh |

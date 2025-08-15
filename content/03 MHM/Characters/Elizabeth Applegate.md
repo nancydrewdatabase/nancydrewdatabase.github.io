@@ -6,3 +6,4 @@ tags:
   - mention
   - dead
 ---
+- Lover of [[Diego Valdez]]
