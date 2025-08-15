@@ -10,36 +10,22 @@ tags:
 <!-- QueryToSerialize: Table WITHOUT ID file.link as document, recepient from "content/05 FIN/Library" where contains(tags, "case-file") -->
 <!-- SerializedQuery: Table WITHOUT ID file.link as document, recepient from "content/05 FIN/Library" where contains(tags, "case-file") -->
 
-| document                                                             | recepient                                                  |
-| -------------------------------------------------------------------- | ---------------------------------------------------------- |
-| [[FIN Closing Letter]] | [[Bess Marvin]] |
-| [[FIN Opening Letter]] | [[Bess Marvin]] |
+| document | recepient |
+| -------- | --------- |
 <!-- SerializedQuery END -->
 ## Books
 <!-- QueryToSerialize: Table WITHOUT ID file.link as document, environment, author from "content/05 FIN/Library" where contains(tags, "book") -->
 <!-- SerializedQuery: Table WITHOUT ID file.link as document, environment, author from "content/05 FIN/Library" where contains(tags, "book") -->
 
-| document                                                                                                                                                               | environment                                                                 | author        |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ------------- |
-| [[Clayton Projector Care & Operation]]                                                                   | [[Projector Room]]           | \-            |
-| [[Magic’s Secrets Volume IV]]                                                                                     | [[Magician's Room]]         | \-            |
-| [[Stage Technician’s Guide]]                                                                                       | [[Men's Dressing Room]] | \-            |
-| [[You Are What You Project - Becoming the Captain of Your Own Destiny]] | [[Men's Dressing Room]] | Perry Midplan |
+| document | environment | author |
+| -------- | ----------- | ------ |
 <!-- SerializedQuery END -->
 ## Misc
 <!-- QueryToSerialize: Table WITHOUT ID file.link as document, environment, author from "content/05 FIN/Library" where !contains(tags, "book") and !contains(tags, "case-file") -->
 <!-- SerializedQuery: Table WITHOUT ID file.link as document, environment, author from "content/05 FIN/Library" where !contains(tags, "book") and !contains(tags, "case-file") -->
 
-| document                                                                                         | environment                                                                                               | author                                                              |
-| ------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| [[H.A.D. I.T. Pamphlet]]                         | [[Theater Lobby]]                                           | [[Nicholas Falcone]] |
-| [[Houdini Slide Letter]]                         | [[Projector Room]]                                         | Dizzy Noshun                                                        |
-| [[Houdini Ownership Papers]]                 | [[Royal Palladium Basement]]                     | [[J. J. Thompson]]     |
-| [[Houdini-Falcone Ownership Papers]] | [[Secret Passage from Projector Room]] | \-                                                                  |
-| [[Maya’s Notebook]]                                   | [[Men's Dressing Room]]                               | [[Maya Nguyen]]           |
-| [[Save The Royal Palladium Theatre]] | [[Theater Lobby]]                                           | [[Nicholas Falcone]] |
-| [[Simone's Emails]]                                   | [[Woman's Dressing Room]]                           | [[Simone Mueller]]     |
-| [[Thompson Legal Letter]]                       | [[Secret Passage from Projector Room]] | [[J. J. Thompson]]     |
+| document | environment | author |
+| -------- | ----------- | ------ |
 <!-- SerializedQuery END -->
 <!-- SerializedQuery: Table WITHOUT ID file.link as document, environment, author from "content/05 FIN/Library" where !contains(tags, "book") and !contains(tags, "case-file") -->
 

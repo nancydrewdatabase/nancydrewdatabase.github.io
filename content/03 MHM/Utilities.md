@@ -9,10 +9,8 @@ tags:
 <!-- QueryToSerialize: Table WITHOUT ID file.link as "utility", environment from "content/03 MHM/Utilities" -->
 <!-- SerializedQuery: Table WITHOUT ID file.link as "utility", environment from "content/03 MHM/Utilities" -->
 
-| utility                                                                            | environment                                                                       |
-| ---------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| [[Chinese Room Alarm Clock]] | [[Chinese Room]]                     |
-| [[Golden Gardenia Landline]] | [[Golden Gardenia Parlor]] |
+| utility | environment |
+| ------- | ----------- |
 <!-- SerializedQuery END -->
 <!-- SerializedQuery: Table WITHOUT ID file.link as "utility", environment from "content/03 MHM/Utilities" -->
 

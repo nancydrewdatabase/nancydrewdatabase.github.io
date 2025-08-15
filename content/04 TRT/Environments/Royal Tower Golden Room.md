@@ -16,11 +16,8 @@ tags:
 <!-- QueryToSerialize: Table WITHOUT ID file.link as puzzle from "content/04 TRT/Puzzles" where contains(environment,  [[]]) sort tags desc -->
 <!-- SerializedQuery: Table WITHOUT ID file.link as puzzle from "content/04 TRT/Puzzles" where contains(environment,  [[]]) sort tags desc -->
 
-| puzzle                                                                   |
-| ------------------------------------------------------------------------ |
-| [[Golden Leaf Puzzle]]     |
-| [[Tower Floor Design]]     |
-| [[Find the Diamond Key]] |
+| puzzle |
+| ------ |
 <!-- SerializedQuery END -->
 
 ## Library
