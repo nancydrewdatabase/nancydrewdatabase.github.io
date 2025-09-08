@@ -9,7 +9,7 @@ tags:
 ## Clues
 * [[Library of Congress Slide]]
 ## Unwritten Rules
-- The projector light will only fail on [[FIN Day 3]]
+- The projector light will only fail on [[Day 3]]
 * The projector knob only falls off when the [[Blueprints Slide]] is set
 	* Set focus once to prevent this from happening
 ## Solution

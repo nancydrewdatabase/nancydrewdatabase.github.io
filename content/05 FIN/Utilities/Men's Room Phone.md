@@ -11,4 +11,4 @@ This is an internal line that connects to multiple locations inside the theater
 4. [[Men's Dressing Room]]
 5. [[Woman's Dressing Room]]
 
-You cannot make calls, but you must answer two calls on Day 1 to progress the game.
+You cannot make calls, but you must answer two calls on [[content/05 FIN/Misc/Day 1|Day 1]] to progress the game.

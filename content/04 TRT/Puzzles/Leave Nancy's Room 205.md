@@ -2,9 +2,9 @@
 game: "[[04 TRT]]"
 environment: "[[Nancy's Room 205]]"
 tags:
-  - nancy's-room
   - bedroom
   - hotel-room
+  - nancys-room
 ---
 ## Prerequisites
 * [[Nancy’s Room Key 205]]

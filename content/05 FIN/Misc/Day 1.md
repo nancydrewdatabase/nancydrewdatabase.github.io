@@ -2,6 +2,7 @@
 game: "[[05 FIN]]"
 tags:
   - day-1
+aliases: FIN Day 1
 ---
 ## Things to do
 Here are some of the things you can do on Day 1, in a semi-sequential order

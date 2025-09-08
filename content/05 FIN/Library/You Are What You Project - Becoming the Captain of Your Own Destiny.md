@@ -7,7 +7,7 @@ tags:
   - book
 ---
 ## Prerequisites
-- Available [[FIN Day 2]] when [[Brady Armstrong]] isn't in the [[Men's Dressing Room]]
+- Available [[Day 2]] when [[Brady Armstrong]] isn't in the [[Men's Dressing Room]]
 ## Text
 ### Chapter 2: The Language of Success
 

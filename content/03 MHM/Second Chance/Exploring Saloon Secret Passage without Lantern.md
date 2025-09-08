@@ -1,10 +1,11 @@
 ---
 game: "[[03 MHM]]"
 environment: "[[Golden Gardenia Basement Secret Passage]]"
-related: "[[Enter Saloon Secret Passage]]"
+related:
+  - "[[Enter Saloon Secret Passage]]"
 tags:
   - fall-to-death
-  - it's-too-dark
+  - too-dark
 ---
 ## Related
 - [[Enter Saloon Secret Passage]]

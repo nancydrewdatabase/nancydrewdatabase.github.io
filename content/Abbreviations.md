@@ -2,6 +2,7 @@
 tags:
   - general
 ---
+These Abbreviations originally came from the HER Message Boards. They are commonly used to quickly refer to a specific game. Some tags are more intuitive than others. This site will use these abbreviation for consistency.
 
 | Game Name Bolded Title                   | Game |
 | ---------------------------------------- | ---- |

@@ -2,8 +2,8 @@
 game: "[[03 MHM]]"
 environment: "[[Chinese Room]]"
 tags:
-  - something's-missing
   - lock-and-key
+  - somethings-missing
 ---
 ## Prerequisites
 * [[Hanzi Safe]]

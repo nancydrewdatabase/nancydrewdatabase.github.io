@@ -5,7 +5,6 @@ tags:
   - suspects-leave
   - misc
 ---
-
 ## Prerequisites
 - [[Translate “Gum Bo Fu”]]
 ## Description

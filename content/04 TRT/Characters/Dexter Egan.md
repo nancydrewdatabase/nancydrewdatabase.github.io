@@ -8,6 +8,7 @@ tags:
   - phone-contact
 phone: "0"
 ---
+## Description
 Adopted by the castle’s creator when he was just a child, Dexter is now the caretaker. Are there secrets about the castle that he’s trying to hide?
 ## Schedule
 - TODO

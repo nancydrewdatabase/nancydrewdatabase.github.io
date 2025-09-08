@@ -4,43 +4,29 @@ tags:
   - theater
 ---
 ## Characters
-<!-- QueryToSerialize: Table WITHOUT ID file.link as characters from "content/05 FIN/Characters" where contains(environment,  [[]]) -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as characters from "content/05 FIN/Characters" where contains(environment,  [[]]) -->
 
-| characters |
-| ---------- |
-<!-- SerializedQuery END -->
-
+| characters                                                        |
+| ----------------------------------------------------------------- |
+| [[Brady Armstrong]] |
 ## Inventory
 
-<!-- QueryToSerialize: Table WITHOUT ID file.link as item from "content/05 FIN/Inventory" where contains(environment,  [[]]) -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as item from "content/05 FIN/Inventory" where contains(environment,  [[]]) -->
-
-| item |
-| ---- |
-<!-- SerializedQuery END -->
-
+| item               |
+| ------------------ |
+| [[Brady's Pencil]] |
+| [[Magic Wand]]     |
 ## Puzzle
-<!-- QueryToSerialize: Table WITHOUT ID file.link as puzzle from "content/05 FIN/Puzzles" where contains(environment,  [[]]) sort tags desc -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as puzzle from "content/05 FIN/Puzzles" where contains(environment,  [[]]) sort tags desc -->
 
-| puzzle |
-| ------ |
-<!-- SerializedQuery END -->
-
+| puzzle                                                                                                       |
+| ------------------------------------------------------------------------------------------------------------ |
+| [[Open Dressing Room Secret Passage]]           |
+| [[Open Men’s Dressing Room Vanity Drawer]] |
 ## Library
-<!-- QueryToSerialize: Table WITHOUT ID file.link as library from "content/05 FIN/Library" where contains(environment,  [[]]) sort tags desc -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as library from "content/05 FIN/Library" where contains(environment,  [[]]) sort tags desc -->
 
-| library |
-| ------- |
-<!-- SerializedQuery END -->
+| library                                                                                                                                                                |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[You Are What You Project - Becoming the Captain of Your Own Destiny]] |
+| [[Maya’s Notebook]]                                                                                                         |
+| [[Stage Technician’s Guide]]                                                                                       |
 
-## Second Chance
-<!-- QueryToSerialize: Table WITHOUT ID file.link as second-chance from "content/05 FIN/Second Chance" where contains(environment,  [[]]) -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as second-chance from "content/05 FIN/Second Chance" where contains(environment,  [[]]) -->
 
-| second-chance |
-| ------------- |
-<!-- SerializedQuery END -->
 

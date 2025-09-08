@@ -2,7 +2,7 @@
 game: "[[03 MHM]]"
 environment: "[[Golden Gardenia Grand Staircase]]"
 tags:
-  - don't-push-the-button
+  - do-not-touch
 ---
 ## Related
 - [[Golden Gardenia Grand Staircase]]

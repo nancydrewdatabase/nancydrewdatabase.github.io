@@ -4,36 +4,39 @@ tags:
   - library
 ---
 ## Characters
-<!-- QueryToSerialize: Table WITHOUT ID file.link as characters from "content/03 MHM/Characters" where contains(environment,  [[]]) -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as characters from "content/03 MHM/Characters" where contains(environment,  [[]]) -->
 
-| characters |
-| ---------- |
-<!-- SerializedQuery END -->
-
+| characters                                                      |
+| --------------------------------------------------------------- |
+| [[Louis Chandler]] |
 ## Inventory
 
-<!-- QueryToSerialize: Table WITHOUT ID file.link as item from "content/03 MHM/Inventory" where contains(environment,  [[]]) -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as item from "content/03 MHM/Inventory" where contains(environment,  [[]]) -->
-
-| item |
-| ---- |
-<!-- SerializedQuery END -->
-
+| item                                                       |
+| ---------------------------------------------------------- |
+| [[Library Tile]] |
 ## Puzzle
-<!-- QueryToSerialize: Table WITHOUT ID file.link as puzzle from "content/03 MHM/Puzzles" where contains(environment,  [[]]) sort tags desc -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as puzzle from "content/03 MHM/Puzzles" where contains(environment,  [[]]) sort tags desc -->
 
-| puzzle |
-| ------ |
-<!-- SerializedQuery END -->
-
-
+| puzzle                    |
+| ------------------------- |
+| [[Laptop Maze]]           |
+| [[Fireplace Tiles]]       |
+| [[Open Louis’ Briefcase]] |
+| [[Hack Louis’ Computer]]  |
+| [[Translate “Gum Bo Fu”]] |
+| [[四 Four]]                |
 ## Library
-<!-- QueryToSerialize: Table WITHOUT ID file.link as library from "content/03 MHM/Library" where contains(environment,  [[]]) sort tags desc -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as library from "content/03 MHM/Library" where contains(environment,  [[]]) sort tags desc -->
 
-| library |
-| ------- |
-<!-- SerializedQuery END -->
-
+| library                                                                          |
+| -------------------------------------------------------------------------------- |
+| [[Argentine Appraisers Letter]]                                                  |
+| [[Legends of San Francisco - The City’s Most Influential Personalities]]         |
+| [[Lessons in Chess]]                                                             |
+| [[Mythical Creatures And Distant Monsters]]                                      |
+| [[The History of Piano]]                                                         |
+| [[The Theory of Music - Level 1]]                                                |
+| [[Through Our Own Voices - An Oral History Of Chinese Immigrants In California]] |
+| [[Victorian Antiques]]                                                           |
+## Second Chance
+| second-chance                               |
+| ------------------------------------------- |
+| [[Admit to Reading a Book]]                 |
+| [[Get Caught Snooping in Louis’ Briefcase]] |

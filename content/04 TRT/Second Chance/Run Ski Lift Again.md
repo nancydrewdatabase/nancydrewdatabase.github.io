@@ -1,9 +1,10 @@
 ---
 game: "[[04 TRT]]"
 environment: "[[Wickford Ski Shed]]"
-related: "[[Start Ski Lift]]"
+related:
+  - "[[Start Ski Lift]]"
 tags:
-  - don't-push-the-button
+  - do-not-touch
 ---
 ## Related
 - [[Start Ski Lift]]

@@ -6,29 +6,29 @@ tags:
   - trt
   - environments
 ---
-<!-- QueryToSerialize: Table WITHOUT ID file.link as environment from "content/04 TRT/Environments" -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as environment from "content/04 TRT/Environments" -->
 
 | environment                                                                                         |
 | --------------------------------------------------------------------------------------------------- |
 | [[Ezra's Secret Garden]]                       |
 | [[Hotchkiss' Room 214]]                         |
 | [[Nancy's Room 205]]                               |
-| [[Outside Wickford Castle]]                 |
 | [[Portrait Alcove]]                                 |
-| [[Royal Tower Golden Room]]                 |
 | [[Under Royal Tower]]                             |
-| [[Wickford Basement]]                             |
+| [[Royal Tower Golden Room]]                 |
+| [[Outside Wickford Castle]]                 |
 | [[Wickford Elevator Shaft]]                 |
+| [[Wickford Basement]]                             |
 | [[Wickford Elevator]]                             |
 | [[Wickford First Floor]]                       |
-| [[Wickford Library Secret Room]]       |
 | [[Wickford Library]]                               |
 | [[Wickford Lobby]]                                   |
 | [[Wickford Second Floor]]                     |
+| [[Wickford Library Secret Room]]       |
 | [[Wickford Secret Passage Hallway]] |
-| [[Wickford Sitting Room]]                     |
-| [[Wickford Ski Locker Room]]               |
 | [[Wickford Ski Shed]]                             |
+| [[Wickford Ski Locker Room]]               |
+| [[Wickford Sitting Room]]                     |
 | [[Wickford Ski Shop]]                             |
-<!-- SerializedQuery END -->
+
+
+

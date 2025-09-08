@@ -5,37 +5,25 @@ tags:
   - secret
 ---
 ## Characters
-<!-- QueryToSerialize: Table WITHOUT ID file.link as characters from "content/X/Characters" where contains(environment,  [[]]) -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as characters from "content/X/Characters" where contains(environment,  [[]]) -->
 
-| characters |
-| ---------- |
-<!-- SerializedQuery END -->
-
+| characters                                                |
+| --------------------------------------------------------- |
+| [[Maya Nguyen]] |
 ## Inventory
 
-<!-- QueryToSerialize: Table WITHOUT ID file.link as item from "content/X/Inventory" where contains(environment,  [[]]) -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as item from "content/X/Inventory" where contains(environment,  [[]]) -->
-
-| item |
-| ---- |
-<!-- SerializedQuery END -->
-
+| item                                                         |
+| ------------------------------------------------------------ |
+| [[Hack Saw]]           |
+| [[Sledge Hammer]] |
 ## Puzzle
-<!-- QueryToSerialize: Table WITHOUT ID file.link as puzzle from "content/X/Puzzles" where contains(environment,  [[]]) sort tags desc -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as puzzle from "content/X/Puzzles" where contains(environment,  [[]]) sort tags desc -->
 
-| puzzle |
-| ------ |
-<!-- SerializedQuery END -->
-
-## Library
-<!-- QueryToSerialize: Table WITHOUT ID file.link as library from "content/X/Library" where contains(environment,  [[]]) sort tags desc -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as library from "content/X/Library" where contains(environment,  [[]]) sort tags desc -->
-
-| library |
-| ------- |
-<!-- SerializedQuery END -->
-
+| puzzle                                                                   |
+| ------------------------------------------------------------------------ |
+| [[Stop the Demolition]]   |
+| [[Attempt to Free Maya]] |
 ## Second Chance
-<!-- QueryToSerialize: Table WITHOUT ID file.link as second-chance from "content/X/Second Chance" where contains(environment,  [[]]) -->
+
+| second-chance                                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------ |
+| [[Stay in the Theater During the Demolition]] |
+

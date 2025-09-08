@@ -4,35 +4,28 @@ tags:
   - bedroom
 ---
 ## Characters
-<!-- QueryToSerialize: Table WITHOUT ID file.link as characters from "content/03 MHM/Characters" where contains(environment,  [[]]) -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as characters from "content/03 MHM/Characters" where contains(environment,  [[]]) -->
-
-| characters |
-| ---------- |
-<!-- SerializedQuery END -->
-
+| characters       |
+| ---------------- |
+| [[Abby Sideris]] |
 ## Inventory
-
-<!-- QueryToSerialize: Table WITHOUT ID file.link as item from "content/03 MHM/Inventory" where contains(environment,  [[]]) -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as item from "content/03 MHM/Inventory" where contains(environment,  [[]]) -->
-
-| item |
-| ---- |
-<!-- SerializedQuery END -->
-
+| item             |
+| ---------------- |
+| [[Spider Charm]] |
 ## Puzzle
-<!-- QueryToSerialize: Table WITHOUT ID file.link as puzzle from "content/03 MHM/Puzzles" where contains(environment,  [[]]) sort tags desc -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as puzzle from "content/03 MHM/Puzzles" where contains(environment,  [[]]) sort tags desc -->
-
-| puzzle |
-| ------ |
-<!-- SerializedQuery END -->
-
+| puzzle                                |
+| ------------------------------------- |
+| [[Open Abby’s Closet]]                |
+| [[Uncover the True Mansion Haunting]] |
+| [[月 Moon]]                            |
 ## Library
-<!-- QueryToSerialize: Table WITHOUT ID file.link as library from "content/03 MHM/Library" where contains(environment,  [[]]) sort tags desc -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as library from "content/03 MHM/Library" where contains(environment,  [[]]) sort tags desc -->
-
-| library |
-| ------- |
-<!-- SerializedQuery END -->
+| library                                     |
+| ------------------------------------------- |
+| [[Fortune Telling For Business Popularity]] |
+| [[Mastering The Art Of Illusion]]           |
+| [[Old West Romances]]                       |
+| [[The Zodiac and You]]                      |
+## Second Chance
+| second-chance                          |
+| -------------------------------------- |
+| [[Get Caught Snooping in Abby’s Room]] |
 

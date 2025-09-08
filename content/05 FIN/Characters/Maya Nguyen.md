@@ -6,3 +6,6 @@ aliases:
 tags:
   - victim
 ---
+## Notes
+- Nancy's friend from high school
+- Journal

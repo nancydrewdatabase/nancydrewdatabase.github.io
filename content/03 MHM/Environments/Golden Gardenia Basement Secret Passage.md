@@ -5,27 +5,20 @@ tags:
   - secret
 ---
 ## Inventory
-
-<!-- QueryToSerialize: Table WITHOUT ID file.link as item from "content/03 MHM/Inventory" where contains(environment,  [[]]) -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as item from "content/03 MHM/Inventory" where contains(environment,  [[]]) -->
-
-| item |
-| ---- |
-<!-- SerializedQuery END -->
-
+| item            |
+| --------------- |
+| [[Floppy Disk]] |
 ## Puzzle
-<!-- QueryToSerialize: Table WITHOUT ID file.link as puzzle from "content/03 MHM/Puzzles" where contains(environment,  [[]]) sort tags desc -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as puzzle from "content/03 MHM/Puzzles" where contains(environment,  [[]]) sort tags desc -->
-
-| puzzle |
-| ------ |
-<!-- SerializedQuery END -->
-
+| puzzle                   |
+| ------------------------ |
+| [[Read Charlie’s Paper]] |
+| [[王 King]]               |
 ## Library
-<!-- QueryToSerialize: Table WITHOUT ID file.link as library from "content/03 MHM/Library" where contains(environment,  [[]]) sort tags desc -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as library from "content/03 MHM/Library" where contains(environment,  [[]]) sort tags desc -->
-
-| library |
-| ------- |
-<!-- SerializedQuery END -->
-
+| library                                      |
+| -------------------------------------------- |
+| [[Bandits, Outlaws, Scofflaws and the Like]] |
+| [[San Francisco Postcard]]                   |
+## Second Chance
+| second-chance                                       |
+| --------------------------------------------------- |
+| [[Exploring Saloon Secret Passage without Lantern]] |

@@ -4,28 +4,20 @@ tags:
   - stairs
 ---
 ## Inventory
-
-<!-- QueryToSerialize: Table WITHOUT ID file.link as item from "content/03 MHM/Inventory" where contains(environment,  [[]]) -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as item from "content/03 MHM/Inventory" where contains(environment,  [[]]) -->
-
-| item |
-| ---- |
-<!-- SerializedQuery END -->
-
+| item           |
+| -------------- |
+| [[Gold Charm]] |
 ## Puzzle
-<!-- QueryToSerialize: Table WITHOUT ID file.link as puzzle from "content/03 MHM/Puzzles" where contains(environment,  [[]]) sort tags desc -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as puzzle from "content/03 MHM/Puzzles" where contains(environment,  [[]]) sort tags desc -->
-
-| puzzle |
-| ------ |
-<!-- SerializedQuery END -->
-
-
+| puzzle                                      |
+| ------------------------------------------- |
+| [[Stop the Culprit in the Haunted Mansion]] |
+| [[Stair Banister]]                          |
 ## Library
-<!-- QueryToSerialize: Table WITHOUT ID file.link as library from "content/03 MHM/Library" where contains(environment,  [[]]) sort tags desc -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as library from "content/03 MHM/Library" where contains(environment,  [[]]) sort tags desc -->
-
-| library |
-| ------- |
-<!-- SerializedQuery END -->
-
+| library                 |
+| ----------------------- |
+| [[Stars and Moon Poem]] |
+## Second Chance
+| second-chance                                  |
+| ---------------------------------------------- |
+| [[Drop the Chandelier for no Reason]]          |
+| [[Let the Culprit Escape the Haunted Mansion]] |

@@ -4,8 +4,8 @@ environment: "[[Abby's Room]]"
 tags:
   - lock-and-key
   - snoop
-  - something's-missing
   - optional
+  - somethings-missing
 ---
 ## Prerequisites
 * [[Séance]]

@@ -6,7 +6,7 @@ tags:
   - optional
 ---
 ## Prerequisites
-- 
+- [[Fireplace Tiles]]
 ## Location
 - Left of the peephole, on the backside of the fireplace
 ## Usage

@@ -8,7 +8,6 @@ author: "[[Ezra Wickford]]"
 ## Text
 
 [[Dexter Egan|Dexter]]: The Sun in My Life
-
 ### Madison Daily
 Castle Boy Wins State Spelling Bee
 'Sesquicentennial' Earns Student Trip to D.C.
@@ -24,7 +23,6 @@ After the contest Dexter said he had been preparing for the event since last fal
 Several hundred people from around the state drove to Madison to watch the event. Among those in the audience was the chocolate milk tycoon, [[Ezra Wickford]], who is Egan's adoptive father. When asked how he felt about Dexter's victory, Wickford said he felt like the proudest dad on earth, and added, "Adopting Dexter was the best thing I ever did."
 
 The Vanderbilt National Spelling Bee will be held from May 28 to June 3
-
 ### The Young Buckaroos
 Charted by Congress, July 13, 1933.
 National Council
@@ -44,7 +42,6 @@ School Merit 1942
 "Yee Haw"
 
 First Vehicle
-
 ### Excellence in Citizenship Award
 Certificate of Merit
 This Certificate is presented to

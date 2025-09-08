@@ -1,6 +1,6 @@
 ---
 game: "[[03 MHM]]"
-environment: "[[Golden Gardenia Entryway]]"
+environment: "[[Golden Gardenia Grand Staircase]]"
 related:
   - "[[Stop the Culprit in the Haunted Mansion]]"
 tags:

@@ -6,30 +6,25 @@ tags:
   - trt
   - characters
 ---
-
 ## Suspects
-<!-- QueryToSerialize: TABLE WITHOUT ID file.link as character, environment from "content/04 TRT/Characters" where contains(tags, "suspect") sort tags desc -->
-<!-- SerializedQuery: TABLE WITHOUT ID file.link as character, environment from "content/04 TRT/Characters" where contains(tags, "suspect") sort tags desc -->
 
-| character | environment |
-| --------- | ----------- |
-<!-- SerializedQuery END -->
-
+| character                                                                 | environment                                                                     |
+| ------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| [[Dexter Egan]]                 | [[Wickford Lobby]]               |
+| [[Jacques Brunais]]         | [[Wickford Ski Shop]]         |
+| [[Lisa Ostrum]]                 | [[Wickford Sitting Room]] |
+| [[Professor Hotchkiss]] | [[Hotchkiss' Room 214]]     |
 ## Phone Contacts
-<!-- QueryToSerialize: TABLE WITHOUT ID file.link as character, phone from "content/04 TRT/Characters" where contains(tags, "phone") sort tags desc -->
-<!-- SerializedQuery: TABLE WITHOUT ID file.link as character, phone from "content/04 TRT/Characters" where contains(tags, "phone") sort tags desc -->
 
-| character | phone |
-| --------- | ----- |
-<!-- SerializedQuery END -->
-
-
-
+| character                                                       | phone            | phoneword        |
+| --------------------------------------------------------------- | ---------------- | ---------------- |
+| [[Dexter Egan]]                                                 | 0                |                  |
+| [[George and Bess]]                                             | 1 (523) 555-2583 | 1 (523) 555-CLUE |
+| [[content/04 TRT/Characters/Ned Nickerson.md \| Ned Nickerson]] | 1 (523) 555-4357 | 1 (523) 555-HELP |
 ## Mentions
-<!-- QueryToSerialize: TABLE WITHOUT ID file.link as character, tags from "content/04 TRT/Characters" where contains(tags, "mention") sort tags desc -->
-<!-- SerializedQuery: TABLE WITHOUT ID file.link as character, tags from "content/04 TRT/Characters" where contains(tags, "mention") sort tags desc -->
 
-| character | tags |
-| --------- | ---- |
-<!-- SerializedQuery END -->
+| character                                                           | tags                                                      |
+| ------------------------------------------------------------------- | --------------------------------------------------------- |
+| [[Marie Antoinette]] | <ul><li>mention</li><li>dead</li><li>historical</li></ul> |
+| [[Ezra Wickford]]       | <ul><li>mention</li><li>dead</li></ul>                    |
 

@@ -5,7 +5,7 @@ tags:
   - snoop
 ---
 ## Prerequisites
-- [[FIN Day 3]]
+- [[Day 3]]
 - Talk to [[Brady Armstrong|Brady]] once then come back to the [[Men's Dressing Room]]
 ## What's Inside
 - [[Nancy's Notebook]]

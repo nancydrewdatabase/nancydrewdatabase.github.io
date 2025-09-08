@@ -2,6 +2,8 @@
 game: "[[05 FIN]]"
 tags:
   - day-3
+aliases:
+  - FIN Day 3
 ---
 ## Things to do
 - Talk to all suspects

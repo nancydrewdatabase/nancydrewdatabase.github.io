@@ -4,17 +4,14 @@ tags:
   - 
 ---
 ## Puzzle
-<!-- QueryToSerialize: Table WITHOUT ID file.link as puzzle from "content/04 TRT/Puzzles" where contains(environment,  [[]]) sort tags desc -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as puzzle from "content/04 TRT/Puzzles" where contains(environment,  [[]]) sort tags desc -->
 
-| puzzle |
-| ------ |
-<!-- SerializedQuery END -->
-
+| puzzle                                                                   |
+| ------------------------------------------------------------------------ |
+| [[Open Ski Locker]]           |
+| [[Open Jacques' Locker]] |
 ## Library
-<!-- QueryToSerialize: Table WITHOUT ID file.link as library from "content/04 TRT/Library" where contains(environment,  [[]]) sort tags desc -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as library from "content/04 TRT/Library" where contains(environment,  [[]]) sort tags desc -->
 
-| library |
-| ------- |
-<!-- SerializedQuery END -->
+| library                                                                                                                                                                                                                                      |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[D is for Dazzling, D is for Diamonds - What Everyone Should Know About the World’s Most Coveted Stones]] |
+

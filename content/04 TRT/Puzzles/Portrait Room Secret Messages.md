@@ -1,8 +1,8 @@
 ---
 game: "[[04 TRT]]"
 environment: "[[Portrait Alcove]]"
-tags: 
-  - something's-missing
+tags:
+  - somethings-missing
 ---
 ## Prerequisites
 * [[Watch Hotchkiss’ Video]]

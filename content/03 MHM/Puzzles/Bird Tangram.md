@@ -7,7 +7,6 @@ tags:
   - tangram
 learning: "[[Tangram]]"
 ---
-
 ## Prerequisites
 * Talk to [[Rose Green]]
 ## Unwritten Rules

@@ -1,34 +1,30 @@
 ---
 game: "[[03 MHM]]"
 tags:
-  - nancy's-room
   - bedroom
+  - nancys-room
 ---
 ## Inventory
-
-<!-- QueryToSerialize: Table WITHOUT ID file.link as item from "content/03 MHM/Inventory" where contains(environment,  [[]]) -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as item from "content/03 MHM/Inventory" where contains(environment,  [[]]) -->
-
-| item |
-| ---- |
-<!-- SerializedQuery END -->
-
+| item                 |
+| -------------------- |
+| [[Antique Desk Key]] |
+| [[Ruby]]             |
 ## Puzzle
-<!-- QueryToSerialize: Table WITHOUT ID file.link as puzzle from "content/03 MHM/Puzzles" where contains(environment,  [[]]) sort tags desc -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as puzzle from "content/03 MHM/Puzzles" where contains(environment,  [[]]) sort tags desc -->
-
-| puzzle |
-| ------ |
-<!-- SerializedQuery END -->
-
+| puzzle                     |
+| -------------------------- |
+| [[Chinese Zodiac Animals]] |
+| [[Hanzi Safe]]             |
+| [[Phoenix Slider]]         |
+| [[Pyramid Missing Piece]]  |
+| [[Sun and Moon Flip]]      |
+| [[Tapestry Poem]]          |
+| [[女 Daughters]]            |
+| [[金 Gold]]                 |
 ## Library
-<!-- QueryToSerialize: Table WITHOUT ID file.link as library from "content/03 MHM/Library" where contains(environment,  [[]]) sort tags desc -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as library from "content/03 MHM/Library" where contains(environment,  [[]]) sort tags desc -->
-
-| library |
-| ------- |
-<!-- SerializedQuery END -->
-
+| library              |
+| -------------------- |
+| [[Emily's Letter]]   |
+| [[Nancy's Notebook]] |
 ## Utilities
 
 | utility             |

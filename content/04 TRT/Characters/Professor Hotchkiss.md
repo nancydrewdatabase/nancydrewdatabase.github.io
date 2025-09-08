@@ -7,6 +7,7 @@ aliases:
 tags:
   - suspect
 ---
+## Description
 Chatty and knowledgeable, Professor Hotchkiss is the person to ask for all things related to Marie Antoinette. Is she trying to keep the treasure hidden by the doomed queen for herself?
 ## Prerequisites
 - To unlock Hotchkiss in [[Wickford Sitting Room]], become her assistant with [[Hotchkiss' Research Questions]]

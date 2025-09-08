@@ -8,7 +8,6 @@ author: "[[Ezra Wickford]]"
 ## Text
 
 [[Dexter Egan|Dexter]]: When it Rains, it Pours
-
 ### My Son the Vandal
 
 March 14, 1945
@@ -31,7 +30,6 @@ I'm sorry for taking 50 dollars out of your wallet without asking. I know it was
 
 Your son,
 Dexter
-
 ### I raised a crook?!
 
 The Milwaukee Tribune

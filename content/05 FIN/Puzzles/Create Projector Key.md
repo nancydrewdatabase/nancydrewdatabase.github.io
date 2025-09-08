@@ -5,7 +5,7 @@ tags:
   - match-the-image
 ---
 ## Prerequisites
-* [[FIN Day 3]]
+* [[Day 3]]
 * [[Joseph Hughes|Joseph]] will say he fixed the machine
 * [[Floor Quarter]]
 ## Clues

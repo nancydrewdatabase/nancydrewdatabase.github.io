@@ -4,33 +4,24 @@ tags:
   - parlor
 ---
 ## Characters
-<!-- QueryToSerialize: Table WITHOUT ID file.link as characters from "content/04 TRT/Characters" where contains(environment,  [[]]) -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as characters from "content/04 TRT/Characters" where contains(environment,  [[]]) -->
 
-| characters |
-| ---------- |
-<!-- SerializedQuery END -->
-
+| characters              |
+| ----------------------- |
+| [[Lisa Ostrum]]         |
+| [[Professor Hotchkiss]] |
 ## Inventory
 
-<!-- QueryToSerialize: Table WITHOUT ID file.link as item from "content/04 TRT/Inventory" where contains(environment,  [[]]) -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as item from "content/04 TRT/Inventory" where contains(environment,  [[]]) -->
-
-| item |
-| ---- |
-<!-- SerializedQuery END -->
-
+| item                                                                             |
+| -------------------------------------------------------------------------------- |
+| [[Hotchkiss’ Room Key 214]] |
 ## Puzzle
-<!-- QueryToSerialize: Table WITHOUT ID file.link as puzzle from "content/04 TRT/Puzzles" where contains(environment,  [[]]) sort tags desc -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as puzzle from "content/04 TRT/Puzzles" where contains(environment,  [[]]) sort tags desc -->
-
-| puzzle |
-| ------ |
-<!-- SerializedQuery END -->
+| puzzle                                                                          |
+| ------------------------------------------------------------------------------- |
+| [[Translate Marie’s Journal]]                                                   |
 ## Library
-<!-- QueryToSerialize: Table WITHOUT ID file.link as library from "content/04 TRT/Library" where contains(environment,  [[]]) sort tags desc -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as library from "content/04 TRT/Library" where contains(environment,  [[]]) sort tags desc -->
+| library                                                         |
+| --------------------------------------------------------------- |
+| [[Major Figures and Events of the French Revolution - Book I]]  |
+| [[Major Figures And Events of the French Revolution - Book II]] |
 
-| library |
-| ------- |
-<!-- SerializedQuery END -->
+

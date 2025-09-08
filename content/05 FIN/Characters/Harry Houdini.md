@@ -6,3 +6,6 @@ tags:
   - mention
   - dead
 ---
+## Notes
+- Historical figure, famous magician
+- Performed an "impossible" escape 

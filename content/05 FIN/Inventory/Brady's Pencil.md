@@ -6,7 +6,7 @@ tags:
   - optional
 ---
 ## Prerequisites
-- [[FIN Day 3|Day 3]]
+- [[Day 3|Day 3]]
 - [[Snoop in Brady's Bag]]
 ## Location
 - Inside Brady's Bag
