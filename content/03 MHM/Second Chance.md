@@ -6,6 +6,7 @@ tags:
   - mhm
   - second-chance
 ---
+
 | second chance                                       | environment                                 | related                                     |
 | --------------------------------------------------- | ------------------------------------------- | ------------------------------------------- |
 | [[Admit to Reading a Book]]                         | [[Golden Gardenia Library]]                 | [[Translate “Gum Bo Fu”]]                   |
