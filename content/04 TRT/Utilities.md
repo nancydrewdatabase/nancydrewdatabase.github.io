@@ -3,6 +3,7 @@ game: "[[04 TRT]]"
 aliases:
   - TRT Utilities
 tags:
+  - trt
   - utility
 ---
 

@@ -3,8 +3,8 @@ game: "[[05 FIN]]"
 aliases:
   - FIN Utilities
 tags:
-  - utility
   - fin
+  - utility
 ---
 
 | utility                                                                | environment                                                                 |

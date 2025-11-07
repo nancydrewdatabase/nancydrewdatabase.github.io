@@ -3,8 +3,8 @@ game: "[[05 FIN]]"
 aliases:
   - FIN Library
 tags:
-  - library
   - fin
+  - library
 ---
 ## Nancy's Letters
 

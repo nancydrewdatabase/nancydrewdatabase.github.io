@@ -3,8 +3,8 @@ game: "[[05 FIN]]"
 aliases:
   - FIN Puzzles
 tags:
-  - puzzle
   - fin
+  - puzzle
 ---
 
 | puzzle                                                                                                       | environment                                                                                               |

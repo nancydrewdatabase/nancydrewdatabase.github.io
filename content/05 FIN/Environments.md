@@ -3,8 +3,8 @@ game: "[[05 FIN]]"
 aliases:
   - FIN Environments
 tags:
-  - environments
   - fin
+  - environments
 ---
 
 | environment                                                                                                             |

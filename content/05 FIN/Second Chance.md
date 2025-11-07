@@ -3,8 +3,8 @@ game: "[[05 FIN]]"
 aliases:
   - FIN Second Chance
 tags:
-  - second-chance
   - fin
+  - second-chance
 ---
 
 | second chance                                  | environment                       | related                                    | tags                                                             |

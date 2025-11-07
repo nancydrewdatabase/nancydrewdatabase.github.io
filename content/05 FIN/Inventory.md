@@ -3,8 +3,8 @@ game: "[[05 FIN]]"
 aliases:
   - FIN Inventory
 tags:
-  - inventory
   - fin
+  - inventory
 ---
 
 | item                                                                                 | environment                                                                                               |

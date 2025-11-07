@@ -3,8 +3,8 @@ game: "[[05 FIN]]"
 aliases:
   - FIN Easter Eggs
 tags:
-  - easter-eggs
   - fin
+  - easter-eggs
 ---
 
 | easter eggs                                                                  | environment                                                   |
