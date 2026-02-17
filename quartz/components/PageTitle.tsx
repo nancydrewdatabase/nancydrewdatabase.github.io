@@ -11,7 +11,7 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
   return (
     <h2 class={classNames(displayClass, "page-title")}>
       <a href={baseDir}>
-       <img className={"page-title-icon"} src={iconPath} height={"24px"}/>
+       <img className={"page-title-icon icon"} src={iconPath} height={"24px"} aria-label={"magnifying glass icon"} alt={"magnifying glass icon"}/>
         {title}
       </a>
     </h2>

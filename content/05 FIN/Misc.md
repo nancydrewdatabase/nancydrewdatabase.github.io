@@ -15,6 +15,6 @@ tags:
 | [[Press Conference]]                  | [[Ticket Booth]]                    |
 ## 3 Day System
 This game is separated into 3 distinct days. There are some puzzles that can be done on multiple days, puzzles that are locked until a certain day, and puzzles that are required to end the day.
-- [[content/05 FIN/Misc/Day 1|Day 1]]
-- [[content/05 FIN/Misc/Day 2|Day 2]]
-- [[content/05 FIN/Misc/Day 3|Day 3]]
+- [[05-FIN/Misc/Day-1|Day 1]]
+- [[05-FIN/Misc/Day-2|Day 2]]
+- [[05-FIN/Misc/Day-3|Day 3]]

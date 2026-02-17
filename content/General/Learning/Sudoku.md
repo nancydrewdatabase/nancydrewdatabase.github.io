@@ -16,6 +16,6 @@ Technique
 - [Sudopedia](https://www.sudopedia.org/wiki/Main_Page)
 
 Play
-- [[Linky Sudoku]]
+- [Linky Sudoku](https://sudoku.simonton.app/) 
 - [Sudoku.com](https://sudoku.com/)
 - [Sudoku Slam](https://www.sudokuslam.com/)
