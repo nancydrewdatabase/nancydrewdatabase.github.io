@@ -25,7 +25,7 @@ aliases:
 | [Nancy Drew 17: Legend of the Crystal Skull](https://www.uhs-hints.com/uhsweb/nancydrew17.php)       | #cry |
 | [Nancy Drew 18: The Phantom of Venice Hints](https://www.uhs-hints.com/uhsweb/nancydrew18.php)       | #ven |
 | [Nancy Drew: The Haunting of Castle Malloy Hints](https://www.uhs-hints.com/uhsweb/nancydrew19.php)  | #hau |
-| [Nancy Drew 21: Warnings at Waverly Academy Hints](https://www.uhs-hints.com/uhsweb/nancydrew21.php) | #wav |
+| [Nancy Drew 21: Warnings at Waverly Academy Hints](https://www.uhs-hints.com/uhsweb/nancydrew21.php) | #wac |
 | [Nancy Drew 22: Trail of the Twister Hints](https://www.uhs-hints.com/uhsweb/nancydrew22.php)        | #tot |
 | [Nancy Drew 23: Shadow at the Water's Edge Hints](https://www.uhs-hints.com/uhsweb/nancydrew23.php)  | #saw |
 | [Nancy Drew 24: The Captive Curse Hints](https://www.uhs-hints.com/uhsweb/nancydrew24.php)           | #cap |

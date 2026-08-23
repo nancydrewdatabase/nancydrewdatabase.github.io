@@ -13,4 +13,4 @@ An antique dealer and Victorian era expert, Louis has agreed to consult with Ros
 ## Prerequisite
 - Talk to all other suspects for [[Louis Chandler|Louis]] to appear
 ## Schedule
-- 12pm to 5pm in [[Golden Gardenia Library]]
+- 12 pm - 5 pm in [[Golden Gardenia Library]]

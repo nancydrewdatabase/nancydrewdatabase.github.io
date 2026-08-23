@@ -7,12 +7,12 @@ tags:
   - characters
 ---
 ## Suspects
-| character          | environment                         |
-| ------------------ | ----------------------------------- |
-| [[Abby Sideris]]   | [[Abby's Room]]                     |
-| [[Charlie Murphy]] | [[Golden Gardenia Basement Saloon]] |
-| [[Louis Chandler]] | [[Golden Gardenia Library]]         |
-| [[Rose Green]]     | [[Golden Gardenia Dining Room]]     
+| image | character          | environment                         |
+| ----- | ------------------ | ----------------------------------- |
+|       | [[Abby Sideris]]   | [[Abby's Room]]                     |
+|       | [[Charlie Murphy]] | [[Golden Gardenia Basement Saloon]] |
+|       | [[Louis Chandler]] | [[Golden Gardenia Library]]         |
+|       | [[Rose Green]]     | [[Golden Gardenia Dining Room]]     |
 
 ## Phone Contacts
 

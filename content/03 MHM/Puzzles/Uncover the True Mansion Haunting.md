@@ -2,7 +2,7 @@
 game: "[[03 MHM]]"
 environment: "[[Abby's Room]]"
 tags:
-  - haunting uncovered
+  - haunting
   - optional
 ---
 ## Prerequisites

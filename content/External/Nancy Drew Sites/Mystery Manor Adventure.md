@@ -19,7 +19,7 @@ tags:
 | [Nancy Drew:  Danger On Deception Island](https://mysterymanor.net/EasterEggs/eastereggsNDDangerOnDeceptionIsland.htm)    | #ddi |
 | [Nancy Drew:  Curse Of Blackmoor Manor](https://mysterymanor.net/EasterEggs/eastereggsNDCurseOfBlackmoorManor.htm)        | #cur |
 | [Nancy Drew:  Secret Of The Old Clock](https://mysterymanor.net/EasterEggs/eastereggsNDSecretOfTheOldClock.htm)           | #clk |
-| [Nancy Drew: Warnings At Waverly Academy](https://mysterymanor.net/EasterEggs/eastereggsNDWarningsAtWaverlyAcademy.htm)   | #wav |
+| [Nancy Drew: Warnings At Waverly Academy](https://mysterymanor.net/EasterEggs/eastereggsNDWarningsAtWaverlyAcademy.htm)   | #wac |
 | [Nancy Drew:  Trail Of The Twister](https://mysterymanor.net/EasterEggs/eastereggsNDTrailOfTheTwister.htm)                | #tot |
 | [Nancy Drew:  The Captive Curse](https://mysterymanor.net/EasterEggs/eastereggsNDTheCaptiveCurse.htm)                     | #cap |
 | [Nancy Drew: Alibi In Ashes](https://mysterymanor.net/EasterEggs/eastereggsNDAlibiInAshes.htm)                            | #ash |
@@ -69,7 +69,7 @@ tags:
 | [Nancy Drew 17 Legend Of The Crystal Skull](https://mysterymanor.net/nancydrewlegendofthecrystalskull.htm)      | #cry |
 | [Nancy Drew 18 Phantom Of Venice](https://mysterymanor.net/nancydrewphantomofvenice.htm)                        | #ven |
 | [Nancy Drew 19 The Haunting of Castle Malloy](https://mysterymanor.net/nancydrewhauntingofcastlemalloy.htm)     | #hau |
-| [Nancy Drew 21 Warnings At Waverly Academy](https://mysterymanor.net/Winecellar/NDWarningsAtWaverlyAcademy)     | #wav |
+| [Nancy Drew 21 Warnings At Waverly Academy](https://mysterymanor.net/Winecellar/NDWarningsAtWaverlyAcademy)     | #wac |
 | [Nancy Drew 22 Trail Of The Twister](https://mysterymanor.net/Winecellar/NDTrailOfTheTwister)                   | #tot |
 | [Nancy Drew 23 Shadow At The Water's Edge](https://mysterymanor.net/nancydrewshadowatthewatersedge.htm)         | #saw |
 | [Nancy Drew 24 The Captive Curse](https://mysterymanor.net/Winecellar/NDTheCaptiveCurse)                        | #cap |

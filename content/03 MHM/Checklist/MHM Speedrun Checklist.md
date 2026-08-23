@@ -1,0 +1,60 @@
+---
+game: "[[03 MHM]]"
+aliases:
+tags:
+  - speedrun
+---
+Minimum actions to complete [[03 MHM]] based on [Yandema211's speedrun](https://youtu.be/Wp0U4TvVhkw?si=2su37Vv4_QHuxebv)
+
+- [ ] Set [[Chinese Room Alarm Clock]] to 12 pm
+- [ ] Go to [[Abby's Room]]
+	- [ ] Talk to [[Abby Sideris|Abby]]
+- [ ] Go to [[Golden Gardenia Dining Room]]
+	- [ ] Talk to [[Rose Green|Rose]]
+	- [ ] [[Bird Tangram]]
+- [ ] Go to [[Golden Gardenia Basement Saloon]]
+	- [ ] Talk to [[Charlie Murphy|Charlie]]
+- [ ] Go to [[Golden Gardenia Library]]
+	- [ ] Talk to [[Louis Chandler|Louis]]
+	- [ ] Grab [[Library Tile]]
+- [ ] Go through [[Golden Gardenia Entryway]]
+	- [ ] Grab [[Paint Scraper]]
+- [ ] Go to [[Chinese Room]]
+	- [ ] Set [[Chinese Room Alarm Clock]] to 5 pm
+	- [ ] Grab [[Attic Trapdoor Key]]
+- [ ] Go to [[Golden Gardenia Attic]]
+	- [ ] [[Enter Attic]]
+	- [ ] Grab [[Crowbar]]
+	- [ ] Grab [[Iron]]
+	- [ ] Grab [[Attic Tile]]
+	- [ ] [[Escape Attic]]
+- [ ] [[Fix the Dumbwaiter]]
+	- [ ] Grab [[Dumbwaiter Tile]]
+- [ ] Go to [[Golden Gardenia Grand Staircase]]
+	- [ ] [[Stair Banister]]
+- [ ] Go to [[Golden Gardenia Library]]
+	- [ ] [[Fireplace Tiles]]
+- [ ] Enter [[Golden Gardenia Library Secret Passage]]
+	- [ ] [[Spy on Louis]]
+- [ ] In [[Golden Gardenia Library]]
+	- [ ] [[Open Louis’ Briefcase]]
+	- [ ] Read [[Through Our Own Voices - An Oral History Of Chinese Immigrants In California]]
+- [ ] In [[Golden Gardenia Parlor]]
+	- [ ] Call [[Emily Foxworth|Emily]]
+- [ ] Go to [[Chinese Room]]
+	- [ ] [[Leave the Mansion Now!]]
+- [ ] Go to [[Golden Gardenia Parlor]]
+	- [ ] [[Extinguish Parlor Fire]]
+	- [ ]  Talk to [[Rose Green|Rose]] about [[Winter Festival]]
+- [ ] [[Translate “Gum Bo Fu”]]
+	- [ ] Talk to [[Charlie Murphy|Charlie]]
+	- [ ] Talk to [[Louis Chandler|Louis]]
+- [ ] Go to [[Chinese Room]]
+	- [ ] [[Chinese Zodiac Animals]]
+	- [ ] [[Hanzi Safe]]
+	- [ ] Pyramid puzzles
+		- [ ] [[Sun and Moon Flip]]
+		- [ ] [[Phoenix Slider]]
+- [ ] Go to [[Golden Gardenia Entryway]]
+	- [ ] [[Find Golden Gardenia Treasure]]
+	- [ ] [[Stop the Culprit in the Haunted Mansion]]

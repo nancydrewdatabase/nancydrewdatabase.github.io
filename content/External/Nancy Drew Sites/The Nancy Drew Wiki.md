@@ -24,7 +24,7 @@ The [wiki of the Greatest Female Detective of all time](https://thenancydrew.fan
 | *[Legend of the Crystal Skull](https://thenancydrew.fandom.com/wiki/Legend_of_the_Crystal_Skull "Legend of the Crystal Skull")*                          | #cry |
 | *[The Phantom of Venice](https://thenancydrew.fandom.com/wiki/The_Phantom_of_Venice "The Phantom of Venice")*                                            | #ven |
 | *[The Haunting of Castle Malloy](https://thenancydrew.fandom.com/wiki/The_Haunting_of_Castle_Malloy "The Haunting of Castle Malloy")*                    | #hau |
-| *[Warnings at Waverly Academy](https://thenancydrew.fandom.com/wiki/Warnings_at_Waverly_Academy "Warnings at Waverly Academy")*                          | #wav |
+| *[Warnings at Waverly Academy](https://thenancydrew.fandom.com/wiki/Warnings_at_Waverly_Academy "Warnings at Waverly Academy")*                          | #wac |
 | *[Trail of the Twister](https://thenancydrew.fandom.com/wiki/Trail_of_the_Twister "Trail of the Twister")*                                               | #tot |
 | *[Shadow at the Water's Edge](https://thenancydrew.fandom.com/wiki/Shadow_at_the_Water%27s_Edge "Shadow at the Water's Edge")*                           | #saw |
 | *[The Captive Curse](https://thenancydrew.fandom.com/wiki/The_Captive_Curse "The Captive Curse")*                                                        | #cap |

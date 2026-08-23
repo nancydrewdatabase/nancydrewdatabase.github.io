@@ -23,7 +23,7 @@ Welcome to [Get A Clue Nancy Drew](https://getacluend.weebly.com/nd-games.html)!
 | [Legend of the Crystal Skull](https://getacluend.weebly.com/legend-of-the-crystal-skull.html)       | #cry |
 | [Phantom of Venice](https://getacluend.weebly.com/phantom-of-venice.html)                           | #ven |
 | [Haunting of Castle Malloy](https://getacluend.weebly.com/haunting-of-castle-malloy.html)           | #hau |
-| [Warnings at Waverly Academy](https://getacluend.weebly.com/warnings-at-waverly-academy.html)       | #wav |
+| [Warnings at Waverly Academy](https://getacluend.weebly.com/warnings-at-waverly-academy.html)       | #wac |
 | [Trail of the Twister](https://getacluend.weebly.com/trail-of-the-twister.html)                     | #tot |
 | [Shadow at the Water's Edge](https://getacluend.weebly.com/shadow-at-the-waters-edge.html)          | #saw |
 | [The Captive Curse](https://getacluend.weebly.com/the-captive-curse.html)                           | #cap |

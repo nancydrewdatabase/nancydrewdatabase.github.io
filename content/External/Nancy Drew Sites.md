@@ -3,19 +3,25 @@ tags:
   - external
 ---
 
+<!-- QueryToSerialize: Table WITHOUT ID file.link as site, tags from "content/External/Nancy Drew Sites" sort file.link -->
+<!-- SerializedQuery: Table WITHOUT ID file.link as site, tags from "content/External/Nancy Drew Sites" sort file.link -->
+
 | site                                                                                                                          | tags                                                                    |
 | ----------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
 | [[Adventure Gamers]]                                                   | <ul><li>walkthrough</li></ul>                                           |
+| [[ardnek-nancydrewgames]]                                         | <ul><li>blog</li><li>walkthrough</li></ul>                              |
 | [[Arglefumph - The Nancy Drew Dude]]                   | <ul><li>videos</li><li>walkthrough</li><li>speedrun</li></ul>           |
 | [[BD Studio Games]]                                                     | <ul><li>walkthrough</li></ul>                                           |
 | [[Big Fish]]                                                                   | <ul><li>walkthrough</li><li>paid</li></ul>                              |
 | [[Calina Herman]]                                                         | <ul><li>blog</li><li>merch</li><li>videos</li></ul>                     |
 | [[Casual Game Guides]]                                               | <ul><li>walkthrough</li></ul>                                           |
 | [[Cozy Gamer Emporium]]                                             | <ul><li>merch</li></ul>                                                 |
+| [[Default Cube Games]]                                               | <ul><li>game-inspired</li></ul>                                         |
 | [[Full of Salt]]                                                           | <ul><li>blog</li></ul>                                                  |
 | [[GameBoomers]]                                                             | <ul><li>walkthrough</li></ul>                                           |
 | [[GameFAQs]]                                                                   | <ul><li>walkthrough</li></ul>                                           |
 | [[Gamezebo]]                                                                   | <ul><li>walkthrough</li><li>review</li></ul>                            |
+| [[gamrgrl Reviews]]                                                     | <ul><li>blog</li><li>review</li></ul>                                   |
 | [[Get a Clue Nancy Drew]]                                         | <ul><li>walkthrough</li></ul>                                           |
 | [[Her Interactive]]                                                     | <ul><li>official</li><li>paid</li><li>game-info</li></ul>               |
 | [[Instructables]]                                                         | <ul><li>walkthrough</li></ul>                                           |
@@ -28,9 +34,10 @@ tags:
 | [[Nancy Drew PC Game Walkthroughs by aRdNeK]] | <ul><li>blog</li><li>walkthrough</li></ul>                              |
 | [[Nancy Drew Walkthroughs]]                                     | <ul><li>blog</li><li>walkthrough</li><li>merch</li><li>videos</li></ul> |
 | [[Nancy Drew Wiki]]                                                     | <ul><li>wiki</li></ul>                                                  |
-| [[nancydfan]]                                                                 | <ul><li>blog</li><li>#mhm</li></ul>                                     |
+| [[nancydfan]]                                                                 | <ul><li>blog</li></ul>                                                  |
 | [[NancyDrewDatabase Tumblr]]                                   | <ul><li>blog</li><li>images</li></ul>                                   |
 | [[PDF Coffee]]                                                               | <ul><li>walkthrough</li></ul>                                           |
+| [[Reddit]]                                                                       | <ul><li>forum</li></ul>                                                 |
 | [[Sassy Detective]]                                                     | <ul><li>blog</li><li>images</li></ul>                                   |
 | [[Scribd]]                                                                       | <ul><li>walkthrough</li></ul>                                           |
 | [[Speed Demos Archive]]                                             | <ul><li>speedrun</li></ul>                                              |
@@ -43,7 +50,4 @@ tags:
 | [[Wikipedia]]                                                                 | <ul><li>wiki</li></ul>                                                  |
 | [[xyzzysqrl's Journal]]                                             | <ul><li>blog</li></ul>                                                  |
 
-
-
-
-
+<!-- SerializedQuery END -->

@@ -26,7 +26,7 @@ tags:
 | [Legend of the Crystal Skull](https://www.herinteractive.com/shop-games/nancy-drew-legend-of-the-crystal-skull/)       | #cry |
 | [The Phantom of Venice](https://www.herinteractive.com/shop-games/nancy-drew-the-phantom-of-venice/)                   | #ven |
 | [The Haunting of Castle Malloy](https://www.herinteractive.com/shop-games/nancy-drew-the-haunting-of-castle-malloy/)   | #hau |
-| [Warnings at Waverly Academy](https://www.herinteractive.com/shop-games/nancy-drew-warnings-at-waverly-academy/)       | #wav |
+| [Warnings at Waverly Academy](https://www.herinteractive.com/shop-games/nancy-drew-warnings-at-waverly-academy/)       | #wac |
 | [Trail of the Twister](https://www.herinteractive.com/shop-games/nancy-drew-trail-of-the-twister/)                     | #tot |
 | [Shadow at the Water’s Edge](https://www.herinteractive.com/shop-games/nancy-drew-shadow-at-the-waters-edge/)          | #saw |
 | [The Captive Curse](https://www.herinteractive.com/shop-games/nancy-drew-the-captive-curse/)                           | #cap |
@@ -39,8 +39,21 @@ tags:
 | [Labyrinth of Lies](https://www.herinteractive.com/shop-games/nancy-drew-labyrinth-of-lies/)                           | #lie |
 | [Sea of Darkness](https://www.herinteractive.com/shop-games/nancy-drew-sea-of-darkness/)                               | #sea |
 
+## Educational Worksheets
+
+| Worksheet                                                                                                              | Game |
+| ---------------------------------------------------------------------------------------------------------------------- | ---- |
+| [Worksheet Treasure Royal Tower](https://herintstage.wpengine.com/wp-content/uploads/Worksheet_TRT.pdf)                | #trt |
+| [Worksheet Scarlet Hand](https://herintstage.wpengine.com/wp-content/uploads/Worksheet_ScarletHand.pdf)                | #ssh |
+| [Worksheet Ghost Dogs](https://herintstage.wpengine.com/wp-content/uploads/Worksheet_DOG.pdf)                          | #dog |
+| [Worksheet Deception Island](https://herintstage.wpengine.com/wp-content/uploads/Worksheet_DeceptionIsland.pdf)        | #ddi |
+| [Worksheet Trail Twister](https://www.herinteractive.com/wp-content/uploads/Worksheet_TrailTwister.pdf)                | #tot |
+| [Worksheet Tomb of the Lost Queen](https://www.herinteractive.com/wp-content/uploads/Worksheet_TomboftheLostQueen.pdf) | #tmb |
+| [Worksheet Deadly Device](https://www.herinteractive.com/wp-content/uploads/Worksheet_DeadlyDevice.pdf)                | #ded |
+| [Worksheet Labyrinth of Lies](https://www.herinteractive.com/wp-content/uploads/Worksheet_LabyrinthofLies.pdf)         | #lie |
+
 ## Articles
 
-| [555-4639 and Other Phone Numbers](https://www.herinteractive.com/2021/11/555-4639-and-other-phone-numbers/) | #phone  |
-| ------------------------------------------------------------------------------------------------------------ | ------- |
-|                                                                                                              |         |
+| Blog Post                                                                                                    | Tag    |
+| ------------------------------------------------------------------------------------------------------------ | ------ |
+| [555-4639 and Other Phone Numbers](https://www.herinteractive.com/2021/11/555-4639-and-other-phone-numbers/) | #phone |

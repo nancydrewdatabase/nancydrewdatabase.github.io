@@ -23,7 +23,7 @@ Download and share custom [video game assets](https://www.steamgriddb.com/search
 | [Nancy Drew: Legend of the Crystal Skull](https://www.steamgriddb.com/game/5287)    | #cry |
 | [Nancy Drew: The Phantom of Venice](https://www.steamgriddb.com/game/5308)          | #ven |
 | [Nancy Drew: The Haunting of Castle Malloy](https://www.steamgriddb.com/game/5303)  | #hau |
-| [Nancy Drew: Warnings at Waverly Academy](https://www.steamgriddb.com/game/10447)   | #wav |
+| [Nancy Drew: Warnings at Waverly Academy](https://www.steamgriddb.com/game/10447)   | #wac |
 | [Nancy Drew: Trail of the Twister](https://www.steamgriddb.com/game/9894)           | #tot |
 | [Nancy Drew: Shadow at the Water's Edge](https://www.steamgriddb.com/game/1711)     | #saw |
 | [Nancy Drew: The Captive Curse](https://www.steamgriddb.com/game/9890)              | #cap |

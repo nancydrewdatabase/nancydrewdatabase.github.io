@@ -1,7 +1,7 @@
 ---
-game: 
-environment: 
-related: 
+game: "[[06 SSH]]"
+environment:
+related:
 tags:
 ---
 ## Related

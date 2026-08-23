@@ -4,8 +4,8 @@ tags:
   - case-file
   - opening-letter
 author: "[[Nancy Drew]]"
-environment: 
-recepient: "[[Bess Marvin]]"
+environment:
+recipient: "[[Bess Marvin]]"
 ---
 ## Text
 

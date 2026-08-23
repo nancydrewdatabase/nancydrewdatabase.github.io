@@ -4,8 +4,10 @@ tags:
   - case-file
   - closing-letter
 author: "[[Nancy Drew]]"
-recepient: "[[Bess Marvin]]"
+recipient: "[[Bess Marvin]]"
 ---
+recipient
+
 _Dear [[Bess Marvin|Bess]],_
 
 _I can still hardly believe that [[Joseph Hughes|Joseph]], sweet old Joseph, was [[Maya Nguyen|Maya]]'s kidnapper! He says he planned to kidnap Brady with the idea that Simone could use her Hollywood connections to save the theater. But, when Maya entered the dressing room, he panicked and grabbed her instead. Plan 'B' was to stall the demolition long enough for the Historical Society to declare the building an official landmark. I guess he's been at the Royal Palladium for so long, he just couldn't imagine life without it._

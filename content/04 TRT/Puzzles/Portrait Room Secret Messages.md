@@ -15,3 +15,4 @@ tags:
 ## Solution
 * Look through all medallions
 * [[Professor Hotchkiss|Professor Hotchkiss]] can translate these French phrases
+* Read details [[Stained Glass Phrases]]

@@ -9,9 +9,9 @@ tags:
 | ------------------------------------------------------------------------------------------ |
 | [[Portrait Room Secret Messages]] |
 ## Library
-TODO: translated Portrait Room Secret Messages
 
-| library |
-| ------- |
+| library                   |
+| ------------------------- |
+| [[Stained Glass Phrases]] |
 
 

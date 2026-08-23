@@ -6,7 +6,7 @@ tags:
   - inventory
   - tile
 author: Dizzy Noshun
-recepient: "[[Harry Houdini]]"
+recipient: "[[Harry Houdini]]"
 ---
 ## Text
 Dear Harry

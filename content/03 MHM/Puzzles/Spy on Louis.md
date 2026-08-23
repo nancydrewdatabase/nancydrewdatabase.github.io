@@ -9,7 +9,7 @@ tags:
 * [[Fireplace Tiles]]
 ## Unwritten Rules
 * Arrive less than an hour before or after Louis' scheduled time in the library
-	- 11am - 12pm
-	- 5pm - 6pm
+	- 11 am - 12 pm
+	- 5 pm - 6 pm
 ## Solution
 * Look through peephole and spy on [[Louis Chandler]]

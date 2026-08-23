@@ -10,7 +10,7 @@ tags:
 | -------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
 | [Nancy Drew: Treasure in the Royal Tower Walkthrough](https://www.bigfishgames.com/blog/walkthroughs/nancy-drew-treasure-in-a-royal-tower.html)    | #trt |
 | [Nancy Drew: Secret of Shadow Ranch Walkthrough](https://www.bigfishgames.com/blog/walkthroughs/nancy-drew-secret-of-shadow-ranch.html)            | #sha |
-| [Nancy Drew: Warnings at Waverly Academy Walkthrough](https://www.bigfishgames.com/blog/walkthroughs/nancy-drew--warnings-at-waverly-academy.html) | #wav |
+| [Nancy Drew: Warnings at Waverly Academy Walkthrough](https://www.bigfishgames.com/blog/walkthroughs/nancy-drew--warnings-at-waverly-academy.html) | #wac |
 ## Purchase Games
 | Purchase Page                                                                                                                                     | Game |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
@@ -31,7 +31,7 @@ tags:
 | [Nancy Drew: Legend of the Crystal Skull](https://www.bigfishgames.com/us/en/games/2234/nancy-drew-legend-of-the-crystal-skull/?pc&lang=en)       | #cry |
 | [Nancy Drew: The Phantom of Venice](https://www.bigfishgames.com/us/en/games/2556/nancy-drew-the-phantom-of-venice-game/?pc&lang=en)              | #ven |
 | [Nancy Drew: The Haunting of Castle Malloy](https://www.bigfishgames.com/us/en/games/2699/nancy-drew-the-haunting-of-castle-malloy/?pc&lang=en)   | #hau |
-| [Nancy Drew: Warnings at Waverly Academy](https://www.bigfishgames.com/us/en/games/5386/nancy-drew-warnings-at-waverly-academy/?pc&lang=en)       | #wav |
+| [Nancy Drew: Warnings at Waverly Academy](https://www.bigfishgames.com/us/en/games/5386/nancy-drew-warnings-at-waverly-academy/?pc&lang=en)       | #wac |
 | [Nancy Drew: The Trail of the Twister](https://www.bigfishgames.com/us/en/games/6262/nancy-drew-trail-of-the-twister/?pc&lang=en)                 | #tot |
 | [Nancy Drew: Shadow at the Water's Edge](https://www.bigfishgames.com/us/en/games/6327/nancy-drew-shadow-at-the-waters-edge/?pc&lang=en)          | #saw |
 | [Nancy Drew: The Captive Curse](https://www.bigfishgames.com/us/en/games/7178/nancy-drew-the-captive-curse/?pc&lang=en)                           | #cap |

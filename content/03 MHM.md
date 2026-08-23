@@ -10,6 +10,7 @@ Nancy Drew is invited, by a friend, to San Francisco to assist in the renovation
 
 - [[03 MHM/Puzzles|Puzzles]]
 - [[03 MHM/Characters|Characters]]
+- [[03 MHM/Checklist|Checklist]]
 - [[03 MHM/Inventory|Inventory]]
 - [[03 MHM/Library|Library]]
 - [[03 MHM/Environments|Environments]]

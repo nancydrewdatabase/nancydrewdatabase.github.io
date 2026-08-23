@@ -8,12 +8,12 @@ tags:
 ---
 ## Suspects
 
-| character                                                                 | environment                                                                     |
-| ------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| [[Dexter Egan]]                 | [[Wickford Lobby]]               |
-| [[Jacques Brunais]]         | [[Wickford Ski Shop]]         |
-| [[Lisa Ostrum]]                 | [[Wickford Sitting Room]] |
-| [[Professor Hotchkiss]] | [[Hotchkiss' Room 214]]     |
+| character               | environment                                          |
+| ----------------------- | ---------------------------------------------------- |
+| [[Dexter Egan]]         | [[Wickford Lobby]]                                   |
+| [[Jacques Brunais]]     | [[Wickford Ski Shop]]                                |
+| [[Lisa Ostrum]]         | [[Wickford Sitting Room]]                            |
+| [[Professor Hotchkiss]] | [[Hotchkiss' Room 214]]<br>[[Wickford Sitting Room]] |
 ## Phone Contacts
 
 | character                                                       | phone            | phoneword        |

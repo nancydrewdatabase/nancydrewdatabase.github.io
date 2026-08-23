@@ -10,4 +10,4 @@ tags:
 - [[Open Abby’s Closet]]
 - [[Uncover the True Mansion Haunting]]
 ## Fatal Error
-- Stay in [[Abby's Room]] after 6pm
+- Stay in [[Abby's Room]] after 6 pm

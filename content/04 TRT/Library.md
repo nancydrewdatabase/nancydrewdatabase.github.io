@@ -8,10 +8,10 @@ tags:
 ---
 ## Nancy's Letters
 
-| document                                                             | recepient                      |
+| document                                                             | recipient        |
 | -------------------------------------------------------------------- | ------------------------------ |
 | [[TRT Opening Letter]] | [[George Fayne]] |
-| [[TRT Closing Letter]] | [[Carsen Drew]]   |
+| [[TRT Closing Letter]] | [[Carsen Drew]]  |
 ## Books
 
 | document                                                        | environment                      | author                  |
@@ -30,5 +30,6 @@ tags:
 | [[D is for Dazzling, D is for Diamonds - What Everyone Should Know About the World’s Most Coveted Stones]] | [[Wickford Ski Locker Room]] | \-                   |
 | [[Marie's Journal]]                                                                                        | [[Hotchkiss' Room 214]]      | [[Marie Antoinette]] |
 | [[Sassy Detective Magazine]]                                                                               | [[Nancy's Room 205]]         | Karen Clausen        |
+| [[Stained Glass Phrases]]                                                                                  | [[Portrait Alcove]]          | [[Marie Antoinette]] |
 | [[The Diary Of Hans Axel von Fersen]]                                                                      | [[Wickford Library]]         | Hans Axel von Fersen |
 

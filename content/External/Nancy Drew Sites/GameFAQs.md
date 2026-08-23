@@ -44,7 +44,7 @@ tags:
 | [Nancy Drew: Legend of the Crystal Skull – Guide and Walkthrough](https://gamefaqs.gamespot.com/pc/942002-nancy-drew-legend-of-the-crystal-skull/faqs/67069)       | #cry |
 | [Nancy Drew: The Phantom of Venice – Guide and Walkthrough](https://gamefaqs.gamespot.com/pc/945497-nancy-drew-the-phantom-of-venice/faqs/69140)                   | #ven |
 | [Nancy Drew: The Haunting of Castle Malloy – Guide and Walkthrough](https://gamefaqs.gamespot.com/pc/951300-nancy-drew-the-haunting-of-castle-malloy/faqs/54500)   | #hau |
-| [Nancy Drew: Warnings at Waverly Academy – Walkthrough](https://gamefaqs.gamespot.com/pc/961547-nancy-drew-warnings-at-waverly-academy/faqs/58049)                 | #wav |
+| [Nancy Drew: Warnings at Waverly Academy – Walkthrough](https://gamefaqs.gamespot.com/pc/961547-nancy-drew-warnings-at-waverly-academy/faqs/58049)                 | #wac |
 | [Nancy Drew: Trail of the Twister – Guide and Walkthrough](https://gamefaqs.gamespot.com/pc/997371-nancy-drew-trail-of-the-twister/faqs/60409)                     | #tot |
 | [Nancy Drew: Shadow at the Water's Edge – Guide and Walkthrough](https://gamefaqs.gamespot.com/pc/606326-nancy-drew-shadow-at-the-waters-edge/faqs/62444)          | #saw |
 | [Nancy Drew: Shadow at the Water's Edge – Walkthrough](https://gamefaqs.gamespot.com/pc/606326-nancy-drew-shadow-at-the-waters-edge/faqs/62335)                    | #saw |

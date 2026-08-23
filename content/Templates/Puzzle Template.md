@@ -1,6 +1,6 @@
 ---
-game: "[[05 FIN]]"
-environment: 
+game: "[[06 SSH]]"
+environment:
 tags:
 ---
 ## Prerequisites

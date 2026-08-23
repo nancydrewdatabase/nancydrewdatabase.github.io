@@ -11,6 +11,7 @@ While snowed-in at the Wickford Castle Ski Resort you, as Nancy Drew, are trappe
 
 - [[04 TRT/Puzzles|Puzzles]]
 - [[04 TRT/Characters|Characters]]
+- [[04 TRT/Checklist|Checklist]]
 - [[04 TRT/Inventory|Inventory]]
 - [[04 TRT/Library|Library]]
 - [[04 TRT/Environments|Environments]]

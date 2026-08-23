@@ -56,7 +56,7 @@ aka Michael Gray or [The_Lost_Gamer](https://gamefaqs.gamespot.com/community/The
 | [Nancy Drew: Legend of the Crystal Skull](https://www.youtube.com/playlist?list=PL09B1845B53E8B1E4)              | #cry |
 | [Nancy Drew: The Phantom of Venice](https://www.youtube.com/playlist?list=PLC3F95FBDD3B68EC6)                    | #ven |
 | [Nancy Drew: The Haunting of Castle Malloy](https://www.youtube.com/playlist?list=PL419E56018F3536FE)            | #hau |
-| [Nancy Drew: Warnings at Waverly Academy](https://www.youtube.com/playlist?list=PL348843D1C0489E33)              | #wav |
+| [Nancy Drew: Warnings at Waverly Academy](https://www.youtube.com/playlist?list=PL348843D1C0489E33)              | #wac |
 | [Nancy Drew: Trail of the Twister](https://www.youtube.com/playlist?list=PL8F138AA2470137FC)                     | #tot |
 | [Nancy Drew: Shadow at the Water's Edge](https://www.youtube.com/playlist?list=PLA22917BB0514DDF4)               | #saw |
 | [Nancy Drew: The Captive Curse](https://www.youtube.com/playlist?list=PL111CA5B6744F95DE)                        | #cap |

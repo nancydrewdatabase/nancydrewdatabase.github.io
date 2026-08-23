@@ -33,7 +33,7 @@ tags:
 | [Legend of the Crystal Skull](https://nancydrew.fandom.com/wiki/Legend_of_the_Crystal_Skull "Legend of the Crystal Skull")                          | #cry |
 | [The Phantom of Venice](https://nancydrew.fandom.com/wiki/The_Phantom_of_Venice_\(video_game\) "The Phantom of Venice (video game)")                | #ven |
 | [The Haunting of Castle Malloy](https://nancydrew.fandom.com/wiki/The_Haunting_of_Castle_Malloy "The Haunting of Castle Malloy")                    | #hau |
-| [Warnings at Waverly Academy](https://nancydrew.fandom.com/wiki/Warnings_at_Waverly_Academy "Warnings at Waverly Academy")                          | #wav |
+| [Warnings at Waverly Academy](https://nancydrew.fandom.com/wiki/Warnings_at_Waverly_Academy "Warnings at Waverly Academy")                          | #wac |
 | [Trail of the Twister](https://nancydrew.fandom.com/wiki/Trail_of_the_Twister "Trail of the Twister")                                               | #tot |
 | [Shadow at the Water's Edge](https://nancydrew.fandom.com/wiki/Shadow_at_the_Water%27s_Edge "Shadow at the Water's Edge")                           | #saw |
 | [The Captive Curse](https://nancydrew.fandom.com/wiki/The_Captive_Curse "The Captive Curse")                                                        | #cap |

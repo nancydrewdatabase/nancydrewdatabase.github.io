@@ -37,7 +37,7 @@ aka Huw Miller or [legofreak689](https://www.reddit.com/user/legofreak689/ )on r
 | **[Nancy Drew: Legend of the Crystal Skull](https://www.ndwalkthroughs.ca/nancy-drew-legend-of-the-crystal-skull.html)**       | #cry |
 | **[Nancy Drew: The Phantom of Venice](https://www.ndwalkthroughs.ca/nancy-drew-the-phantom-of-venice.html)**                   | #ven |
 | **[Nancy Drew: The Haunting of Castle Malloy](https://www.ndwalkthroughs.ca/nancy-drew-the-haunting-of-castle-malloy.html)**   | #hau |
-| **[Nancy Drew: Warnings at Waverly Academy](https://www.ndwalkthroughs.ca/nancy-drew-warnings-at-waverly-academy.html)**       | #wav |
+| **[Nancy Drew: Warnings at Waverly Academy](https://www.ndwalkthroughs.ca/nancy-drew-warnings-at-waverly-academy.html)**       | #wac |
 | **[Nancy Drew: Trail of the Twister](https://www.ndwalkthroughs.ca/nancy-drew-trail-of-the-twister.html)**                     | #tot |
 | **[Nancy Drew: Shadow at the Water's Edge](https://www.ndwalkthroughs.ca/nancy-drew-shadow-at-the-waters-edge.html)**          | #saw |
 | **[Nancy Drew: The Captive Curse](https://www.ndwalkthroughs.ca/nancy-drew-the-captive-curse.html)**                           | #cap |

@@ -24,7 +24,7 @@ My name is Brianna and I am a HUGE fan of the point-and-click [Nancy Drew Myster
 | [#17 Legend of the Crystal Skull](https://nancydrewgames.weebly.com/blog/17-legend-of-the-crystal-skull)       | #cry |
 | [#18 The Phantom of Venice](https://nancydrewgames.weebly.com/blog/18-the-phantom-of-venice)                   | #ven |
 | [#19 The Haunting of Castle Malloy](https://nancydrewgames.weebly.com/blog/19-the-haunting-of-castle-malloy)   | #hau |
-| [#21 Warnings at Waverly Academy](https://nancydrewgames.weebly.com/blog/21-warnings-at-waverly-academy)       | #wav |
+| [#21 Warnings at Waverly Academy](https://nancydrewgames.weebly.com/blog/21-warnings-at-waverly-academy)       | #wac |
 | [#22 Trail of the Twister](https://nancydrewgames.weebly.com/blog/22-trail-of-the-twister)                     | #tot |
 | [#23 Shadow at the Water's Edge](https://nancydrewgames.weebly.com/blog/23-shadow-at-the-waters-edge)          | #saw |
 | [#24 The Captive Curse](https://nancydrewgames.weebly.com/blog/24-the-captive-curse)                           | #cap |

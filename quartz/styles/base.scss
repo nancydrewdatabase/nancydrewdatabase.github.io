@@ -544,18 +544,16 @@ p {
 th {
   text-align: left;
   padding: 0.4rem 0.7rem;
-  border-bottom: 2px solid var(--gray);
+  border: 1px solid var(--lightgray);
 }
 
 td {
   padding: 0.2rem 0.7rem;
+  border: 1px solid var(--lightgray);
 }
 
 tr {
-  border-bottom: 1px solid var(--lightgray);
-  &:last-child {
-    border-bottom: none;
-  }
+  border: 1px solid var(--lightgray);
 }
 
 img {

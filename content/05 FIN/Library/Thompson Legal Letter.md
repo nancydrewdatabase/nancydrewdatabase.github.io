@@ -5,7 +5,7 @@ tags:
   - letter
   - paper
 author: "[[J. J. Thompson]]"
-recepient: Hiram Chattendale
+recipient: Hiram Chattendale
 ---
 ## Text
 Hiram Chattendale  

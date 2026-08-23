@@ -26,7 +26,7 @@ DISCLAIMER: I don't take full credit for the walkthroughs, as I got several of t
 | [Legend of the Crystal Skull](http://ardnek-nancydrewgames.blogspot.com/2011/07/legend-of-crystal-skull.html)           | #cry |
 | [The Phantom of Venice](http://ardnek-nancydrewgames.blogspot.com/2011/12/phantom-of-venice.html)                       | #ven |
 | [The Haunting of Castle Malloy](http://ardnek-nancydrewgames.blogspot.com/2011/12/haunting-of-castle-malloy.html)       | #hau |
-| [Warnings at Waverly Academy](http://ardnek-nancydrewgames.blogspot.com/2011/12/warnings-at-waverly-academy.html)       | #wav |
+| [Warnings at Waverly Academy](http://ardnek-nancydrewgames.blogspot.com/2011/12/warnings-at-waverly-academy.html)       | #wac |
 | [Trail of the Twister](http://ardnek-nancydrewgames.blogspot.com/2011/12/trail-of-twister.html)                         | #tot |
 | [Shadow at the Water's Edge](http://ardnek-nancydrewgames.blogspot.com/2011/12/shadow-at-waters-edge.html)              | #saw |
 | [The Captive Curse](http://ardnek-nancydrewgames.blogspot.com/2011/12/captive-curse.html)                               | #cap |

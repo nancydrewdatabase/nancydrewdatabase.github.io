@@ -1,6 +1,6 @@
 ---
-game: 
-environment: 
-tags: 
+game: "[[06 SSH]]"
+environment:
+tags:
 author:
 ---

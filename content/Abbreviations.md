@@ -23,7 +23,7 @@ These Abbreviations originally came from the HER Message Boards. They are common
 | Legend of the **Cry**stal Skull          | #cry |
 | The Phantom of **Ven**ice                | #ven |
 | The **Hau**nting of Castle Malloy        | #hau |
-| Warnings at **W**averly **Ac**ademy      | #wav |
+| Warnings at **W**averly **Ac**ademy      | #wac |
 | **T**rail **o**f the **T**wister         | #tot |
 | **S**hadow **a**t the **W**ater's Edge   | #saw |
 | The **Cap**tive Curse                    | #cap |

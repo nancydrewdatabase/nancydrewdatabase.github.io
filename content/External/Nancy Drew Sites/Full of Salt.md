@@ -25,7 +25,7 @@ Hello, welcome to [Full of Salt](https://fullofsalt.wordpress.com/category/nancy
 | [Nancy Drew: Legend of the Crystal Skull (Part One)](https://fullofsalt.wordpress.com/2017/03/01/nancy-drew-legend-of-the-crystal-skull-part-one/)       | #cry |
 | [Nancy Drew: The Phantom of Venice (Part One)](https://fullofsalt.wordpress.com/2011/11/23/nancy-drew-phantom-of-venice-1/)                              | #ven |
 | [Nancy Drew: The Haunting of Castle Malloy (Part One)](https://fullofsalt.wordpress.com/2017/04/01/nancy-drew-the-haunting-of-castle-malloy-part-one/)   | #hau |
-| [Nancy Drew: Warnings at Waverly Academy (Part One)](https://fullofsalt.wordpress.com/2017/06/01/nancy-drew-warnings-at-waverly-academy-part-one/)       | #wav |
+| [Nancy Drew: Warnings at Waverly Academy (Part One)](https://fullofsalt.wordpress.com/2017/06/01/nancy-drew-warnings-at-waverly-academy-part-one/)       | #wac |
 | [Nancy Drew: Trail of the Twister (Part One)](https://fullofsalt.wordpress.com/2017/07/01/nancy-drew-trail-of-the-twister-part-one/)                     | #tot |
 | [Nancy Drew: Shadow at the Water’s Edge (Part One)](https://fullofsalt.wordpress.com/2017/09/03/nancy-drew-shadow-at-the-waters-edge-part-one/)          | #saw |
 | [Nancy Drew: The Captive Curse (Part One)](https://fullofsalt.wordpress.com/2017/10/01/nancy-drew-the-captive-curse-part-one/)                           | #cap |

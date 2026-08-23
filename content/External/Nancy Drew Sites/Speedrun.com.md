@@ -23,7 +23,7 @@ tags:
 | [Nancy Drew: Legend of the Crystal Skull](https://www.speedrun.com/nd_cry)    | #cry |
 | [Nancy Drew: The Phantom of Venice](https://www.speedrun.com/nd_ven)          | #ven |
 | [Nancy Drew: The Haunting of Castle Malloy](https://www.speedrun.com/nd_hau)  | #hau |
-| [Nancy Drew: Warnings at Waverly Academy](https://www.speedrun.com/nd_wac)    | #wav |
+| [Nancy Drew: Warnings at Waverly Academy](https://www.speedrun.com/nd_wac)    | #wac |
 | [Nancy Drew: Trail of the Twister](https://www.speedrun.com/nd_tot)           | #tot |
 | [Nancy Drew: Shadow at the Water's Edge](https://www.speedrun.com/nd_saw)     | #saw |
 | [Nancy Drew: The Captive Curse](https://www.speedrun.com/nd_cap)              | #cap |

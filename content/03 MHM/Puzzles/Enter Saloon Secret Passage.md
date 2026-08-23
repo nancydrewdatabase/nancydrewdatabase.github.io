@@ -11,6 +11,6 @@ tags:
 * [[Lantern]]
 ## Unwritten Rules
 * Explore when [[Charlie Murphy]] isn't there
-	* 5pm - 12pm
+	* 5 pm - 12 pm
 ## Solution
 * Use [[Crowbar]] on the grate and [[Lantern]] to see in the dark passage

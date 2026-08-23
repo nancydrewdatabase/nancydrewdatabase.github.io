@@ -1,5 +1,7 @@
 ---
-game: "[[05 FIN]]"
-aliases: 
+game: "[[06 SSH]]"
+environment:
+aliases:
 tags:
+phone:
 ---

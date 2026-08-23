@@ -7,4 +7,4 @@ tags:
 
 | Strategy Guide                                                                                                                                                                                                                                                           | Game |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---- |
-| [Nancy Drew: Warnings at Waverly Academy Strategy Guide](https://www.bdstudiogames.com/nancy-drew-warnings-at-waverly-academy-strategy-guide.html?utm_source=RelatedRecommend&utm_medium=Version1&utm_campaign=Nancy+Drew%3A+Warnings+at+Waverly+Academy+Strategy+Guide) | #wav |
+| [Nancy Drew: Warnings at Waverly Academy Strategy Guide](https://www.bdstudiogames.com/nancy-drew-warnings-at-waverly-academy-strategy-guide.html?utm_source=RelatedRecommend&utm_medium=Version1&utm_campaign=Nancy+Drew%3A+Warnings+at+Waverly+Academy+Strategy+Guide) | #wac |

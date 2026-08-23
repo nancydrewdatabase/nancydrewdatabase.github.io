@@ -1,11 +1,11 @@
 ---
 game: "[[04 TRT]]"
-environment: 
-tags: 
+environment:
+tags:
   - case-file
   - closing-letter
 author: "[[Nancy Drew]]"
-recepient: "[[Carsen Drew]]"
+recipient: "[[Carsen Drew]]"
 ---
 ## Text
 

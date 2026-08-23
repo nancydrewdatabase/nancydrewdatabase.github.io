@@ -30,7 +30,7 @@ tags:
 | [Nancy Drew 17: Legend of the Crystal Skull](http://www.gameboomers.com/wtcheats/pcNn/NDlegendofthecrystalskull.htm) | #cry |
 | [Nancy Drew 18: The Phantom of Venice](http://www.gameboomers.com/wtcheats/pcNn/NDPhantomofVenice.htm)               | #ven |
 | [Nancy Drew 19: The Haunting of Castle Malloy](http://www.gameboomers.com/wtcheats/pcNn/ND19CastleMalloy.htm)        | #hau |
-| [Nancy Drew 21: Warnings at Waverly Academy](http://www.gameboomers.com/wtcheats/pcNn/NDWaverly/NDWaverly.htm)       | #wav |
+| [Nancy Drew 21: Warnings at Waverly Academy](http://www.gameboomers.com/wtcheats/pcNn/NDWaverly/NDWaverly.htm)       | #wac |
 | [Nancy Drew 22: Trail of the Twister](https://www.gameboomers.com/wtcheats/pcNn/NDTOT/ND22.htm)                      | #tot |
 | [Nancy Drew: Trail of the Twister](https://www.gameboomers.com/wtcheats/pcNn/Trail_of_the_Twister_Walkthrough.pdf)   | #tot |
 | [Nancy Drew 23: Shadow at the Water's Edge](https://www.gameboomers.com/wtcheats/pcNn/ND23/ND23saw.htm)              | #saw |

@@ -1,11 +1,11 @@
 ---
 game: "[[04 TRT]]"
-environment: 
-tags: 
+environment:
+tags:
   - case-file
   - opening-letter
 author: "[[Nancy Drew]]"
-recepient: "[[George Fayne]]"
+recipient: "[[George Fayne]]"
 ---
 ## Text
 

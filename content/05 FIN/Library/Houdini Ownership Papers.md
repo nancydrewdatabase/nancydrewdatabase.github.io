@@ -5,7 +5,7 @@ tags:
   - letter
   - paper
 author: "[[J. J. Thompson]]"
-recepient: "[[Harry Houdini]]"
+recipient: "[[Harry Houdini]]"
 ---
 ## Prerequisites
 - [[Open Gear Box]]

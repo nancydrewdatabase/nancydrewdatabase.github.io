@@ -38,4 +38,4 @@ This room, located beneath the Stage and beside the Basement, is for Magicians a
 
 ## Usage
 - [[Setup Magician Cages Onstage]]
-- TODO: secret passage from chair and env names update
+- Secret Passage to [[Royal Palladium Under the Stage]] from [[Royal Palladium Orchestra Seats|Front Row Seat]]

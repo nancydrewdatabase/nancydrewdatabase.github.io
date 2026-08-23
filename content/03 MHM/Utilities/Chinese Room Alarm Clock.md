@@ -16,3 +16,9 @@ tags:
 	- [[Uncover the True Mansion Haunting]]
 	- [[Find Golden Gardenia Treasure]]
 
+## Schedule
+TODO: add all character schedules
+
+| Character | Time |
+| --------- | ---- |
+|           |      |

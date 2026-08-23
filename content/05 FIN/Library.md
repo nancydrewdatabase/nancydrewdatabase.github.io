@@ -8,7 +8,7 @@ tags:
 ---
 ## Nancy's Letters
 
-| document                                                             | recepient                                                  |
+| document                                                             | recipient       |
 | -------------------------------------------------------------------- | ---------------------------------------------------------- |
 | [[FIN Closing Letter]] | [[Bess Marvin]] |
 | [[FIN Opening Letter]] | [[Bess Marvin]] |
