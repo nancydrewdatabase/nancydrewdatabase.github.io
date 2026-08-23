@@ -7,8 +7,9 @@ aliases:
 <!-- QueryToSerialize: Table WITHOUT ID file.link as characters from "content/06 SSH/Characters" where contains(environment,  [[]]) -->
 <!-- SerializedQuery: Table WITHOUT ID file.link as characters from "content/06 SSH/Characters" where contains(environment,  [[]]) -->
 
-| characters |
-| ---------- |
+| characters                                  |
+| ------------------------------------------- |
+| [[Togo]] |
 
 <!-- SerializedQuery END -->
 
@@ -23,18 +24,27 @@ aliases:
 
 ## Puzzle
 <!-- QueryToSerialize: Table WITHOUT ID file.link as puzzle from "content/06 SSH/Puzzles" where contains(environment,  [[]]) sort tags desc -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as puzzle from "content/05 FIN/Puzzles" where contains(environment,  [[]]) sort tags desc -->
+<!-- SerializedQuery: Table WITHOUT ID file.link as puzzle from "content/06 SSH/Puzzles" where contains(environment,  [[]]) sort tags desc -->
 
-| puzzle |
-| ------ |
+| puzzle                                                                                                                                                |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Sonny Joon's Disk Password]]                                                                  |
+| [[Henrik's Disk Password]]                                                                          |
+| [[Find West Key Piece]]                                                               |
+| [[2-5 What is the name of a Maya Matchmaker]] |
+
 <!-- SerializedQuery END -->
 
 ## Library
 <!-- QueryToSerialize: Table WITHOUT ID file.link as library from "content/06 SSH/Library" where contains(environment,  [[]]) sort tags desc -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as library from "content/05 FIN/Library" where contains(environment,  [[]]) sort tags desc -->
+<!-- SerializedQuery: Table WITHOUT ID file.link as library from "content/06 SSH/Library" where contains(environment,  [[]]) sort tags desc -->
 
-| library |
-| ------- |
+| library                                                                                  |
+| ---------------------------------------------------------------------------------------- |
+| [[Nancy Drew SSH Journal Notes]] |
+| [[Sonny Joon's Floppy Drive]]       |
+| [[Henrik's Zea Drive]]                     |
+
 <!-- SerializedQuery END -->
 
 ## Second Chance

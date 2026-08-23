@@ -13,26 +13,33 @@ tags:
 ## Inventory
 
 <!-- QueryToSerialize: Table WITHOUT ID file.link as item from "content/06 SSH/Inventory" where contains(environment,  [[]]) -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as item from "content/05 FIN/Inventory" where contains(environment,  [[]]) -->
+<!-- SerializedQuery: Table WITHOUT ID file.link as item from "content/06 SSH/Inventory" where contains(environment,  [[]]) -->
 
-| item |
-| ---- |
+| item                                                                                                     |
+| -------------------------------------------------------------------------------------------------------- |
+| [[Pottery Piece from Sonny Joon's Box]] |
+| [[SSH Floppy Drive]]                                       |
+
 <!-- SerializedQuery END -->
 
 ## Puzzle
 <!-- QueryToSerialize: Table WITHOUT ID file.link as puzzle from "content/06 SSH/Puzzles" where contains(environment,  [[]]) sort tags desc -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as puzzle from "content/05 FIN/Puzzles" where contains(environment,  [[]]) sort tags desc -->
+<!-- SerializedQuery: Table WITHOUT ID file.link as puzzle from "content/06 SSH/Puzzles" where contains(environment,  [[]]) sort tags desc -->
 
-| puzzle |
-| ------ |
+| puzzle                                                                                  |
+| --------------------------------------------------------------------------------------- |
+| [[Find East Key Piece]] |
+
 <!-- SerializedQuery END -->
 
 ## Library
 <!-- QueryToSerialize: Table WITHOUT ID file.link as library from "content/06 SSH/Library" where contains(environment,  [[]]) sort tags desc -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as library from "content/05 FIN/Library" where contains(environment,  [[]]) sort tags desc -->
+<!-- SerializedQuery: Table WITHOUT ID file.link as library from "content/06 SSH/Library" where contains(environment,  [[]]) sort tags desc -->
 
-| library |
-| ------- |
+| library                                                  |
+| -------------------------------------------------------- |
+| [[Packing List]] |
+
 <!-- SerializedQuery END -->
 
 ## Second Chance

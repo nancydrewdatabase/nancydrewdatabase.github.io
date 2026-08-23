@@ -6,8 +6,10 @@ tags: []
 <!-- QueryToSerialize: Table WITHOUT ID file.link as characters from "content/06 SSH/Characters" where contains(environment,  [[]]) -->
 <!-- SerializedQuery: Table WITHOUT ID file.link as characters from "content/06 SSH/Characters" where contains(environment,  [[]]) -->
 
-| characters |
-| ---------- |
+| characters                                                        |
+| ----------------------------------------------------------------- |
+| [[Taylor Sinclair]] |
+
 <!-- SerializedQuery END -->
 
 ## Inventory

@@ -15,10 +15,8 @@ tags:
 <!-- QueryToSerialize: Table WITHOUT ID file.link as item from "content/06 SSH/Inventory" where contains(environment,  [[]]) -->
 <!-- SerializedQuery: Table WITHOUT ID file.link as item from "content/06 SSH/Inventory" where contains(environment,  [[]]) -->
 
-| item                                                                                                   |
-| ------------------------------------------------------------------------------------------------------ |
-| [[Addenda to Monolith Loan Agreement]] |
-| [[Maya Temple Key Card]]                             |
+| item |
+| ---- |
 
 <!-- SerializedQuery END -->
 
@@ -32,10 +30,12 @@ tags:
 
 ## Library
 <!-- QueryToSerialize: Table WITHOUT ID file.link as library from "content/06 SSH/Library" where contains(environment,  [[]]) sort tags desc -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as library from "content/05 FIN/Library" where contains(environment,  [[]]) sort tags desc -->
+<!-- SerializedQuery: Table WITHOUT ID file.link as library from "content/06 SSH/Library" where contains(environment,  [[]]) sort tags desc -->
 
-| library |
-| ------- |
+| library                                                                                                                      |
+| ---------------------------------------------------------------------------------------------------------------------------- |
+| [[Addenda to the Palenque Monolith Loan Contract]] |
+
 <!-- SerializedQuery END -->
 
 ## Second Chance

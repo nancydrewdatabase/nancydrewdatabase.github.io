@@ -13,18 +13,33 @@ tags:
 ## Inventory
 
 <!-- QueryToSerialize: Table WITHOUT ID file.link as item from "content/06 SSH/Inventory" where contains(environment,  [[]]) -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as item from "content/05 FIN/Inventory" where contains(environment,  [[]]) -->
+<!-- SerializedQuery: Table WITHOUT ID file.link as item from "content/06 SSH/Inventory" where contains(environment,  [[]]) -->
 
-| item |
-| ---- |
+| item                                                                                                 |
+| ---------------------------------------------------------------------------------------------------- |
+| [[Pottery Piece from Temple Level 1]] |
+
 <!-- SerializedQuery END -->
 
 ## Puzzle
 <!-- QueryToSerialize: Table WITHOUT ID file.link as puzzle from "content/06 SSH/Puzzles" where contains(environment,  [[]]) sort tags desc -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as puzzle from "content/05 FIN/Puzzles" where contains(environment,  [[]]) sort tags desc -->
+<!-- SerializedQuery: Table WITHOUT ID file.link as puzzle from "content/06 SSH/Puzzles" where contains(environment,  [[]]) sort tags desc -->
 
-| puzzle |
-| ------ |
+| puzzle                                                                                                                         |
+| ------------------------------------------------------------------------------------------------------------------------------ |
+| [[Maya Temple Level 3 Quiz]]                           |
+| [[Maya Temple Level 2 Quiz]]                           |
+| [[Maya Temple Level 1 Quiz]]                           |
+| [[Maya Temple Level 2 Computer Password]] |
+| [[Maya Temple Level 1 Bul Game]]                   |
+| [[Maya Temple Level 2 Maze]]                           |
+| [[Maya Temple Level 3 God Matching]]           |
+| [[Maya Temple Level 1 Glyph Matching]]       |
+| [[Maya Temple Level 3 Calendar Puzzle]]     |
+| [[Maya Temple Level 2 Ball Game]]                 |
+| [[Find Pacal Key Piece]]                                      |
+| [[Maya Temple Puzzles]]                                                         |
+
 <!-- SerializedQuery END -->
 
 ## Library

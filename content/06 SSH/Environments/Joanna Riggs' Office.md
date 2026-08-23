@@ -4,10 +4,12 @@ tags:
 ---
 ## Characters
 <!-- QueryToSerialize: Table WITHOUT ID file.link as characters from "content/06 SSH/Characters" where contains(environment,  [[]]) -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as characters from "content/05 FIN/Characters" where contains(environment,  [[]]) -->
+<!-- SerializedQuery: Table WITHOUT ID file.link as characters from "content/06 SSH/Characters" where contains(environment,  [[]]) -->
 
-| characters |
-| ---------- |
+| characters                                                  |
+| ----------------------------------------------------------- |
+| [[Joanna Riggs]] |
+
 <!-- SerializedQuery END -->
 
 ## Inventory

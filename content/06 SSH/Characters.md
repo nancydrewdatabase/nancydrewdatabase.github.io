@@ -10,10 +10,9 @@ tags:
 
 | character                                                                 | environment                                                                                                                                                                                               |
 | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Alejandro del Rio]]     | [[Mexican Consulate]]                                                                                                                                   |
 | [[Henrik van der Hune]] | <ul><li>[[Beech Hill Lab]]</li><li>[[Eleanor Roosevelt Memorial Hospital]]</li></ul> |
 | [[Joanna Riggs]]               | [[Joanna Riggs' Office]]                                                                                                                             |
-| [[Taylor Sinclair]]         | [[Taylor Sinclair's Office]]                                                                                                                     |
+| [[Taylor Sinclair]]         | [[Taylor Sinclair's Office]]                                                                                                                                                    |
 
 <!-- SerializedQuery END -->
 
@@ -23,13 +22,10 @@ tags:
 
 | character                                                                 | phone          |
 | ------------------------------------------------------------------------- | -------------- |
-| [[Frank and Joe Hardy]] | \-             |
-| [[content/06 SSH/Characters/Bess and George.md\|Bess and George]]         | \-             |
-| [[Franklin Rose]]             | \-             |
+| [[Henry Daddle]]               | (605) 555-3195 |
 | [[Nurse Bluefoot]]           | \-             |
 | [[Poppy Dada]]                   | \-             |
 | [[Prudence Rutherford]] | \-             |
-| [[Henry Daddle]]               | (605) 555-3195 |
 | [[Sheila Schultz]]           | 1-505-555-1222 |
 
 <!-- SerializedQuery END -->
@@ -42,8 +38,7 @@ tags:
 | character                                               |
 | ------------------------------------------------------- |
 | [[Togo]]             |
-| [[Sonny Joon]] |
-| [[Amoxcalli]]   |
 | [[King Pacal]] |
+| [[Sonny Joon]] |
 
 <!-- SerializedQuery END -->

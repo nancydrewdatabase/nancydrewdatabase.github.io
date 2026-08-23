@@ -9,8 +9,10 @@ tags:
 <!-- QueryToSerialize: Table WITHOUT ID file.link as "checklist", tags from "content/05 FIN/Checklist" -->
 <!-- SerializedQuery: Table WITHOUT ID file.link as "checklist", tags from "content/05 FIN/Checklist" -->
 
-| checklist | tags |
-| --------- | ---- |
+| checklist                                                                      | tags                       |
+| ------------------------------------------------------------------------------ | -------------------------- |
+| [[FIN Speedrun Checklist]] | <ul><li>speedrun</li></ul> |
+
 <!-- SerializedQuery END -->
 
 
