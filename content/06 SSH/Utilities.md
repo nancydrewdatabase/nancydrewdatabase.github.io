@@ -1,6 +1,7 @@
 ---
 game: "[[06 SSH]]"
 aliases:
+  - SSH Utilities
 tags:
   - utility
 ---

@@ -19,8 +19,6 @@ Between cases, Nancy Drew has taken an internship as Deputy Curator at the Beech
 - [[06 SSH/Utilities|Utilities]]
 
 Steps:
-- Gitignore file merge issues
 - Test out the phone calls
 - Test the temple
-- Finish the character sections
 - Add more glyphs

@@ -26,9 +26,10 @@ tags:
 | puzzle                                                                                                                                                                                    |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Reorder Maya Numbering Exhibit]]                                                                                              |
-| [[1-1 Pacal ruled over which city in ancient day Mexico]]             |
-| [[1-4 What is the name of the ‘supreme’ god in Maya mythology]] |
 | [[1-5 What is the name of a modern day Mayan language]]                 |
+| [[1-4 What is the name of the ‘supreme’ god in Maya mythology]] |
+| [[1-1 Pacal ruled over which city in ancient day Mexico]]             |
+| [[Match Recorded Narrations for Maya Exhibits]]                                                                    |
 
 <!-- SerializedQuery END -->
 
@@ -40,7 +41,10 @@ tags:
 | ---------------------------------------------------------------------------------- |
 | [[Arts and Crafts Exhibit]]     |
 | [[Gods Exhibit]]                           |
+| [[Kings Exhibit]]                         |
+| [[Rituals Exhibit]]                     |
 | [[Who Were the Maya Exhibit]] |
+| [[Language Exhibit]]                   |
 
 <!-- SerializedQuery END -->
 
@@ -48,8 +52,9 @@ tags:
 <!-- QueryToSerialize: Table WITHOUT ID file.link as second-chance from "content/06 SSH/Second Chance" where contains(environment,  [[]]) -->
 <!-- SerializedQuery: Table WITHOUT ID file.link as second-chance from "content/06 SSH/Second Chance" where contains(environment,  [[]]) -->
 
-| second-chance |
-| ------------- |
+| second-chance                                                                                            |
+| -------------------------------------------------------------------------------------------------------- |
+| [[Take Mayan Stones Wrong Direction]] |
 
 <!-- SerializedQuery END -->
 

@@ -13,7 +13,7 @@ related:
 ![[NumberGlyphs.webp]]
 
 ## Learn More
-Following table contains images from [[FAMSI.org - Maya]] and [[Her Interactive]]. It's interesting to see the accuracy of the Beech Hill versions of the glyphs. I'd say the number glyphs are historically accurate as they can be oriented either horizontally or vertically. The head glyph I'd say had the most artistic interpretation is "oxlahum" 13 with a clear "T" on the cheek.
+Following table contains images from [[FAMSI.org]] and [[Her Interactive]]. It's interesting to see the accuracy of the Beech Hill versions of the glyphs. I'd say the number glyphs are historically accurate as they can be oriented either horizontally or vertically. The head glyph I'd say had the most artistic interpretation is "oxlahum" 13 with a clear "T" on the cheek.
 
 | #   | Number Glyph                      | Head Glyph                            | Beech Hill Glyph                 | Sonny Joon Description                                                                          |
 | --- | --------------------------------- | ------------------------------------- | -------------------------------- | ----------------------------------------------------------------------------------------------- |

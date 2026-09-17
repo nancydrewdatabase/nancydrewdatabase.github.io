@@ -15,8 +15,11 @@ tags:
 <!-- QueryToSerialize: Table WITHOUT ID file.link as item from "content/06 SSH/Inventory" where contains(environment,  [[]]) -->
 <!-- SerializedQuery: Table WITHOUT ID file.link as item from "content/06 SSH/Inventory" where contains(environment,  [[]]) -->
 
-| item |
-| ---- |
+| item                                                                                                   |
+| ------------------------------------------------------------------------------------------------------ |
+| [[Addenda to Monolith Loan Agreement]] |
+| [[Maya Temple Key Card]]                             |
+| [[Museum Headphones]]                                   |
 
 <!-- SerializedQuery END -->
 

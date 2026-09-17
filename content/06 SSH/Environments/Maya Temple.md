@@ -22,22 +22,22 @@ tags:
 <!-- SerializedQuery END -->
 
 ## Puzzle
-<!-- QueryToSerialize: Table WITHOUT ID file.link as puzzle from "content/06 SSH/Puzzles" where contains(environment,  [[]]) sort tags desc -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as puzzle from "content/06 SSH/Puzzles" where contains(environment,  [[]]) sort tags desc -->
+<!-- QueryToSerialize: Table WITHOUT ID file.link as puzzle from "content/06 SSH/Puzzles" where contains(environment,  [[]]) sort file.link desc -->
+<!-- SerializedQuery: Table WITHOUT ID file.link as puzzle from "content/06 SSH/Puzzles" where contains(environment,  [[]]) sort file.link desc -->
 
 | puzzle                                                                                                                         |
 | ------------------------------------------------------------------------------------------------------------------------------ |
-| [[Maya Temple Level 3 Quiz]]                           |
-| [[Maya Temple Level 2 Quiz]]                           |
-| [[Maya Temple Level 1 Quiz]]                           |
-| [[Maya Temple Level 2 Computer Password]] |
-| [[Maya Temple Level 1 Bul Game]]                   |
-| [[Maya Temple Level 2 Maze]]                           |
-| [[Maya Temple Level 3 God Matching]]           |
-| [[Maya Temple Level 1 Glyph Matching]]       |
-| [[Maya Temple Level 3 Calendar Puzzle]]     |
-| [[Maya Temple Level 2 Ball Game]]                 |
 | [[Find Pacal Key Piece]]                                      |
+| [[Maya Temple Level 3 Quiz]]                           |
+| [[Maya Temple Level 3 God Matching]]           |
+| [[Maya Temple Level 3 Calendar Puzzle]]     |
+| [[Maya Temple Level 2 Quiz]]                           |
+| [[Maya Temple Level 2 Maze]]                           |
+| [[Maya Temple Level 2 Computer Password]] |
+| [[Maya Temple Level 2 Ball Game]]                 |
+| [[Maya Temple Level 1 Quiz]]                           |
+| [[Maya Temple Level 1 Glyph Matching]]       |
+| [[Maya Temple Level 1 Bul Game]]                   |
 | [[Maya Temple Puzzles]]                                                         |
 
 <!-- SerializedQuery END -->

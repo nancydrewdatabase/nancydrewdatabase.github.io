@@ -17,10 +17,10 @@ tags:
 ## Solution
 
 
-<!-- QueryToSerialize: TABLE WITHOUT ID file.link as "puzzle", answer, source from  "content/06 SSH/Puzzles/Maya Temple Puzzles/Quiz Questions" where contains(tags, "level-1")  sort file.link -->
-<!-- SerializedQuery: TABLE WITHOUT ID file.link as "puzzle", answer, source from  "content/06 SSH/Puzzles/Maya Temple Puzzles/Quiz Questions" where contains(tags, "level-1")  sort file.link -->
+<!-- QueryToSerialize: TABLE WITHOUT ID file.link as "question", answer, source from  "content/06 SSH/Puzzles/Maya Temple Puzzles/Quiz Questions" where contains(tags, "level-1")  sort file.link -->
+<!-- SerializedQuery: TABLE WITHOUT ID file.link as "question", answer, source from  "content/06 SSH/Puzzles/Maya Temple Puzzles/Quiz Questions" where contains(tags, "level-1")  sort file.link -->
 
-| puzzle                                                                                                                                                                                                      | answer                       | source                                                                                                                     |
+| question                                                                                                                                                                                                    | answer                       | source                                                                                                                     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
 | [[1-1 Pacal ruled over which city in ancient day Mexico]]                               | Palenque                     | [[Kings Exhibit.md#K inich Janahb Pakal\|Kings Exhibit > K inich Janahb Pakal]]                     |
 | [[1-2 What is the name of Pacal's mother]]                                                             | Zac Kuk                      | [[Kings Exhibit.md#Pacal s Ascension Exhibit TODO\|Kings Exhibit > Pacal s Ascension Exhibit TODO]] |

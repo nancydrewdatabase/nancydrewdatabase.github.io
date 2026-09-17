@@ -1,7 +1,7 @@
 ---
 game: "[[06 SSH]]"
 environment: "[[Beech Hill Lab]]"
-author: Sonny Joon
+author: "[[Sonny Joon]]"
 tags:
   - journal
 ---

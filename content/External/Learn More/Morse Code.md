@@ -1,8 +1,8 @@
 ---
 tags:
-  - external
   - learning
   - morse-code
+  - ssh
 ---
 Morse code is a telecommunication method that encodes text as a series of short and long durations first introduced with the telegraph by Samuel Morse and others.
 

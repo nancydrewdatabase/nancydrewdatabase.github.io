@@ -1,6 +1,7 @@
 ---
 game: "[[06 SSH]]"
 aliases:
+  - SSH Environments
 tags:
   - environments
 ---
@@ -10,15 +11,15 @@ tags:
 | environment                                                                                                 |
 | ----------------------------------------------------------------------------------------------------------- |
 | [[Beech Hill Exhibits]]                                 |
-| [[Beech Hill Garden]]                                     |
 | [[Beech Hill Lab]]                                           |
+| [[Beech Hill Garden]]                                     |
 | [[Beech Hill Museum Entryway]]                   |
 | [[Eleanor Roosevelt Memorial Hospital]] |
 | [[Joanna Riggs' Office]]                               |
-| [[The Colonial Hotel]]                                   |
-| [[Taylor Sinclair's Office]]                       |
-| [[Shipping and Receiving Room]]                 |
-| [[Mexican Consulate]]                                     |
 | [[Maya Temple]]                                                 |
+| [[Mexican Consulate]]                                     |
+| [[Shipping and Receiving Room]]                 |
+| [[Taylor Sinclair's Office]]                       |
+| [[The Colonial Hotel]]                                   |
 
 <!-- SerializedQuery END -->

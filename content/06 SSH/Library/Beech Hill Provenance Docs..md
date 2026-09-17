@@ -1,6 +1,6 @@
 ---
 game: "[[06 SSH]]"
-environment:
+environment: "[[Joanna Riggs' Office]]"
 author:
 tags:
   - paper

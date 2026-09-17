@@ -1,14 +1,14 @@
 ---
 tags:
-  - external
   - learning
   - maya-glyph
+  - ssh
 ---
 ### Maya Dictionary
 - https://www.mayantranslator.com/
 - https://mayaglyphs.org/
 ### Learning Glyphs
-- [[FAMSI.org - Maya]]
+- [[FAMSI.org]]
 - https://www.omniglot.com/writing/mayan.htm
 - https://www.mayaarchaeologist.co.uk/school-resources/maya-world/maya-writing-system/
 - https://artsandculture.google.com/story/untangling-maya-glyphs-the-british-museum/9AVhlqaqtBwwIw

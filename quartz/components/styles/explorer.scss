@@ -1,6 +1,11 @@
 @use "../../styles/variables.scss" as *;
 
 @media all and ($mobile) {
+
+  .page-title {
+    font-size: 1.75rem;
+  }
+
   .page > #quartz-body {
     // Shift page position when toggling Explorer on mobile.
     & > :not(.sidebar.left:has(.explorer)) {
@@ -12,10 +17,10 @@
       transition: transform 300ms ease-in-out;
     }
 
-    // Sticky top bar (stays in place when scrolling down on mobile).
+    // Removing sticky for better mobile experience.
     .sidebar.left:has(.explorer) {
       box-sizing: border-box;
-      position: sticky;
+      position: relative;
       background-color: var(--light);
       padding: 1rem 0 1rem 0;
       margin: 0;

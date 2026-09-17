@@ -1,11 +1,10 @@
 ---
 tags:
-  - external
   - learning
   - maya-glyph
+  - ssh
 ---
 The Foundation ([FAMSI](https://www.famsi.org/mayawriting/index.html)) was created in 1993 to foster increased understanding of ancient Mesoamerican cultures.
-
 ## Maya Resources
 - [Maya Writing](https://www.famsi.org/mayawriting/index.html)
 - [Maya Hieroglyphics Writing](https://www.famsi.org/mayawriting/dictionary.htm)

@@ -19,4 +19,11 @@ tags:
 * Quiz answers are case insensitive, but spelling matters
 * Press the enter key after inputting the answer
 ## Solution
-* Coatimundi
+
+| question                            | answer     | source                          |
+| ----------------------------------- | ---------- | ------------------------------- |
+| 3-1 What animal was Pacal afraid of | Coatimundi | [[Henrik van der Hune\|Henrik]] |
+
+
+
+

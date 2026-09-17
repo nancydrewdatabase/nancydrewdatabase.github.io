@@ -1,6 +1,6 @@
 ---
 game: "[[06 SSH]]"
-environment:
+environment: "[[Beech Hill Lab]]"
 aliases:
 tags:
   - phone-contact

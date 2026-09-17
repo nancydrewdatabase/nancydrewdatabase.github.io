@@ -1,4 +1,4 @@
-import { joinSegments, pathToRoot } from "../util/path"
+import { pathToRoot } from "../util/path"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { classNames } from "../util/lang"
 import { i18n } from "../i18n"
@@ -8,10 +8,9 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
   const baseDir = pathToRoot(fileData.slug!)
   
   return (
-    <h2 class={classNames(displayClass, "page-title")}>
-      <a href={baseDir}>
-
-        <svg height="24px" style={{margin: "0 4px"}} version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512.001 512.001" xml:space="preserve" fill="#000000">
+    <h1 class={classNames(displayClass, "page-title")}>
+      <a style={{color: "white"}} href={baseDir}>
+        <svg class={classNames(displayClass, "page-title-icon")} height="24px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512.001 512.001" xml:space="preserve" fill="#000000">
           <g id="SVGRepo_bgCarrier" stroke-width="0"/>
           <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"/>
           <g id="SVGRepo_iconCarrier"> 
@@ -27,18 +26,18 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
         </svg>
         {title}
       </a>
-    </h2>
+    </h1>
   )
 }
 
 PageTitle.css = `
 .page-title {
-  font-size: 1.75rem;
+  font-size: 2.2rem;
   margin: 0;
   font-family: var(--titleFont);
 }
 .page-title-icon {
-  margin: 0 .5rem 0 0;
+  margin: 0 1rem 0 0;
 }
 `
 

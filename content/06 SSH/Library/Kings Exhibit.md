@@ -35,3 +35,4 @@ Beech Hill Permanent Collection
 The unusual jade relief features an intricate representation of Lord Pacal, one of the greatest rulers of the Maya classical period. Both the origin and function of this highly stylized piece are unknown.
 ## Usage
 - [[Maya Temple Level 1 Quiz]]
+- [[Match Recorded Narrations for Maya Exhibits]]

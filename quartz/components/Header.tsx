@@ -9,8 +9,10 @@ header {
   display: flex;
   flex-direction: row;
   align-items: center;
-  margin: 2rem 0;
   gap: 1.5rem;
+  text-align: center;
+  padding: 2rem;
+  background-image: linear-gradient(to top right,#585e82,#7d0040);
 }
 
 header h1 {

@@ -1,5 +1,6 @@
 ---
-game: 
+game:
+aliases:
 tags:
   - checklist
 ---

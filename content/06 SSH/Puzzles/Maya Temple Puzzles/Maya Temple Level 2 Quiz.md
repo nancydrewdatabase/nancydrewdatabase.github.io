@@ -20,10 +20,10 @@ tags:
 * Press the enter key after inputting the answer
 ## Solution
 
-<!-- QueryToSerialize: TABLE WITHOUT ID file.link as "puzzle", answer, source from  "content/06 SSH/Puzzles/Maya Temple Puzzles/Quiz Questions" where contains(tags, "level-2")  sort file.link -->
-<!-- SerializedQuery: TABLE WITHOUT ID file.link as "puzzle", answer, source from  "content/06 SSH/Puzzles/Maya Temple Puzzles/Quiz Questions" where contains(tags, "level-2")  sort file.link -->
+<!-- QueryToSerialize: TABLE WITHOUT ID file.link as "question", answer, source from  "content/06 SSH/Puzzles/Maya Temple Puzzles/Quiz Questions" where contains(tags, "level-2")  sort file.link -->
+<!-- SerializedQuery: TABLE WITHOUT ID file.link as "question", answer, source from  "content/06 SSH/Puzzles/Maya Temple Puzzles/Quiz Questions" where contains(tags, "level-2")  sort file.link -->
 
-| puzzle                                                                                                                                                                                                                  | answer     | source                                                                                                                     |
+| question                                                                                                                                                                                                                | answer     | source                                                                                                                     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | -------------------------------------------------------------------------------------------------------------------------- |
 | [[2-1 What is the name of one of Shield Jaguar’s wives]]                                             | Lady Xoc   | [[Garden Exhibit.md#Marriage Lintel\|Garden Exhibit > Marriage Lintel]]                             |
 | [[2-2 Which Maya 'monster' represents the continuous cycle of life and death]] | Bicephalic | [[Garden Exhibit.md#Bicephalic Alter Exhibit C\|Garden Exhibit > Bicephalic Alter Exhibit C]]       |

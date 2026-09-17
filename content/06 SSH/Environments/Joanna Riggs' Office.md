@@ -15,10 +15,12 @@ tags:
 ## Inventory
 
 <!-- QueryToSerialize: Table WITHOUT ID file.link as item from "content/06 SSH/Inventory" where contains(environment,  [[]]) -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as item from "content/05 FIN/Inventory" where contains(environment,  [[]]) -->
+<!-- SerializedQuery: Table WITHOUT ID file.link as item from "content/06 SSH/Inventory" where contains(environment,  [[]]) -->
 
-| item |
-| ---- |
+| item                                                             |
+| ---------------------------------------------------------------- |
+| [[Beech Hill Keys]] |
+
 <!-- SerializedQuery END -->
 
 ## Puzzle

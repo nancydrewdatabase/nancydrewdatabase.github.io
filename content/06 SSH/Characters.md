@@ -1,6 +1,7 @@
 ---
 game: "[[06 SSH]]"
 aliases:
+  - SSH Characters
 tags:
   - characters
 ---
@@ -10,9 +11,10 @@ tags:
 
 | character                                                                 | environment                                                                                                                                                                                               |
 | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Alejandro del Rio]]     | [[Mexican Consulate]]                                                                                                                                   |
 | [[Henrik van der Hune]] | <ul><li>[[Beech Hill Lab]]</li><li>[[Eleanor Roosevelt Memorial Hospital]]</li></ul> |
 | [[Joanna Riggs]]               | [[Joanna Riggs' Office]]                                                                                                                             |
-| [[Taylor Sinclair]]         | [[Taylor Sinclair's Office]]                                                                                                                                                    |
+| [[Taylor Sinclair]]         | [[Taylor Sinclair's Office]]                                                                                                                     |
 
 <!-- SerializedQuery END -->
 
@@ -22,6 +24,9 @@ tags:
 
 | character                                                                 | phone          |
 | ------------------------------------------------------------------------- | -------------- |
+| [[Frank and Joe Hardy]] | \-             |
+| [[content/06 SSH/Characters/Bess and George.md\|Bess and George]]         | \-             |
+| [[Franklin Rose]]             | \-             |
 | [[Henry Daddle]]               | (605) 555-3195 |
 | [[Nurse Bluefoot]]           | \-             |
 | [[Poppy Dada]]                   | \-             |
@@ -37,8 +42,9 @@ tags:
 
 | character                                               |
 | ------------------------------------------------------- |
-| [[Togo]]             |
+| [[Amoxcalli]]   |
 | [[King Pacal]] |
 | [[Sonny Joon]] |
+| [[Togo]]             |
 
 <!-- SerializedQuery END -->

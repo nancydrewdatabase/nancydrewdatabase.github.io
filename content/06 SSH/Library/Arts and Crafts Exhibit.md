@@ -20,4 +20,5 @@ Offering bowl to the war god, Balac. The logograph for 'black' is represented on
 
 ![[BlackGlyph.webp|250x150]]
 ## Usage
-- Maya Temple Level 1 Glyph Matching
+- [[Maya Temple Level 1 Glyph Matching]]
+- [[Match Recorded Narrations for Maya Exhibits]]

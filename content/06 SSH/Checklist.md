@@ -1,5 +1,7 @@
 ---
 game: "[[06 SSH]]"
+aliases:
+  - SSH Checklist
 tags:
   - checklist
 ---

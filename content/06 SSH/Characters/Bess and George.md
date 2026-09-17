@@ -1,6 +1,6 @@
 ---
 game: "[[06 SSH]]"
-environment:
+environment: "[[The Colonial Hotel]]"
 aliases:
 tags:
   - phone-contact

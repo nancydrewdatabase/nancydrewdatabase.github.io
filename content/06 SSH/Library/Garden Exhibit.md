@@ -79,6 +79,5 @@ Lintel 15 represents Lady Xoc engaging in a ritually induced hallucination. An a
 
 Beech Hill Permanent Collection
 
-
 ## Usage
-- 
+- [[Match Recorded Narrations for Maya Exhibits]]

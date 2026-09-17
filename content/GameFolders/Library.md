@@ -5,7 +5,7 @@ tags:
   - library
 ---
 ## Nancy's Letters
-<!-- QueryToSerialize: Table WITHOUT ID file.link as document, recipient from "content/X/Library" where contains(tags, "case-file") -->
+<!-- QueryToSerialize: Table WITHOUT ID file.link as document, recipient from "content/X/Library" where contains(tags, "case-file") sort file.link -->
 <!-- SerializedQuery: Table WITHOUT ID file.link as document, recipient from "content/X/Library" where contains(tags, "case-file") -->
 
 | document | recipient |
@@ -14,7 +14,7 @@ tags:
 <!-- SerializedQuery END -->
 
 ## Books
-<!-- QueryToSerialize: Table WITHOUT ID file.link as document, environment, author from "content/X/Library" where contains(tags, "book") -->
+<!-- QueryToSerialize: Table WITHOUT ID file.link as document, environment, author from "content/X/Library" where contains(tags, "book") sort file.link -->
 <!-- SerializedQuery: Table WITHOUT ID file.link as document, environment, author from "content/X/Library" where contains(tags, "book") -->
 
 | document | environment | author |
@@ -22,7 +22,7 @@ tags:
 <!-- SerializedQuery END -->
 
 ## Misc
-<!-- QueryToSerialize: Table WITHOUT ID file.link as document, environment, author from "content/X/Library" where !contains(tags, "book") and !contains(tags, "case-file") -->
+<!-- QueryToSerialize: Table WITHOUT ID file.link as document, environment, author from "content/X/Library" where !contains(tags, "book") and !contains(tags, "case-file") sort file.link -->
 <!-- SerializedQuery: Table WITHOUT ID file.link as document, environment, author from "content/X/Library" where !contains(tags, "book") and !contains(tags, "case-file") -->
 
 | document | environment | author |

@@ -42,12 +42,3 @@ tags:
 | [[Information for Art Collectors Dealers and Curators]] |
 
 <!-- SerializedQuery END -->
-
-## Second Chance
-<!-- QueryToSerialize: Table WITHOUT ID file.link as second-chance from "content/06 SSH/Second Chance" where contains(environment,  [[]]) -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as second-chance from "content/05 FIN/Second Chance" where contains(environment,  [[]]) -->
-
-| second-chance |
-| ------------- |
-<!-- SerializedQuery END -->
-

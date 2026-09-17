@@ -17,8 +17,8 @@ tags:
 
 | item                                                                                                     |
 | -------------------------------------------------------------------------------------------------------- |
-| [[Pottery Piece from Sonny Joon's Box]] |
 | [[SSH Floppy Drive]]                                       |
+| [[Pottery Piece from Sonny Joon's Box]] |
 
 <!-- SerializedQuery END -->
 

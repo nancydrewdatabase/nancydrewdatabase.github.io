@@ -17,8 +17,9 @@ tags:
 <!-- QueryToSerialize: Table WITHOUT ID file.link as item from "content/06 SSH/Inventory" where contains(environment,  [[]]) -->
 <!-- SerializedQuery: Table WITHOUT ID file.link as item from "content/06 SSH/Inventory" where contains(environment,  [[]]) -->
 
-| item |
-| ---- |
+| item                                                 |
+| ---------------------------------------------------- |
+| [[Door Knob]] |
 
 <!-- SerializedQuery END -->
 
@@ -28,11 +29,12 @@ tags:
 
 | puzzle                                                                                                            |
 | ----------------------------------------------------------------------------------------------------------------- |
+| [[Analyze Scarlet Handprint]]                                |
 | [[Order Packing Supplies]]                                      |
 | [[Message Smugglers on Ham Radio]]     |
 | [[Sort and Reassemble Monolith Key]] |
-| [[Find Fool Key Piece]]                           |
 | [[Find North Key Piece]]                         |
+| [[Find Fool Key Piece]]                           |
 | [[Sort and Reassemble Maya Pottery]]                  |
 
 <!-- SerializedQuery END -->
@@ -44,7 +46,12 @@ tags:
 | library                                                                                                                    |
 | -------------------------------------------------------------------------------------------------------------------------- |
 | [[Translation Notes (continued)]]                                 |
+| [[Henrik's Summer Notes from '72]]                               |
 | [[Dyna-Ham Instruction Manual 2000 Model Series]] |
+| [[Henrik's Note to Nancy]]                                               |
+| [[Joanna's Note to Nancy]]                                               |
+| [[Henrik's Smuggler Journal]]                                         |
+| [[Sonny Joon's Journal]]                                                   |
 | [[Audio Narrations]]                                                           |
 
 <!-- SerializedQuery END -->

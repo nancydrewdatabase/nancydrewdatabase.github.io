@@ -17,4 +17,4 @@ The three masks depict the corn god, Yum Kaax, the jaguar god, Xbalanque, and th
 The deities depicted in this exhibit are the Rain, Moon, and Sun gods.
 
 ## Usage
-- 
+- [[Match Recorded Narrations for Maya Exhibits]]

@@ -3,24 +3,29 @@ game: "[[06 SSH]]"
 tags: []
 ---
 ## Characters
-<!-- QueryToSerialize: Table WITHOUT ID file.link as characters from "content/X/Characters" where contains(environment,  [[]]) -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as characters from "content/X/Characters" where contains(environment,  [[]]) -->
+<!-- QueryToSerialize: Table WITHOUT ID file.link as characters from "content/06 SSH/Characters" where contains(environment,  [[]]) -->
+<!-- SerializedQuery: Table WITHOUT ID file.link as characters from "content/06 SSH/Characters" where contains(environment,  [[]]) -->
 
-| characters |
-| ---------- |
+| characters                                                                |
+| ------------------------------------------------------------------------- |
+| [[Henrik van der Hune]] |
+
 <!-- SerializedQuery END -->
 
 ## Inventory
 
-<!-- QueryToSerialize: Table WITHOUT ID file.link as item from "content/X/Inventory" where contains(environment,  [[]]) -->
-<!-- SerializedQuery: Table WITHOUT ID file.link as item from "content/X/Inventory" where contains(environment,  [[]]) -->
+<!-- QueryToSerialize: Table WITHOUT ID file.link as item from "content/06 SSH/Inventory" where contains(environment,  [[]]) -->
+<!-- SerializedQuery: Table WITHOUT ID file.link as item from "content/06 SSH/Inventory" where contains(environment,  [[]]) -->
 
-| item |
-| ---- |
+| item                                                       |
+| ---------------------------------------------------------- |
+| [[Henrik's Key]] |
+| [[SSH Zea Disk]] |
+
 <!-- SerializedQuery END -->
 
 ## Puzzle
-<!-- QueryToSerialize: Table WITHOUT ID file.link as puzzle from "content/X/Puzzles" where contains(environment,  [[]]) sort tags desc -->
+<!-- QueryToSerialize: Table WITHOUT ID file.link as puzzle from "content/06 SSH/Puzzles" where contains(environment,  [[]]) sort tags desc -->
 <!-- SerializedQuery: Table WITHOUT ID file.link as puzzle from "content/X/Puzzles" where contains(environment,  [[]]) sort tags desc -->
 
 | puzzle |
@@ -28,7 +33,7 @@ tags: []
 <!-- SerializedQuery END -->
 
 ## Library
-<!-- QueryToSerialize: Table WITHOUT ID file.link as library from "content/X/Library" where contains(environment,  [[]]) sort tags desc -->
+<!-- QueryToSerialize: Table WITHOUT ID file.link as library from "content/06 SSH/Library" where contains(environment,  [[]]) sort tags desc -->
 <!-- SerializedQuery: Table WITHOUT ID file.link as library from "content/X/Library" where contains(environment,  [[]]) sort tags desc -->
 
 | library |
@@ -36,4 +41,4 @@ tags: []
 <!-- SerializedQuery END -->
 
 ## Second Chance
-<!-- QueryToSerialize: Table WITHOUT ID file.link as second-chance from "content/X/Second Chance" where contains(environment,  [[]]) -->
+<!-- QueryToSerialize: Table WITHOUT ID file.link as second-chance from "content/06 SSH/Second Chance" where contains(environment,  [[]]) -->

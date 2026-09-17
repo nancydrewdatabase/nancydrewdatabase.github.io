@@ -22,4 +22,4 @@ One thing I wanted to ensure about this site is it would be free. I created a gi
 
 All of the External sites I made by hand. I just kept searching for Nancy Drew sites and found a lot of dead/old sites from a lot of individual creators that I never knew existed. There's also a large number of Youtube and other social media creators that I know I've missed. I've done my best to credit and promote as much as I can. Please let me know if there's someone else I should include.
 
-None of the text on this site is AI generated. I can't guarantee the external sites I cite, but everything was all created from my own experience or cited where I found a complex solution I needed help with.
+None of the text on this site is AI generated. I can't guarantee the external sites I cite, but everything was all created from my own experience or cited where I found a complex solution I needed help with. IF I use any AI for interactive puzzle examples, they will be called out explicitly as the specifics of how the site is supported in markdown github page makes traditional js not very intuitive to integrate.

@@ -1,6 +1,6 @@
 ---
 game: "[[06 SSH]]"
-environment:
+environment: "[[Eleanor Roosevelt Memorial Hospital]]"
 aliases:
 tags:
   - phone-contact

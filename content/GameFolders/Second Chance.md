@@ -4,7 +4,7 @@ aliases:
 tags:
   - second-chance
 ---
-<!-- QueryToSerialize: Table WITHOUT ID file.link as "second chance", environment, related from "content/X/Second Chance" -->
+<!-- QueryToSerialize: Table WITHOUT ID file.link as "second chance", environment, related from "content/X/Second Chance" sort file.link -->
 <!-- SerializedQuery: Table WITHOUT ID file.link as "second chance", environment, related from "content/X/Second Chance" -->
 
 | second chance | environment | related |

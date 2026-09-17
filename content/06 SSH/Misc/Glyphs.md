@@ -2,7 +2,6 @@
 game: "[[06 SSH]]"
 tags:
   - maya-glyph
-  - external
 ---
 ## In Game Glyphs
 <!-- QueryToSerialize: TABLE WITHOUT ID file.link as "glyph" from  "content/06 SSH/Misc/Glyphs" sort file.link -->
@@ -30,3 +29,5 @@ tags:
 
 ## External
 Move over Henrik. Here's some sites I found to learn more about Maya Glyphs. 
+- [[Maya Glyphs]]
+- [[FAMSI.org]]

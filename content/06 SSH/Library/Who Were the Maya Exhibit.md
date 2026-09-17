@@ -16,6 +16,5 @@ Maya ruins like the one featured in this photo can be found throughout southern 
 ### Tools of the Trade (Exhibit TODO)
 HAM radio used by the Cortazar-Alvarez Palenque expedition ca. 1955.
 
-
 ## Usage
-- 
+- [[Match Recorded Narrations for Maya Exhibits]]

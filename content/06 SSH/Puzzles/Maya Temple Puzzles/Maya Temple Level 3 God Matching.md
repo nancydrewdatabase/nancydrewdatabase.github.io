@@ -20,15 +20,14 @@ tags:
 * Order doesn't matter
 ## Solution
 
-
-| God               | Name      | Source                      |
-| ----------------- | --------- | --------------------------- |
-| God of Travellers | Ekahau    | Brochure                    |
-| God of Death      | Yum Cimil | Level 2 video               |
-| Jaguar God        | Xbalanque | [[Kings Exhibit]]           |
-| Rain God          | Tlaloc    | [[Garden Exhibit]]          |
-| Corn God          | Yum Kaax  | [[Gods Exhibit]]            |
-| Wind God          | Kukulcan  | Brochure                    |
-| Sun God           | Ahau Kin  | [[Gods Exhibit]]            |
-| War God           | Balac     | [[Arts and Crafts Exhibit]] |
-| Moon Goddess      | Ixchel    | [[Garden Exhibit]]          |
+| God              | Name      | Source                      |
+| ---------------- | --------- | --------------------------- |
+| God of Travelers | Ekahau    | Brochure                    |
+| God of Death     | Yum Cimil | Level 2 video               |
+| Jaguar God       | Xbalanque | [[Kings Exhibit]]           |
+| Rain God         | Tlaloc    | [[Garden Exhibit]]          |
+| Corn God         | Yum Kaax  | [[Gods Exhibit]]            |
+| Wind God         | Kukulcan  | Brochure                    |
+| Sun God          | Ahau Kin  | [[Gods Exhibit]]            |
+| War God          | Balac     | [[Arts and Crafts Exhibit]] |
+| Moon Goddess     | Ixchel    | [[Garden Exhibit]]          |
