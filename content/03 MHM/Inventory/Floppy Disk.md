@@ -1,0 +1,13 @@
+---
+game: "[[03 MHM]]"
+environment: "[[Golden Gardenia Basement Secret Passage]]"
+tags:
+  - tech
+  - optional
+---
+## Prerequisites
+- [[Enter Saloon Secret Passage]]
+## Location
+- Right of the pillow and above the books
+## Usage
+- [[Read Charlie’s Paper]]

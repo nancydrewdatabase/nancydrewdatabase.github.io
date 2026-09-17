@@ -1,0 +1,1 @@
+This section is going to be the most tangentially connected section to the Nancy Drew games. References to histories of specific puzzles, hinted histories, and other sources of inspiration.

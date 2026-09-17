@@ -1,0 +1,14 @@
+---
+game: "[[04 TRT]]"
+aliases:
+  - TRT Utilities
+tags:
+  - trt
+  - utility
+---
+
+| utility                                                                                                | environment                            |
+| ------------------------------------------------------------------------------------------------------ | -------------------------------------- |
+| [[Wickford Room 205 Alarm Clock]]           | [[Nancy's Room 205]] |
+| [[Wickford Room 205 Hotel Room Phone]] | [[Nancy's Room 205]] |
+
