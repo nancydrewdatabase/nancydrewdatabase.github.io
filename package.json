@@ -90,9 +90,10 @@
     "sharp": "^0.35.3",
     "shiki": "^1.26.2",
     "source-map-support": "^0.5.21",
+    "speech-rule-engine": "^5.0.0-rc.4",
     "staticrypt": "^3.5.3",
     "to-vfile": "^8.0.0",
-    "toml": "^3.0.0",
+    "toml": "^5.0.0",
     "unified": "^11.0.5",
     "unist-util-visit": "^5.1.0",
     "vfile": "^6.0.3",
@@ -121,5 +122,8 @@
   "types": "./index.d.ts",
   "bugs": {
     "url": "https://github.com/jackyzha0/quartz/issues"
+  },
+  "overrides": {
+    "@xmldom/xmldom": "0.9.12"
   }
 }

@@ -10,3 +10,4 @@ phone: 1-505-555-1222
 ## Notes
 - Phone number: 1-505-555-1222
 - Hours: 10 am - 6 pm
+- Works for the Chaco Canyon Cultural Center

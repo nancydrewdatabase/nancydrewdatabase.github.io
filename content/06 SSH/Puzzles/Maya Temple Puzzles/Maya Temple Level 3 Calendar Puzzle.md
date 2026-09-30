@@ -10,8 +10,9 @@ tags:
 * [[Maya Temple Level 2 Maze]]
 * [[Maya Temple Level 2 Quiz]]
 ## Clues
-* [[Kings Exhibit#Rutherford Slab (Exhibit J)|Rutherford Slab (Exhibit J)]]
+* [[Garden Exhibit#Rutherford Slab (Exhibit J)|Rutherford Slab (Exhibit J)]]
+* Calendar Glyphs TODO
 ## Unwritten Rules
-* 
+* Set the year to when Pacal 
 ## Solution
 * TODO

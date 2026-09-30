@@ -13,12 +13,13 @@ tags:
 * [[Maya Temple Level 1 Quiz]]
 ## Unwritten Rules
 * If you get it wrong you have to try again from the beginning??
-* TODO: check this
+* For power, it is the number covered that is the value
+* Each successful ball toss will have the character back up slightly uphill
 ## Solution
 
-| Angle/Pitch | Height/Power |
-| ----------- | ------------ |
-| 4           | High         |
-| 3           | Medium       |
-| 5           | Mesium       |
-| 6           | Low          |
+| Power | Angle  |
+| ----- | ------ |
+| 4     | High   |
+| 3     | Medium |
+| 5     | Mesium |
+| 6     | Low    |

@@ -11,6 +11,7 @@ tags:
 * Solving the 3D maze unlocks the computer
 - Type ‘M’ on your keyboard to pull up a map
 - Maze different each time
+- Move forward and backward with up/down, turn with left/right
 ## Solution
 * Wander around the maze until you get to the green portal end
 ## See also

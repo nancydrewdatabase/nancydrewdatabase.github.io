@@ -9,4 +9,5 @@ tags:
 phone:
 ---
 ## Notes
-- The scribe
+- The scribe for [[King Pacal]]
+- Also known as "The Whisperer"

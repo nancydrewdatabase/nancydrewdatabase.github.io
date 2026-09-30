@@ -10,3 +10,4 @@ phone:
 ---
 ## Notes
 - He was the king of the Maya
+- Mentioned throughout the exhibits

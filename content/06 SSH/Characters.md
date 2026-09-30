@@ -22,16 +22,16 @@ tags:
 <!-- QueryToSerialize: TABLE WITHOUT ID file.link as character, phone from "content/06 SSH/Characters" where contains(tags, "phone") sort tags desc -->
 <!-- SerializedQuery: TABLE WITHOUT ID file.link as character, phone from "content/06 SSH/Characters" where contains(tags, "phone") sort tags desc -->
 
-| character                                                                 | phone          |
-| ------------------------------------------------------------------------- | -------------- |
-| [[Frank and Joe Hardy]] | \-             |
-| [[content/06 SSH/Characters/Bess and George.md\|Bess and George]]         | \-             |
-| [[Franklin Rose]]             | \-             |
-| [[Henry Daddle]]               | (605) 555-3195 |
-| [[Nurse Bluefoot]]           | \-             |
-| [[Poppy Dada]]                   | \-             |
-| [[Prudence Rutherford]] | \-             |
-| [[Sheila Schultz]]           | 1-505-555-1222 |
+| character                                                                 | phone            |
+| ------------------------------------------------------------------------- | ---------------- |
+| [[content/06 SSH/Characters/Bess and George.md\|Bess and George]]         | \-               |
+| [[Frank and Joe Hardy]] | \-               |
+| [[Franklin Rose]]             | \-               |
+| [[Nurse Bluefoot]]           | \-               |
+| [[Henry Daddle]]               | 1 (605) 555-3195 |
+| [[Poppy Dada]]                   | 1 (605) 555-3197 |
+| [[Prudence Rutherford]] | \-               |
+| [[Sheila Schultz]]           | 1-505-555-1222   |
 
 <!-- SerializedQuery END -->
 
@@ -44,7 +44,7 @@ tags:
 | ------------------------------------------------------- |
 | [[Amoxcalli]]   |
 | [[King Pacal]] |
-| [[Sonny Joon]] |
 | [[Togo]]             |
+| [[Sonny Joon]] |
 
 <!-- SerializedQuery END -->
